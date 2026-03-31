@@ -1,151 +1,116 @@
 {
   "id": "module-25",
-  "title": "Caperucita Roja - Part 1",
-  "description": "A classic fairy tale told in Spanish.",
-  "level": "Intermediate",
+  "title": "Le Petit Chaperon Rouge - Partie 1",
+  "description": "Un conte de fées classique raconté en français.",
+  "level": "Intermédiaire",
   "sentences": [
     {
       "id": "m25-s1",
-      "spanish": "Había una vez una niña que vivía en un bosque.",
-      "english": "Once upon a time there was a girl who lived in a forest.",
+      "french": "Il était une fois une petite fille qui vivait dans une forêt.",
+      "english": "Once upon a time there was a little girl who lived in a forest.",
       "wordMeanings": {
-        "Había": "there was",
-        "vez": "time",
-        "niña": "girl",
-        "vivía": "lived",
-        "bosque": "forest"
+        "Il était une fois": "once upon a time",
+        "vivait": "lived (imparfait)",
+        "forêt": "forest"
       }
     },
     {
       "id": "m25-s2",
-      "spanish": "Todo el mundo la llamaba Caperucita Roja.",
+      "french": "Tout le monde l'appelait le Petit Chaperon Rouge.",
       "english": "Everyone called her Little Red Riding Hood.",
       "wordMeanings": {
-        "Todo el mundo": "everyone",
-        "llamaba": "called",
-        "Roja": "red"
+        "l'appelait": "called her",
+        "Petit Chaperon Rouge": "Little Red Riding Hood"
       }
     },
     {
       "id": "m25-s3",
-      "spanish": "Un día, su madre le pidió que visitara a su abuela enferma.",
+      "french": "Un jour, sa mère lui demanda de rendre visite à sa grand-mère malade.",
       "english": "One day, her mother asked her to visit her sick grandmother.",
       "wordMeanings": {
-        "madre": "mother",
-        "pidió": "asked",
-        "visitara": "to visit (subjunctive)",
-        "abuela": "grandmother",
-        "enferma": "sick"
+        "demanda": "asked (passé simple/composé substitute)",
+        "grand-mère": "grandmother",
+        "malade": "sick"
       }
     },
     {
       "id": "m25-s4",
-      "spanish": "\"No te apartes del camino,\" le advirtió su madre.",
-      "english": "\"Don't stray from the path,\" her mother warned her.",
+      "french": "\"Ne t'éloigne pas du chemin,\" lui conseilla sa mère.",
+      "english": "\"Don't wander off the path,\" her mother advised her.",
       "wordMeanings": {
-        "apartes": "stray (subjunctive)",
-        "camino": "path",
-        "advirtió": "warned"
+        "t'éloigne": "wander off / stray",
+        "chemin": "path",
+        "conseilla": "advised"
       }
     },
     {
       "id": "m25-s5",
-      "spanish": "Caperucita prometió ser obediente y se fue.",
-      "english": "Caperucita promised to be obedient and left.",
+      "french": "Le Chaperon Rouge promit d'être sage et partit.",
+      "english": "Red Riding Hood promised to be good and left.",
       "wordMeanings": {
-        "prometió": "promised",
-        "obediente": "obedient",
-        "se fue": "left"
+        "promit": "promised",
+        "sage": "good / wise",
+        "partit": "left"
       }
     },
     {
       "id": "m25-s6",
-      "spanish": "En el camino, se encontró con un lobo astuto.",
+      "french": "En chemin, elle rencontra un loup rusé.",
       "english": "On the way, she met a cunning wolf.",
       "wordMeanings": {
-        "encontró": "met/found",
-        "lobo": "wolf",
-        "astuto": "cunning"
+        "rencontra": "met",
+        "loup": "wolf",
+        "rusé": "cunning"
       }
     },
     {
       "id": "m25-s7",
-      "spanish": "El lobo le preguntó a dónde iba con tanta prisa.",
-      "english": "The wolf asked her where she was going in such a hurry.",
-      "wordMeanings": {
-        "preguntó": "asked",
-        "iba": "was going",
-        "prisa": "hurry"
-      }
+      "french": "Le loup lui demanda où elle allait si vite.",
+      "english": "The wolf asked her where she was going so fast.",
+      "wordMeanings": {}
     },
     {
       "id": "m25-s8",
-      "spanish": "Ella respondió que iba a casa de su abuelita.",
-      "english": "She replied that she was going to her grandmother's house.",
+      "french": "Elle répondit qu'elle allait chez sa grand-mère.",
+      "english": "She answered that she was going to her grandmother's place.",
       "wordMeanings": {
-        "respondió": "replied",
-        "casa": "house",
-        "abuelita": "little grandmother"
+        "répondit": "answered",
+        "chez": "at the place of"
       }
     },
     {
       "id": "m25-s9",
-      "spanish": "El lobo decidió llegar allí antes que ella.",
+      "french": "Le loup décida d'y arriver avant elle.",
       "english": "The wolf decided to get there before her.",
       "wordMeanings": {
-        "decidió": "decided",
-        "llegar": "to arrive",
-        "antes": "before"
+        "décida": "decided",
+        "arriver": "to arrive",
+        "avant": "before"
       }
     },
     {
       "id": "m25-s10",
-      "spanish": "Caperucita se detuvo a recoger algunas flores silvestres.",
-      "english": "Caperucita stopped to pick some wild flowers.",
+      "french": "Le Chaperon Rouge s'arrêta pour cueillir des fleurs.",
+      "english": "Red Riding Hood stopped to pick some flowers.",
       "wordMeanings": {
-        "detuvo": "stopped",
-        "recoger": "to pick up",
-        "flores": "flowers",
-        "silvestres": "wild"
+        "s'arrêta": "stopped",
+        "cueillir": "to pick (flowers)",
+        "fleurs": "flowers"
       }
     }
   ],
   "vocabulary": {
-    "había": {
-      "mnemonic": "'Have-ee-a' — there was.",
-      "explanation": "Imperfect of 'haber'."
+    "loup": {
+      "mnemonic": "Think 'loop' — the wolf runs in loops around you.",
+      "explanation": "Masculine noun for wolf."
     },
-    "vez": {
-      "mnemonic": "Think 'vice/turn' — time/instance.",
-      "explanation": "'Una vez' = once. 'A veces' = sometimes."
+    "rusé": {
+      "mnemonic": "Like a ruse.",
+      "explanation": "Adjective for cunning/sly."
     },
-    "vivía": {
-      "mnemonic": "'Vivid-ee-a, I used to live.'",
-      "explanation": "Imperfect first person of 'vivir'."
-    },
-    "bosque": {
-      "mnemonic": "Think 'bosky' (woody) — forest.",
-      "explanation": "Means 'forest/woods'."
-    },
-    "abuela": {
-      "mnemonic": "'A-buela' — grandmother!",
-      "explanation": "Means 'grandmother'."
-    },
-    "camino": {
-      "mnemonic": "'El Camino' — the road/path.",
-      "explanation": "Means 'path/road/way'."
-    },
-    "lobo": {
-      "mnemonic": "Think 'lobe' — the wolf has big ears!",
-      "explanation": "Means 'wolf'."
-    },
-    "casa": {
-      "mnemonic": "Think 'casino' — a big house of games.",
-      "explanation": "Feminine noun. 'En casa' = at home."
-    },
-    "antes": {
-      "mnemonic": "Think 'ante' (before in poker).",
-      "explanation": "Means 'before'."
+    "chemin": {
+      "mnemonic": "Think 'chimney' — a path up for smoke.",
+      "explanation": "Masculine noun for path/way."
     }
   }
 }

@@ -6,7 +6,7 @@ export const DEFAULT_SETTINGS = {
   challengeInterval: 5,   // sentences between challenges (0 = off)
   speechRate: 0.85,        // TTS speed
   autoPlayAudio: true,     // auto-play on new sentence
-  autoRevealSpanish: false, // skip the reveal step
+  autoRevealFrench: false, // skip the reveal step
 };
 
 const loadSettings = () => {

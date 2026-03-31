@@ -75,12 +75,12 @@ const buildTestingItems = (sentences) =>
     batchEnd: index,
   }));
 
-/** Speak a Spanish word/phrase */
-const speakSpanish = (text, rate = 0.85) => {
+/** Speak a French word/phrase */
+const speakFrench = (text, rate = 0.85) => {
   if (!text) return;
   window.speechSynthesis.cancel();
   const u = new SpeechSynthesisUtterance(text);
-  u.lang = 'es-ES';
+  u.lang = 'fr-FR';
   u.rate = rate;
   window.speechSynthesis.speak(u);
 };
@@ -129,7 +129,7 @@ const LessonPlayer = ({
   }, [savedSentenceCount, initialMergedItems, isPureTestingMode]);
 
   const [currentIndex, setCurrentIndex] = useState(resumeIndex);
-  const [spanishRevealed, setSpanishRevealed] = useState(() => !!settings?.autoRevealSpanish);
+  const [frenchRevealed, setFrenchRevealed] = useState(() => !!settings?.autoRevealFrench);
   const [englishRevealed, setEnglishRevealed] = useState(false);
   const [activeWordIndex, setActiveWordIndex] = useState(null);
   const [challengeAnswerRevealed, setChallengeAnswerRevealed] = useState(false);
@@ -152,11 +152,11 @@ const LessonPlayer = ({
   }, [showResumeToast]);
 
   const resetRevealState = useCallback(() => {
-    setSpanishRevealed(!!settings?.autoRevealSpanish);
+    setFrenchRevealed(!!settings?.autoRevealFrench);
     setEnglishRevealed(false);
     setActiveWordIndex(null);
     setChallengeAnswerRevealed(false);
-  }, [settings?.autoRevealSpanish]);
+  }, [settings?.autoRevealFrench]);
 
   useEffect(() => {
     const checkDesktop = () => {
@@ -204,17 +204,17 @@ const LessonPlayer = ({
   }, [isFinished, hasAssessed]);
 
   useEffect(() => {
-    if (autoPlay && !showGrammarIntro && !isChallenge && sentence?.spanish) {
-      speakSpanish(sentence.spanish, speechRate);
+    if (autoPlay && !showGrammarIntro && !isChallenge && sentence?.french) {
+      speakFrench(sentence.french, speechRate);
     }
   }, [autoPlay, isChallenge, sentence, showGrammarIntro, speechRate]);
 
   const playAudio = useCallback(() => {
     if (isChallenge) {
-      if (currentItem?.data?.spanish) speakSpanish(currentItem.data.spanish, speechRate);
+      if (currentItem?.data?.french) speakFrench(currentItem.data.french, speechRate);
       return;
     }
-    if (sentence?.spanish) speakSpanish(sentence.spanish, speechRate);
+    if (sentence?.french) speakFrench(sentence.french, speechRate);
   }, [currentItem, isChallenge, sentence, speechRate]);
 
   const handleNext = useCallback(() => {
@@ -311,7 +311,7 @@ const LessonPlayer = ({
         event.preventDefault();
         playAudio();
       }
-      if (key === 's') setSpanishRevealed(true);
+      if (key === 's') setFrenchRevealed(true);
       if (key === 'e' || key === 't') setEnglishRevealed(true);
       if (key === 'm' || key === 'l') handleMarkForLater();
       if (key === 'enter' || key === 'arrowright') handleNext();
@@ -447,7 +447,7 @@ const LessonPlayer = ({
               <table className="vocab-table">
                 <thead>
                   <tr>
-                    <th>Spanish</th>
+                    <th>French</th>
                     <th>Meaning</th>
                     <th>Memory Aid</th>
                   </tr>
@@ -457,7 +457,7 @@ const LessonPlayer = ({
                     <tr key={word}>
                       <td
                         className="vocab-word"
-                        onClick={() => speakSpanish(word, speechRate)}
+                        onClick={() => speakFrench(word, speechRate)}
                         title={`Play "${word}"`}
                       >
                         {word}
@@ -524,7 +524,7 @@ const LessonPlayer = ({
           </div>
 
           <div className="challenge-prompt">
-            <p className="challenge-instruction">Translate this sentence into Spanish:</p>
+            <p className="challenge-instruction">Translate this sentence into French:</p>
             <p className="challenge-english">{challengeSentence.english}</p>
           </div>
 
@@ -534,17 +534,17 @@ const LessonPlayer = ({
                 className="btn-primary btn-reveal-answer pulse-primary"
                 onClick={() => {
                   setChallengeAnswerRevealed(true);
-                  speakSpanish(challengeSentence.spanish, speechRate);
+                  speakFrench(challengeSentence.french, speechRate);
                 }}
               >
                 Reveal Answer <KbdHint show={isDesktop}>Space</KbdHint>
               </button>
             ) : (
               <div className="challenge-answer animate-fade-in">
-                <p className="challenge-spanish">{challengeSentence.spanish}</p>
+                <p className="challenge-french">{challengeSentence.french}</p>
                 <button
                   className="btn-play-answer"
-                  onClick={() => speakSpanish(challengeSentence.spanish, speechRate)}
+                  onClick={() => speakFrench(challengeSentence.french, speechRate)}
                   title="Listen to the answer"
                 >
                   <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
@@ -573,7 +573,7 @@ const LessonPlayer = ({
     );
   }
 
-  const words = sentence.spanish.split(' ');
+  const words = sentence.french.split(' ');
   const progressPercentage = (progressItemsSoFar / totalSentences) * 100;
 
   return (
@@ -607,7 +607,7 @@ const LessonPlayer = ({
         )}
 
         <div className="audio-section">
-          <button className="btn-play pulse-primary" onClick={playAudio} title="Listen to Spanish">
+          <button className="btn-play pulse-primary" onClick={playAudio} title="Listen to French">
             <svg width="40" height="40" viewBox="0 0 24 24" fill="currentColor">
               <path d="M8 5v14l11-7z" />
             </svg>
@@ -615,25 +615,25 @@ const LessonPlayer = ({
           </button>
         </div>
 
-        <div className="spanish-area">
-          {!spanishRevealed ? (
-            <button className="btn-reveal" onClick={() => setSpanishRevealed(true)}>
-              Reveal Spanish text <KbdHint show={isDesktop}>S</KbdHint>
+        <div className="french-area">
+          {!frenchRevealed ? (
+            <button className="btn-reveal" onClick={() => setFrenchRevealed(true)}>
+              Reveal French text <KbdHint show={isDesktop}>S</KbdHint>
             </button>
           ) : (
-            <div className="spanish-sentence animate-fade-in">
+            <div className="french-sentence animate-fade-in">
               {words.map((word, idx) => {
                 const meaning = getMeaning(word);
                 const isActive = activeWordIndex === idx;
                 return (
                   <div key={idx} className="word-container">
                     <span
-                      className={`spanish-word ${meaning ? 'has-meaning' : ''} ${isActive ? 'active' : ''}`}
+                      className={`french-word ${meaning ? 'has-meaning' : ''} ${isActive ? 'active' : ''}`}
                       onClick={(e) => {
                         if (meaning) {
                           e.stopPropagation();
                           setActiveWordIndex(isActive ? null : idx);
-                          speakSpanish(cleanWord(word), speechRate);
+                          speakFrench(cleanWord(word), speechRate);
                         }
                       }}
                     >

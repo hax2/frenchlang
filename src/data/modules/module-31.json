@@ -1,154 +1,84 @@
 {
   "id": "module-31",
-  "title": "Theme: Food and Dining",
-  "description": "Vocabulary for restaurants, cooking, and food.",
-  "level": "Intermediate",
+  "title": "Thème : Gastronomie et Restaurant",
+  "description": "Vocabulaire pour les restaurants, la cuisine et la nourriture.",
+  "level": "Intermédiaire",
   "sentences": [
     {
       "id": "m31-s1",
-      "spanish": "Quisiera reservar una mesa para dos personas para esta noche.",
-      "english": "I would like to reserve a table for two people for tonight.",
+      "french": "Une table pour deux personnes, s'il vous plaît.",
+      "english": "A table for two people, please.",
       "wordMeanings": {
-        "quisiera": "I would like",
-        "reservar": "to reserve",
-        "mesa": "table",
-        "noche": "night"
+        "table": "table",
+        "personnes": "people"
       }
     },
     {
       "id": "m31-s2",
-      "spanish": "¿Podría ver el menú de vinos, por favor?",
-      "english": "Could I see the wine menu, please?",
+      "french": "Puis-je voir la carte ?",
+      "english": "May I see the menu / the card?",
       "wordMeanings": {
-        "podría": "could I",
-        "ver": "see",
-        "menú": "menu",
-        "vinos": "wines"
+        "voir": "see",
+        "carte": "menu / card"
       }
     },
     {
       "id": "m31-s3",
-      "spanish": "El plato del día es pescado fresco con verduras al vapor.",
-      "english": "The dish of the day is fresh fish with steamed vegetables.",
+      "french": "Je voudrais un verre de vin rouge.",
+      "english": "I would like a glass of red wine.",
       "wordMeanings": {
-        "plato": "dish",
-        "pescado": "fish",
-        "fresco": "fresh",
-        "verduras": "vegetables"
+        "verre": "glass",
+        "vin": "wine",
+        "rouge": "red"
       }
     },
     {
       "id": "m31-s4",
-      "spanish": "Soy alérgico a los nueces, ¿este postre lleva frutos secos?",
-      "english": "I am allergic to nuts, does this dessert contain dried fruits/nuts?",
+      "french": "Quel est le plat du jour ?",
+      "english": "What is the dish of the day?",
       "wordMeanings": {
-        "alérgico": "allergic",
-        "nueces": "walnuts/nuts",
-        "postre": "dessert",
-        "lleva": "contains/carries"
+        "plat": "dish",
+        "jour": "day"
       }
     },
     {
       "id": "m31-s5",
-      "spanish": "Para empezar, vamos a compartir una ensalada mixta.",
-      "english": "To start, we are going to share a mixed salad.",
+      "french": "L'addition, s'il vous plaît.",
+      "english": "The bill, please.",
       "wordMeanings": {
-        "empezar": "to start",
-        "compartir": "to share",
-        "ensalada": "salad",
-        "mixta": "mixed"
+        "addition": "bill"
       }
     },
     {
       "id": "m31-s6",
-      "spanish": "La sopa está un poco salada para mi gusto.",
-      "english": "The soup is a little salty for my taste.",
+      "french": "Ce plat est délicieux !",
+      "english": "This dish is delicious!",
       "wordMeanings": {
-        "sopa": "soup",
-        "salada": "salty",
-        "gusto": "taste"
+        "délicieux": "delicious"
       }
     },
     {
       "id": "m31-s7",
-      "spanish": "¿Nos puede traer la cuenta cuando pueda?",
-      "english": "Can you bring us the bill when you can?",
+      "french": "Je suis allergique aux noix.",
+      "english": "I am allergic to nuts.",
       "wordMeanings": {
-        "traer": "to bring",
-        "cuenta": "bill/check",
-        "pueda": "can (subjunctive)"
-      }
-    },
-    {
-      "id": "m31-s8",
-      "spanish": "Me encanta cocinar comida italiana los fines de semana.",
-      "english": "I love cooking Italian food on the weekends.",
-      "wordMeanings": {
-        "encanta": "love/enchant",
-        "cocinar": "to cook",
-        "fines de semana": "weekends"
-      }
-    },
-    {
-      "id": "m31-s9",
-      "spanish": "Necesitamos comprar más aceite de oliva y ajo.",
-      "english": "We need to buy more olive oil and garlic.",
-      "wordMeanings": {
-        "comprar": "to buy",
-        "aceite": "oil",
-        "ajo": "garlic"
-      }
-    },
-    {
-      "id": "m31-s10",
-      "spanish": "¡Buen provecho!",
-      "english": "Enjoy your meal!",
-      "wordMeanings": {
-        "buen": "good",
-        "provecho": "benefit/profit (meal)"
+        "allergique": "allergic",
+        "noix": "nuts"
       }
     }
   ],
   "vocabulary": {
-    "mesa": {
-      "mnemonic": "A 'mesa' (flat-topped hill) — flat like a table.",
-      "explanation": "Means 'table'. Feminine noun."
+    "addition": {
+      "mnemonic": "Think 'addition' — the final sum.",
+      "explanation": "Feminine noun for the bill at a restaurant."
     },
-    "noche": {
-      "mnemonic": "Think 'nocturnal' — night.",
-      "explanation": "Feminine noun."
+    "plat": {
+      "mnemonic": "Think 'plate'.",
+      "explanation": "Masculine noun for a dish."
     },
-    "podría": {
-      "mnemonic": "'Pod of possibility' — I could.",
-      "explanation": "Conditional of 'poder'."
-    },
-    "plato": {
-      "mnemonic": "'Plate-o' — a plate/dish.",
-      "explanation": "Means 'plate/dish/course'."
-    },
-    "postre": {
-      "mnemonic": "'Post-re' = after meal = dessert.",
-      "explanation": "From Latin 'post' (after)."
-    },
-    "lleva": {
-      "mnemonic": "'Lever-a' — he/she has been...",
-      "explanation": "Third person of 'llevar'."
-    },
-    "cuenta": {
-      "mnemonic": "Think 'count' — bill/account.",
-      "explanation": "From 'contar' (to count)."
-    },
-    "encanta": {
-      "mnemonic": "Think 'enchant' — it enchants me!",
-      "explanation": "'Me encanta' = I love it."
-    },
-    "cocinar": {
-      "mnemonic": "Think 'cuisine' — to cook!",
-      "explanation": "Infinitive: 'to cook'."
-    },
-    "comprar": {
-      "mnemonic": "'Compare & purchase' — to buy.",
-      "explanation": "Infinitive. -AR verb."
+    "carte": {
+      "mnemonic": "Think 'map' or 'card'.",
+      "explanation": "Feminine noun for menu."
     }
   }
 }

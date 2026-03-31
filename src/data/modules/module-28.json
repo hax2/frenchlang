@@ -1,150 +1,64 @@
 {
   "id": "module-28",
-  "title": "Grammar: The Past Subjunctive",
-  "description": "Practice the imperfect subjunctive for hypothetical situations.",
-  "level": "Intermediate",
+  "title": "Grammaire : Le Subjonctif Passé",
+  "description": "Pratiquer le subjonctif passé pour des actions antérieures au souhait.",
+  "level": "Intermédiaire",
   "sentences": [
     {
       "id": "m28-s1",
-      "spanish": "Si yo fuera rico, viajaría por todo el mundo.",
-      "english": "If I were rich, I would travel all over the world.",
+      "french": "Je suis ravi que tu sois venu.",
+      "english": "I am delighted that you (informal) came.",
       "wordMeanings": {
-        "fuera": "were (subjunctive)",
-        "rico": "rich",
-        "viajaría": "would travel",
-        "mundo": "world"
+        "ravi": "delighted",
+        "sois venu": "have come (subjunctive past)"
       }
     },
     {
       "id": "m28-s2",
-      "spanish": "Me gustaría que ellos vinieran a la fiesta.",
-      "english": "I would like them to come to the party.",
+      "french": "Il est dommage qu'ils ne soient pas restés.",
+      "english": "It is a pity that they didn't stay.",
       "wordMeanings": {
-        "gustaría": "would like",
-        "vinieran": "came (subjunctive)",
-        "fiesta": "party"
+        "dommage": "pity",
+        "soient restés": "have stayed (subjunctive past)"
       }
     },
     {
       "id": "m28-s3",
-      "spanish": "El profesor pidió que hiciéramos la tarea.",
-      "english": "The teacher asked us to do the homework.",
+      "french": "Je regrette que nous n'ayons pas fini.",
+      "english": "I regret that we didn't finish.",
       "wordMeanings": {
-        "profesor": "teacher",
-        "pidió": "asked",
-        "hiciéramos": "we did (subjunctive)",
-        "tarea": "homework"
+        "regrette": "regret",
+        "ayons fini": "have finished (subjunctive past)"
       }
     },
     {
       "id": "m28-s4",
-      "spanish": "Si tuviera más tiempo, aprendería otro idioma.",
-      "english": "If I had more time, I would learn another language.",
+      "french": "Elle est contente que vous ayez aimé le cadeau.",
+      "english": "She is happy that you (plural/formal) liked the gift.",
       "wordMeanings": {
-        "tuviera": "had (subjunctive)",
-        "tiempo": "time",
-        "aprendería": "would learn",
-        "idioma": "language"
+        "contente": "happy / content",
+        "ayez aimé": "have liked (subjunctive past)",
+        "cadeau": "gift"
       }
     },
     {
       "id": "m28-s5",
-      "spanish": "Fue una lástima que no pudieras asistir a la boda.",
-      "english": "It was a shame that you couldn't attend the wedding.",
+      "french": "Il faut que j'aie terminé avant midi.",
+      "english": "I must have finished before noon.",
       "wordMeanings": {
-        "lástima": "shame",
-        "pudieras": "could (subjunctive)",
-        "asistir": "attend",
-        "boda": "wedding"
-      }
-    },
-    {
-      "id": "m28-s6",
-      "spanish": "Buscaba un coche que no costara tanto dinero.",
-      "english": "I was looking for a car that didn't cost so much money.",
-      "wordMeanings": {
-        "buscaba": "was looking for",
-        "coche": "car",
-        "costara": "cost (subjunctive)",
-        "dinero": "money"
-      }
-    },
-    {
-      "id": "m28-s7",
-      "spanish": "Si supieras la verdad, no estarías tan tranquilo.",
-      "english": "If you knew the truth, you wouldn't be so calm.",
-      "wordMeanings": {
-        "supieras": "knew (subjunctive)",
-        "verdad": "truth",
-        "tranquilo": "calm"
-      }
-    },
-    {
-      "id": "m28-s8",
-      "spanish": "Dudaba que ella hablara en serio sobre mudarse.",
-      "english": "I doubted that she was serious about moving.",
-      "wordMeanings": {
-        "dudaba": "doubted",
-        "hablara": "spoke (subjunctive)",
-        "serio": "serious",
-        "mudarse": "moving"
-      }
-    },
-    {
-      "id": "m28-s9",
-      "spanish": "Sugerí que saliéramos a caminar por el parque.",
-      "english": "I suggested that we go out for a walk in the park.",
-      "wordMeanings": {
-        "sugerí": "suggested",
-        "saliéramos": "we left/went out (subjunctive)",
-        "caminar": "walk",
-        "parque": "park"
-      }
-    },
-    {
-      "id": "m28-s10",
-      "spanish": "Ojalá lloviera café en el campo.",
-      "english": "I wish it would rain coffee in the countryside.",
-      "wordMeanings": {
-        "ojalá": "I wish/hope",
-        "lloviera": "rained (subjunctive)",
-        "café": "coffee",
-        "campo": "countryside"
+        "aie terminé": "have finished (subjunctive past)",
+        "midi": "noon"
       }
     }
   ],
   "vocabulary": {
-    "fuera": {
-      "mnemonic": "Think 'fury' — the fury is outside!",
-      "explanation": "'Fuera de' = outside of."
+    "subjonctif passé": {
+      "mnemonic": "Subjunctive + Passé Composé.",
+      "explanation": "Formed with the subjunctive of 'avoir' or 'être' + past participle."
     },
-    "mundo": {
-      "mnemonic": "Think 'mundane world'.",
-      "explanation": "Means 'world'."
-    },
-    "fiesta": {
-      "mnemonic": "Already English for party!",
-      "explanation": "Means 'party/celebration'."
-    },
-    "tiempo": {
-      "mnemonic": "Think 'tempo' — time and rhythm.",
-      "explanation": "Means 'time' or 'weather'."
-    },
-    "coche": {
-      "mnemonic": "Think 'coach' — a horse-drawn coach = car.",
-      "explanation": "Means 'car'. Mainly used in Spain."
-    },
-    "dinero": {
-      "mnemonic": "'Diner-o' — you need dinero at the diner.",
-      "explanation": "Means 'money'."
-    },
-    "parque": {
-      "mnemonic": "Almost 'park' with an 'e' — easy cognate!",
-      "explanation": "Masculine noun meaning park."
-    },
-    "café": {
-      "mnemonic": "Same as English 'café' — coffee!",
-      "explanation": "Means 'coffee' or 'café'."
+    "ravi": {
+      "mnemonic": "Think 'ravished' with joy.",
+      "explanation": "Adjective for delighted/very happy."
     }
   }
 }

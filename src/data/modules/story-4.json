@@ -1,199 +1,105 @@
 {
   "id": "story-4",
+  "title": "📖 Histoire : Le téléphone perdu",
+  "description": "Une histoire mystérieuse utilisant les pronoms, le passé composé et pour vs par.",
   "type": "story",
-  "title": "📖 Story: The Missing Phone",
-  "description": "A mystery story using object pronouns, the present perfect, and por vs para.",
-  "level": "Intermediate",
-  "storyIntro": "You've now learned the present perfect tense, direct and indirect object pronouns, double object pronouns, and 'por vs para'.\n\nLet's solve a little mystery together — who took Luis's phone? Pay attention to how pronouns replace nouns to keep the story flowing!",
+  "storyIntro": "Marc a perdu son téléphone hier. Il le cherche partout.",
   "sentences": [
     {
       "id": "s4-s1",
-      "spanish": "Luis ha perdido su teléfono.",
-      "english": "Luis has lost his phone.",
+      "french": "Marc a perdu son téléphone hier.",
+      "english": "Marc lost his phone yesterday.",
       "wordMeanings": {
-        "Luis": "Luis",
-        "ha perdido": "has lost (present perfect)",
-        "su": "his",
-        "teléfono": "phone"
+        "perdu": "lost",
+        "hier": "yesterday"
       }
     },
     {
       "id": "s4-s2",
-      "spanish": "No lo encuentra por ningún lado.",
-      "english": "He can't find it anywhere.",
+      "french": "Il l'a cherché partout.",
+      "english": "He looked for it everywhere.",
       "wordMeanings": {
-        "No": "not",
-        "lo": "it (direct object pronoun)",
-        "encuentra": "finds",
-        "por": "around / by",
-        "ningún": "no / any",
-        "lado": "side / place"
+        "l'": "it (the phone)",
+        "cherché": "looked for",
+        "partout": "everywhere"
       }
     },
     {
       "id": "s4-s3",
-      "spanish": "Le pregunta a Ana: \"¿Has visto mi teléfono?\"",
-      "english": "He asks Ana: \"Have you seen my phone?\"",
+      "french": "Il a demandé à Marie : \"Le vois-tu ?\"",
+      "english": "He asked Marie: \"Do you see it?\"",
       "wordMeanings": {
-        "Le": "to her (indirect object)",
-        "pregunta": "asks",
-        "a": "to",
-        "Ana": "Ana",
-        "Has visto": "have you seen (present perfect)",
-        "mi": "my",
-        "teléfono": "phone"
+        "demandé": "asked",
+        "Le": "it"
       }
     },
     {
       "id": "s4-s4",
-      "spanish": "Ana le contesta: \"No, no lo he visto.\"",
-      "english": "Ana answers him: \"No, I haven't seen it.\"",
+      "french": "Elle lui a répondu : \"Non, je ne le vois pas.\"",
+      "english": "She answered him: \"No, I don't see it.\"",
       "wordMeanings": {
-        "Ana": "Ana",
-        "le": "to him (indirect object)",
-        "contesta": "answers",
-        "No": "no",
-        "no": "not",
-        "lo": "it (direct object)",
-        "he visto": "I have seen (present perfect)"
+        "lui": "him / to him",
+        "ne...pas": "not"
       }
     },
     {
       "id": "s4-s5",
-      "spanish": "Luis lo busca por toda la casa.",
-      "english": "Luis looks for it all over the house.",
+      "french": "Marc l'a cherché pour une heure.",
+      "english": "Marc looked for it for an hour.",
       "wordMeanings": {
-        "Luis": "Luis",
-        "lo": "it (direct object)",
-        "busca": "looks for",
-        "por": "throughout (por = through/around)",
-        "toda": "all",
-        "la": "the",
-        "casa": "house"
+        "pour": "for",
+        "heure": "hour"
       }
     },
     {
       "id": "s4-s6",
-      "spanish": "Lo busca en la cocina. No está allí.",
-      "english": "He looks for it in the kitchen. It's not there.",
+      "french": "Soudain, il l'a trouvé sur la table.",
+      "english": "Suddenly, he found it on the table.",
       "wordMeanings": {
-        "Lo": "it (direct object)",
-        "busca": "looks for",
-        "en": "in",
-        "la": "the",
-        "cocina": "kitchen",
-        "No": "not",
-        "está": "it is",
-        "allí": "there"
+        "trouvé": "found",
+        "sur": "on"
       }
     },
     {
       "id": "s4-s7",
-      "spanish": "Le pide a Marta que lo llame.",
-      "english": "He asks Marta to call it.",
+      "french": "Il a été surpris par Marie.",
+      "english": "He was surprised by Marie.",
       "wordMeanings": {
-        "Le": "to her (indirect object)",
-        "pide": "asks (requests)",
-        "a": "to",
-        "Marta": "Marta",
-        "que": "that / to",
-        "lo": "it (direct object)",
-        "llame": "call (subjunctive)"
+        "surpris": "surprised",
+        "par": "by"
       }
     },
     {
       "id": "s4-s8",
-      "spanish": "Marta lo llama. ¡Suena en el sofá!",
-      "english": "Marta calls it. It rings on the sofa!",
+      "french": "Elle l'a caché pour rire.",
+      "english": "She hid it for a laugh.",
       "wordMeanings": {
-        "Marta": "Marta",
-        "lo": "it (direct object)",
-        "llama": "calls",
-        "Suena": "it rings",
-        "en": "on",
-        "el": "the",
-        "sofá": "sofa"
+        "caché": "hidden",
+        "rire": "to laugh"
       }
     },
     {
       "id": "s4-s9",
-      "spanish": "El gato estaba sentado encima del teléfono.",
-      "english": "The cat was sitting on top of the phone.",
+      "french": "Marc l'a remerciée avec un sourire.",
+      "english": "Marc thanked her with a smile.",
       "wordMeanings": {
-        "El": "the",
-        "gato": "cat",
-        "estaba": "was (imperfect)",
-        "sentado": "sitting",
-        "encima": "on top",
-        "del": "of the",
-        "teléfono": "phone"
-      }
-    },
-    {
-      "id": "s4-s10",
-      "spanish": "Luis lo toma y le da las gracias a Marta.",
-      "english": "Luis takes it and thanks Marta.",
-      "wordMeanings": {
-        "Luis": "Luis",
-        "lo": "it (direct object)",
-        "toma": "takes",
-        "y": "and",
-        "le": "to her (indirect object)",
-        "da": "gives",
-        "las": "the",
-        "gracias": "thanks",
-        "a": "to",
-        "Marta": "Marta"
-      }
-    },
-    {
-      "id": "s4-s11",
-      "spanish": "\"Gracias por tu ayuda. He encontrado el teléfono.\"",
-      "english": "\"Thanks for your help. I have found the phone.\"",
-      "wordMeanings": {
-        "Gracias": "thanks",
-        "por": "for (por = reason/gratitude)",
-        "tu": "your",
-        "ayuda": "help",
-        "He encontrado": "I have found (present perfect)",
-        "el": "the",
-        "teléfono": "phone"
-      }
-    },
-    {
-      "id": "s4-s12",
-      "spanish": "\"Para la próxima vez, no lo dejes en el sofá.\"",
-      "english": "\"For next time, don't leave it on the sofa.\"",
-      "wordMeanings": {
-        "Para": "for (para = purpose/goal)",
-        "la": "the",
-        "próxima": "next",
-        "vez": "time",
-        "no": "not",
-        "lo": "it (direct object)",
-        "dejes": "leave (subjunctive)",
-        "en": "on",
-        "el": "the",
-        "sofá": "sofa"
+        "remerciée": "thanked (her)",
+        "sourire": "smile"
       }
     }
   ],
   "vocabulary": {
-    "teléfono": {
-      "mnemonic": "Think 'telephone' — exact cognate!",
-      "explanation": "Means 'phone' or 'telephone'."
+    "perdre": {
+      "mnemonic": "Think 'perdition'.",
+      "explanation": "To lose."
     },
-    "cocina": {
-      "mnemonic": "Think 'cuisine' comes from cooking in the kitchen.",
-      "explanation": "Means 'kitchen'. Also 'cuisine/cooking'."
+    "chercher": {
+      "mnemonic": "Sounds like 'search'.",
+      "explanation": "To look for."
     },
-    "sofá": {
-      "mnemonic": "Exactly like English 'sofa'!",
-      "explanation": "Means 'sofa/couch'."
-    },
-    "ayuda": {
-      "mnemonic": "Think 'a-yoo-da' — I need your aid!",
-      "explanation": "Means 'help'. From verb 'ayudar' (to help)."
+    "partout": {
+      "mnemonic": "Rhymes with 'par-too' — par-too everywhere.",
+      "explanation": "Adverb meaning 'everywhere'."
     }
   }
 }

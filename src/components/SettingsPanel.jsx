@@ -65,7 +65,7 @@ const SettingsPanel = ({ settings, onUpdate, onReset, onResetProgress, onBack })
             <div>
               <h3 className="setting-name">Speech Rate</h3>
               <p className="setting-desc">
-                How fast the Spanish audio is spoken.
+                How fast the French audio is spoken.
               </p>
             </div>
           </div>
@@ -91,7 +91,7 @@ const SettingsPanel = ({ settings, onUpdate, onReset, onResetProgress, onBack })
             <div>
               <h3 className="setting-name">Auto-Play Audio</h3>
               <p className="setting-desc">
-                Automatically play the Spanish audio when a new sentence appears.
+                Automatically play the French audio when a new sentence appears.
               </p>
             </div>
           </div>
@@ -111,27 +111,27 @@ const SettingsPanel = ({ settings, onUpdate, onReset, onResetProgress, onBack })
           </div>
         </div>
 
-        {/* Auto-Reveal Spanish */}
+        {/* Auto-Reveal French */}
         <div className="setting-card glass-panel">
           <div className="setting-info">
             <div className="setting-icon">👁️</div>
             <div>
-              <h3 className="setting-name">Auto-Reveal Spanish</h3>
+              <h3 className="setting-name">Auto-Reveal French</h3>
               <p className="setting-desc">
-                Show the Spanish text immediately instead of requiring a reveal step.
+                Show the French text immediately instead of requiring a reveal step.
               </p>
             </div>
           </div>
           <div className="setting-options">
             <button
-              className={`setting-option-btn ${settings.autoRevealSpanish ? 'active' : ''}`}
-              onClick={() => onUpdate('autoRevealSpanish', true)}
+              className={`setting-option-btn ${settings.autoRevealFrench ? 'active' : ''}`}
+              onClick={() => onUpdate('autoRevealFrench', true)}
             >
               On
             </button>
             <button
-              className={`setting-option-btn ${!settings.autoRevealSpanish ? 'active' : ''}`}
-              onClick={() => onUpdate('autoRevealSpanish', false)}
+              className={`setting-option-btn ${!settings.autoRevealFrench ? 'active' : ''}`}
+              onClick={() => onUpdate('autoRevealFrench', false)}
             >
               Off
             </button>

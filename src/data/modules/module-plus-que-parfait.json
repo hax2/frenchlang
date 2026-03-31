@@ -1,0 +1,60 @@
+{
+  "id": "module-plus-que-parfait",
+  "title": "Grammaire : Plus-que-parfait",
+  "description": "Parler d'actions qui s'étaient produites avant une autre action passée.",
+  "level": "Débutant",
+  "grammarExplanation": "The Plus-que-parfait is used to describe an action that happened before another past action.\n\nFormed with the Imparfait of the auxiliary (avoir or être) + the past participle.\n- J'avais mangé quand il est arrivé. (I had eaten when he arrived.)\n- Elle était déjà partie. (She had already left.)",
+  "sentences": [
+    {
+      "id": "pqp-s1",
+      "french": "J'avais mangé.",
+      "english": "I had eaten.",
+      "wordMeanings": {
+        "avais": "had (imparfait)",
+        "mangé": "eaten"
+      }
+    },
+    {
+      "id": "pqp-s2",
+      "french": "Tu avais fini.",
+      "english": "You (informal) had finished.",
+      "wordMeanings": {
+        "avais": "had",
+        "fini": "finished"
+      }
+    },
+    {
+      "id": "pqp-s3",
+      "french": "Il était parti.",
+      "english": "He had left / gone.",
+      "wordMeanings": {
+        "était": "had (imparfait for movement)",
+        "parti": "left"
+      }
+    },
+    {
+      "id": "pqp-s4",
+      "french": "Nous avions vu ce film.",
+      "english": "We had seen this movie.",
+      "wordMeanings": {
+        "avions": "had",
+        "vu": "seen"
+      }
+    },
+    {
+      "id": "pqp-s5",
+      "french": "Elle avait dit la vérité.",
+      "english": "She had told the truth.",
+      "wordMeanings": {
+        "dit": "told",
+        "vérité": "truth"
+      }
+    }
+  ],
+  "vocabulary": {
+    "plus-que-parfait": {
+      "mnemonic": "More than perfect — it's extra past!",
+      "explanation": "Past of the past."
+    }
+  }
+}

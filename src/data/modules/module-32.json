@@ -1,138 +1,81 @@
 {
   "id": "module-32",
-  "title": "Theme: Health and Medicine",
-  "description": "Vocabulary for doctor visits, symptoms, and pharmacy.",
-  "level": "Intermediate",
+  "title": "Thème : Santé et Médecine",
+  "description": "Vocabulaire pour les visites chez le médecin, les symptômes et la pharmacie.",
+  "level": "Intermédiaire",
   "sentences": [
     {
       "id": "m32-s1",
-      "spanish": "Tengo una cita con el doctor a las tres de la tarde.",
-      "english": "I have an appointment with the doctor at three in the afternoon.",
+      "french": "Où est la pharmacie la plus proche ?",
+      "english": "Where is the nearest pharmacy?",
       "wordMeanings": {
-        "cita": "appointment",
-        "doctor": "doctor",
-        "tarde": "afternoon"
+        "pharmacie": "pharmacy",
+        "proche": "near / close"
       }
     },
     {
       "id": "m32-s2",
-      "spanish": "Me duele la cabeza y tengo fiebre alta.",
-      "english": "My head hurts and I have a high fever.",
+      "french": "J'ai mal à la tête.",
+      "english": "I have a headache.",
       "wordMeanings": {
-        "duele": "hurts",
-        "cabeza": "head",
-        "fiebre": "fever"
+        "mal": "pain / bad",
+        "tête": "head"
       }
     },
     {
       "id": "m32-s3",
-      "spanish": "Necesito comprar jarabe para la tos en la farmacia.",
-      "english": "I need to buy cough syrup at the pharmacy.",
+      "french": "Il a de la fièvre.",
+      "english": "He has a fever.",
       "wordMeanings": {
-        "jarabe": "syrup",
-        "tos": "cough",
-        "farmacia": "pharmacy"
+        "fièvre": "fever"
       }
     },
     {
       "id": "m32-s4",
-      "spanish": "El médico me recetó antibióticos para la infección.",
-      "english": "The doctor prescribed antibiotics for the infection.",
+      "french": "Je voudrais prendre un rendez-vous chez le médecin.",
+      "english": "I would like to make an appointment at the doctor's.",
       "wordMeanings": {
-        "médico": "physician/doctor",
-        "recetó": "prescribed",
-        "infección": "infection"
+        "médecin": "doctor",
+        "prendre": "to take / make"
       }
     },
     {
       "id": "m32-s5",
-      "spanish": "Es importante descansar y beber mucha agua.",
-      "english": "It is important to rest and drink plenty of water.",
+      "french": "Elle tousse beaucoup.",
+      "english": "She is coughing a lot.",
       "wordMeanings": {
-        "importante": "important",
-        "descansar": "to rest",
-        "beber": "to drink"
+        "tousse": "cough"
       }
     },
     {
       "id": "m32-s6",
-      "spanish": "Me torcí el tobillo jugando al fútbol ayer.",
-      "english": "I twisted my ankle playing soccer yesterday.",
+      "french": "Avez-vous une ordonnance ?",
+      "english": "Do you have a prescription?",
       "wordMeanings": {
-        "torcí": "twisted",
-        "tobillo": "ankle",
-        "ayer": "yesterday"
+        "ordonnance": "prescription"
       }
     },
     {
       "id": "m32-s7",
-      "spanish": "¿Es usted alérgico a algún medicamento?",
-      "english": "Are you allergic to any medication?",
+      "french": "Je suis fatigué et j'ai mal partout.",
+      "english": "I am tired and I ache everywhere.",
       "wordMeanings": {
-        "usted": "you (formal)",
-        "algún": "any",
-        "medicamento": "medication"
-      }
-    },
-    {
-      "id": "m32-s8",
-      "spanish": "La enfermera le tomará la presión arterial ahora.",
-      "english": "The nurse will take your blood pressure now.",
-      "wordMeanings": {
-        "enfermera": "nurse",
-        "presión arterial": "blood pressure",
-        "ahora": "now"
-      }
-    },
-    {
-      "id": "m32-s9",
-      "spanish": "Siento náuseas y mareos desde esta mañana.",
-      "english": "I feel nausea and dizziness since this morning.",
-      "wordMeanings": {
-        "siento": "feel",
-        "náuseas": "nausea",
-        "mareos": "dizziness"
-      }
-    },
-    {
-      "id": "m32-s10",
-      "spanish": "Cuídese mucho y mejórese pronto.",
-      "english": "Take good care of yourself and get better soon.",
-      "wordMeanings": {
-        "cuídese": "take care (formal)",
-        "mejórese": "get better (formal)",
-        "pronto": "soon"
+        "partout": "everywhere"
       }
     }
   ],
   "vocabulary": {
-    "tarde": {
-      "mnemonic": "Think 'tardy' — late!",
-      "explanation": "Means 'late' or 'afternoon'."
+    "mal": {
+      "mnemonic": "Think 'malady'.",
+      "explanation": "Masculine noun for pain or evil."
     },
-    "cabeza": {
-      "mnemonic": "'Head of the table' — head.",
-      "explanation": "Means 'head'."
+    "ordonnance": {
+      "mnemonic": "Think 'ordinance' or 'order' from a doctor.",
+      "explanation": "Feminine noun for prescription."
     },
-    "fiebre": {
-      "mnemonic": "Think 'fever' — fiebre!",
-      "explanation": "Cognate."
-    },
-    "farmacia": {
-      "mnemonic": "Think 'pharmacy' — cognate!",
-      "explanation": "Means 'pharmacy'."
-    },
-    "médico": {
-      "mnemonic": "Think 'medic' — doctor!",
-      "explanation": "Cognate."
-    },
-    "importante": {
-      "mnemonic": "Nearly identical to 'important' — cognate!",
-      "explanation": "Same for masc/fem."
-    },
-    "ayer": {
-      "mnemonic": "'A year ago? No, just yesterday!'",
-      "explanation": "Means 'yesterday'."
+    "médecin": {
+      "mnemonic": "Think 'medicine'.",
+      "explanation": "Masculine noun for doctor."
     }
   }
 }

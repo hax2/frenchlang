@@ -1,197 +1,97 @@
 {
   "id": "story-3",
+  "title": "📖 Histoire : Le voyage de Charles",
+  "description": "Une histoire sur un voyage de week-end, racontée avec le futur proche, le passé composé et l'imparfait.",
   "type": "story",
-  "title": "📖 Story: Carlos's Weekend Trip",
-  "description": "A story about a weekend trip, told using the near future, preterite, and imperfect tenses.",
-  "level": "Beginner",
-  "storyIntro": "You've learned the near future (ir + a), the preterite tense for completed past actions, and the imperfect tense for describing ongoing past situations.\n\nNow let's follow Carlos on a weekend trip and see how all three tenses work together to tell a story!",
+  "storyIntro": "Charles a voyagé à Lyon le week-end dernier.",
   "sentences": [
     {
       "id": "s3-s1",
-      "spanish": "Carlos iba a visitar a su abuela el fin de semana.",
-      "english": "Carlos was going to visit his grandmother on the weekend.",
+      "french": "Le week-end dernier, Charles est allé à Lyon.",
+      "english": "Last weekend, Charles went to Lyon.",
       "wordMeanings": {
-        "Carlos": "Carlos",
-        "iba a": "was going to (near future, imperfect)",
-        "visitar": "to visit",
-        "a": "to",
-        "su": "his",
-        "abuela": "grandmother",
-        "el": "the",
-        "fin de semana": "weekend"
+        "dernier": "last",
+        "est allé": "went"
       }
     },
     {
       "id": "s3-s2",
-      "spanish": "El sábado hacía buen tiempo.",
-      "english": "On Saturday the weather was nice.",
+      "french": "Il faisait beau et il était heureux.",
+      "english": "The weather was nice and he was happy.",
       "wordMeanings": {
-        "El": "the",
-        "sábado": "Saturday",
-        "hacía": "it was (imperfect - weather)",
-        "buen": "good",
-        "tiempo": "weather / time"
+        "faisait beau": "weather was nice",
+        "heureux": "happy"
       }
     },
     {
       "id": "s3-s3",
-      "spanish": "Carlos se levantó temprano y se duchó.",
-      "english": "Carlos got up early and showered.",
+      "french": "Il a mangé dans un petit restaurant.",
+      "english": "He ate in a small restaurant.",
       "wordMeanings": {
-        "se levantó": "got up (preterite, reflexive)",
-        "temprano": "early",
-        "y": "and",
-        "se duchó": "showered (preterite, reflexive)"
+        "mangé": "ate"
       }
     },
     {
       "id": "s3-s4",
-      "spanish": "Él desayunó café con leche y pan.",
-      "english": "He had coffee with milk and bread for breakfast.",
+      "french": "La nourriture était délicieuse.",
+      "english": "The food was delicious.",
       "wordMeanings": {
-        "Él": "he",
-        "desayunó": "had breakfast (preterite)",
-        "café": "coffee",
-        "con": "with",
-        "leche": "milk",
-        "y": "and",
-        "pan": "bread"
+        "nourriture": "food",
+        "délicieuse": "delicious"
       }
     },
     {
       "id": "s3-s5",
-      "spanish": "Salió de su casa a las nueve.",
-      "english": "He left his house at nine.",
+      "french": "Soudain, il a vu son ami Marc.",
+      "english": "Suddenly, he saw his friend Marc.",
       "wordMeanings": {
-        "Salió": "left (preterite)",
-        "de": "from",
-        "su": "his",
-        "casa": "house",
-        "a": "at",
-        "las": "the",
-        "nueve": "nine"
+        "Soudain": "suddenly",
+        "vu": "saw"
       }
     },
     {
       "id": "s3-s6",
-      "spanish": "La abuela vivía en un pueblo pequeño.",
-      "english": "The grandmother lived in a small town.",
+      "french": "Marc travaillait à Lyon.",
+      "english": "Marc was working in Lyon.",
       "wordMeanings": {
-        "La": "the",
-        "abuela": "grandmother",
-        "vivía": "lived (imperfect — background info)",
-        "en": "in",
-        "un": "a",
-        "pueblo": "town",
-        "pequeño": "small"
+        "travaillait": "was working"
       }
     },
     {
       "id": "s3-s7",
-      "spanish": "Cuando llegó, la abuela estaba en el jardín.",
-      "english": "When he arrived, the grandmother was in the garden.",
+      "french": "Ils ont bu un café ensemble.",
+      "english": "They drank a coffee together.",
       "wordMeanings": {
-        "Cuando": "when",
-        "llegó": "arrived (preterite — completed action)",
-        "la": "the",
-        "abuela": "grandmother",
-        "estaba": "was (imperfect — ongoing situation)",
-        "en": "in",
-        "el": "the",
-        "jardín": "garden"
+        "bu": "drank",
+        "ensemble": "together"
       }
     },
     {
       "id": "s3-s8",
-      "spanish": "Ella estaba contenta. Le gustaba mucho la visita de Carlos.",
-      "english": "She was happy. She really liked Carlos's visit.",
+      "french": "Charles a dit : \"Je vais revenir bientôt.\"",
+      "english": "Charles said: \"I am going to come back soon.\"",
       "wordMeanings": {
-        "estaba": "was (imperfect — state)",
-        "contenta": "happy",
-        "Le gustaba": "she liked (imperfect)",
-        "mucho": "a lot",
-        "la": "the",
-        "visita": "visit",
-        "de": "of",
-        "Carlos": "Carlos"
+        "revenir": "come back"
       }
     },
     {
       "id": "s3-s9",
-      "spanish": "Comieron juntos. La comida estaba muy rica.",
-      "english": "They ate together. The food was very tasty.",
+      "french": "C'était un voyage fantastique.",
+      "english": "It was a fantastic trip.",
       "wordMeanings": {
-        "Comieron": "they ate (preterite)",
-        "juntos": "together",
-        "La": "the",
-        "comida": "food",
-        "estaba": "was (imperfect — state)",
-        "muy": "very",
-        "rica": "tasty / rich"
-      }
-    },
-    {
-      "id": "s3-s10",
-      "spanish": "Después, Carlos y su abuela caminaron por el pueblo.",
-      "english": "Afterwards, Carlos and his grandmother walked through the town.",
-      "wordMeanings": {
-        "Después": "afterwards",
-        "y": "and",
-        "su": "his",
-        "abuela": "grandmother",
-        "caminaron": "walked (preterite)",
-        "por": "through",
-        "el": "the",
-        "pueblo": "town"
-      }
-    },
-    {
-      "id": "s3-s11",
-      "spanish": "Carlos le dijo: \"Voy a volver pronto.\"",
-      "english": "Carlos told her: \"I am going to come back soon.\"",
-      "wordMeanings": {
-        "le dijo": "told her (preterite)",
-        "Voy a": "I am going to (near future)",
-        "volver": "to come back",
-        "pronto": "soon"
-      }
-    },
-    {
-      "id": "s3-s12",
-      "spanish": "La abuela sonrió y le contestó: \"Hasta pronto, mi nieto.\"",
-      "english": "The grandmother smiled and answered: \"See you soon, my grandson.\"",
-      "wordMeanings": {
-        "abuela": "grandmother",
-        "sonrió": "smiled (preterite)",
-        "y": "and",
-        "le contestó": "answered him (preterite)",
-        "Hasta": "until",
-        "pronto": "soon",
-        "mi": "my",
-        "nieto": "grandson"
+        "voyage": "trip",
+        "fantastique": "fantastic"
       }
     }
   ],
   "vocabulary": {
-    "pueblo": {
-      "mnemonic": "Think 'Pueblo' villages — small towns.",
-      "explanation": "Means 'town' or 'village'. Also 'people'."
+    "dernier": {
+      "mnemonic": "Think 'dernier cri' — the latest/last fashion cry.",
+      "explanation": "Adjective meaning 'last'."
     },
-    "jardín": {
-      "mnemonic": "Think 'garden' — almost the same word!",
-      "explanation": "Means 'garden'."
-    },
-    "comida": {
-      "mnemonic": "Think 'comer' (to eat) → comida (food).",
-      "explanation": "Means 'food' or 'meal'."
-    },
-    "nieto": {
-      "mnemonic": "Think 'knee-to' — a grandchild at your knee.",
-      "explanation": "Means 'grandson'. 'Nieta' for granddaughter."
-    },
-    "pronto": {
-      "mnemonic": "Same as English 'pronto' — hurry up, soon!",
-      "explanation": "Means 'soon' or 'quickly'."
+    "bu": {
+      "mnemonic": "Rhymes with 'view' — you view your drink before you sip.",
+      "explanation": "Past participle of 'boire' (to drink)."
     }
   }
 }

@@ -1,148 +1,86 @@
 {
   "id": "module-29",
-  "title": "Theme: Travel and Airport",
-  "description": "Useful vocabulary and phrases for traveling by plane.",
-  "level": "Intermediate",
+  "title": "Thème : Voyages et Aéroport",
+  "description": "Vocabulaire et phrases utiles pour voyager en avion.",
+  "level": "Intermédiaire",
   "sentences": [
     {
       "id": "m29-s1",
-      "spanish": "¿A qué hora sale el próximo vuelo para Madrid?",
-      "english": "What time does the next flight to Madrid leave?",
+      "french": "Où est le comptoir d'enregistrement ?",
+      "english": "Where is the check-in counter?",
       "wordMeanings": {
-        "hora": "hour/time",
-        "sale": "leaves",
-        "próximo": "next",
-        "vuelo": "flight"
+        "comptoir": "counter",
+        "enregistrement": "check-in"
       }
     },
     {
       "id": "m29-s2",
-      "spanish": "Necesito facturar mis maletas antes de ir a la puerta de embarque.",
-      "english": "I need to check my bags before going to the boarding gate.",
+      "french": "Voici mon passeport et mon billet.",
+      "english": "Here is my passport and my ticket.",
       "wordMeanings": {
-        "facturar": "to check in",
-        "maletas": "suitcases",
-        "antes": "before",
-        "puerta": "gate/door",
-        "embarque": "boarding"
+        "Voici": "here is / behold",
+        "passeport": "passport",
+        "billet": "ticket"
       }
     },
     {
       "id": "m29-s3",
-      "spanish": "¿Me puede dar un asiento de pasillo, por favor?",
-      "english": "Can you give me an aisle seat, please?",
+      "french": "À quelle heure part l'avion ?",
+      "english": "At what time does the plane leave?",
       "wordMeanings": {
-        "asiento": "seat",
-        "pasillo": "aisle"
+        "avion": "plane",
+        "part": "leaves"
       }
     },
     {
       "id": "m29-s4",
-      "spanish": "El vuelo tiene un retraso de dos horas debido al mal tiempo.",
-      "english": "The flight has a two-hour delay due to bad weather.",
+      "french": "Le vol a du retard.",
+      "english": "The flight is delayed.",
       "wordMeanings": {
-        "retraso": "delay",
-        "debido": "due to",
-        "tiempo": "weather"
+        "vol": "flight",
+        "retard": "delay"
       }
     },
     {
       "id": "m29-s5",
-      "spanish": "Por favor, muestre su pasaporte y su tarjeta de embarque.",
-      "english": "Please show your passport and your boarding pass.",
+      "french": "Je voudrais un siège côté couloir.",
+      "english": "I would like an aisle seat.",
       "wordMeanings": {
-        "muestre": "show (imperative)",
-        "pasaporte": "passport",
-        "tarjeta": "card/pass"
+        "voudrais": "would like",
+        "siège": "seat",
+        "couloir": "aisle"
       }
     },
     {
       "id": "m29-s6",
-      "spanish": "¿Dónde puedo recoger mi equipaje?",
-      "english": "Where can I pick up my luggage?",
+      "french": "Où sont les bagages ?",
+      "english": "Where are the bags / luggage?",
       "wordMeanings": {
-        "recoger": "pick up",
-        "equipaje": "luggage"
+        "bagages": "luggage"
       }
     },
     {
       "id": "m29-s7",
-      "spanish": "El control de seguridad está muy lleno esta mañana.",
-      "english": "The security check is very full this morning.",
+      "french": "Avez-vous quelque chose à déclarer ?",
+      "english": "Do you have anything to declare?",
       "wordMeanings": {
-        "control": "control/check",
-        "seguridad": "security",
-        "lleno": "full"
-      }
-    },
-    {
-      "id": "m29-s8",
-      "spanish": "¿Tiene algo que declarar en la aduana?",
-      "english": "Do you have anything to declare at customs?",
-      "wordMeanings": {
-        "declarar": "declare",
-        "aduana": "customs"
-      }
-    },
-    {
-      "id": "m29-s9",
-      "spanish": "El avión está a punto de aterrizar en el aeropuerto internacional.",
-      "english": "The plane is about to land at the international airport.",
-      "wordMeanings": {
-        "avión": "plane",
-        "aterrizar": "land",
-        "aeropuerto": "airport"
-      }
-    },
-    {
-      "id": "m29-s10",
-      "spanish": "Prefiero viajar en clase ejecutiva para tener más espacio.",
-      "english": "I prefer to travel in business class to have more space.",
-      "wordMeanings": {
-        "prefiero": "I prefer",
-        "viajar": "travel",
-        "clase": "class",
-        "ejecutiva": "business",
-        "espacio": "space"
+        "quelque chose": "something",
+        "déclarer": "to declare"
       }
     }
   ],
   "vocabulary": {
-    "vuelo": {
-      "mnemonic": "Think 'vuela!' — a flight.",
-      "explanation": "From 'volar' (to fly)."
+    "billet": {
+      "mnemonic": "Think 'billet' in English — a spot for a soldier.",
+      "explanation": "Masculine noun for ticket."
     },
-    "antes": {
-      "mnemonic": "Think 'ante' (before in poker).",
-      "explanation": "Means 'before'."
+    "couloir": {
+      "mnemonic": "Think 'corridor'.",
+      "explanation": "Masculine noun for aisle/passage."
     },
-    "puerta": {
-      "mnemonic": "Think 'port/portal' — a door.",
-      "explanation": "Feminine noun meaning door/gate."
-    },
-    "asiento": {
-      "mnemonic": "'I sit-ento' — a seat.",
-      "explanation": "Means 'seat'."
-    },
-    "tiempo": {
-      "mnemonic": "Think 'tempo' — time and rhythm.",
-      "explanation": "Means 'time' or 'weather'."
-    },
-    "pasaporte": {
-      "mnemonic": "'Pass-a-port' — passport!",
-      "explanation": "Nearly identical cognate."
-    },
-    "equipaje": {
-      "mnemonic": "'Equip-aje' — your equipment/luggage.",
-      "explanation": "Means 'luggage'."
-    },
-    "avión": {
-      "mnemonic": "Think 'aviation' — airplane.",
-      "explanation": "From 'ave' (bird)."
-    },
-    "aeropuerto": {
-      "mnemonic": "'Aero + puerto' = air + port = airport!",
-      "explanation": "Compound word."
+    "retard": {
+      "mnemonic": "Think 'retardation' — slowing down.",
+      "explanation": "Masculine noun for delay."
     }
   }
 }

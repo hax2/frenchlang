@@ -41,7 +41,7 @@ const ModuleSelector = ({
         <h1 className="module-main-title">All Modules</h1>
         <p className="module-subtitle">
           {isPureTesting
-            ? 'Choose a module to run pure translation testing (English to Spanish only).'
+            ? 'Choose a module to run pure translation testing (English to French only).'
             : 'Choose a module to start guided listening and translation practice.'}
         </p>
         <div className="practice-mode-panel glass-panel">

@@ -1,0 +1,67 @@
+{
+  "id": "module-pour-vs-par",
+  "title": "Grammaire : Pour vs Par",
+  "description": "Apprendre la différence entre 'pour' et 'par', deux prépositions essentielles.",
+  "level": "Intermédiaire",
+  "grammarExplanation": "Pour and Par both translate roughly to 'for', 'by', or 'through', but they have distinct uses.\n\n• Pour: Used for purpose, destination, or a specific duration in the future. (For, in order to)\n• Par: Used for means of transport, through, by (agent in passive), or frequency. (By, through, via)\n\n- J'étudie pour apprendre. (I study in order to learn - Purpose)\n- Je pars pour Paris. (I'm leaving for Paris - Destination)\n- Il passe par le parc. (He goes through the park - Passage)\n- C'est écrit par Marc. (It is written by Marc - Agent)",
+  "sentences": [
+    {
+      "id": "pvp-s1",
+      "french": "Je travaille pour toi.",
+      "english": "I am working for you.",
+      "wordMeanings": {
+        "pour": "for"
+      }
+    },
+    {
+      "id": "pvp-s2",
+      "french": "Il passe par Lyon.",
+      "english": "He is going through Lyon.",
+      "wordMeanings": {
+        "par": "through / via"
+      }
+    },
+    {
+      "id": "pvp-s3",
+      "french": "C'est pour aujourd'hui.",
+      "english": "It is for today.",
+      "wordMeanings": {
+        "aujourd'hui": "today"
+      }
+    },
+    {
+      "id": "pvp-s4",
+      "french": "Je voyage par train.",
+      "english": "I am traveling by train.",
+      "wordMeanings": {
+        "train": "train"
+      }
+    },
+    {
+      "id": "pvp-s5",
+      "french": "Il a été surpris par Marie.",
+      "english": "He was surprised by Marie.",
+      "wordMeanings": {
+        "surpris": "surprised"
+      }
+    },
+    {
+      "id": "pvp-s6",
+      "french": "Je le fais pour rire.",
+      "english": "I'm doing it to laugh / for a laugh.",
+      "wordMeanings": {
+        "rire": "to laugh"
+      }
+    }
+  ],
+  "vocabulary": {
+    "pour": {
+      "mnemonic": "Think 'purpose' — for a purpose.",
+      "explanation": "Preposition for purpose or destination."
+    },
+    "par": {
+      "mnemonic": "Think 'partial' or 'passage' — through a part.",
+      "explanation": "Preposition for through, by, or via."
+    }
+  }
+}
