@@ -6,353 +6,423 @@
   "sentences": [
     {
       "id": "m17-s1",
-      "spanish": "No hables.",
+      "french": "Ne parle pas.",
       "english": "Don't speak.",
       "wordMeanings": {
-        "No": "no / not",
-        "hables": "speak (subj)"
+        "Ne": "not",
+        "parle": "speak",
+        "pas": "not"
       }
     },
     {
       "id": "m17-s2",
-      "spanish": "No coma.",
-      "english": "Don't eat. (formal)",
+      "french": "Ne mangez pas.",
+      "english": "Don't eat. (formal/plural)",
       "wordMeanings": {
-        "No": "no / not",
-        "coma": "eat (subj)"
+        "Ne": "not",
+        "mangez": "eat (formal/plural)",
+        "pas": "not"
       }
     },
     {
       "id": "m17-s3",
-      "spanish": "No vivas aquí.",
+      "french": "Ne vis pas ici.",
       "english": "Don't live here.",
       "wordMeanings": {
-        "No": "no / not",
-        "vivas": "live (subj)",
-        "aquí": "here"
+        "Ne": "not",
+        "vis": "live",
+        "pas": "not",
+        "ici": "here"
       }
     },
     {
       "id": "m17-s4",
-      "spanish": "No espere aquí.",
-      "english": "Don't wait here. (formal)",
+      "french": "N'attendez pas ici.",
+      "english": "Don't wait here. (formal/plural)",
       "wordMeanings": {
-        "No": "no / not",
-        "espere": "wait (subj)",
-        "aquí": "here"
+        "N'attendez": "do not wait (formal/plural)",
+        "pas": "not",
+        "ici": "here"
       }
     },
     {
       "id": "m17-s5",
-      "spanish": "No abras la puerta.",
+      "french": "N'ouvre pas la porte.",
       "english": "Don't open the door.",
       "wordMeanings": {
-        "No": "no / not",
-        "abras": "open (subj/inf)",
-        "la": "the / it (fem)",
-        "puerta": "door"
+        "N'ouvre": "do not open",
+        "pas": "not",
+        "la": "the (fem)",
+        "porte": "door"
       }
     },
     {
       "id": "m17-s6",
-      "spanish": "No abra la puerta.",
-      "english": "Don't open the door. (formal)",
+      "french": "N'ouvrez pas la porte.",
+      "english": "Don't open the door. (formal/plural)",
       "wordMeanings": {
-        "No": "no / not",
-        "abra": "open (subj/form)",
-        "la": "the / it (fem)",
-        "puerta": "door"
+        "N'ouvrez": "do not open",
+        "pas": "not",
+        "la": "the (fem)",
+        "porte": "door"
       }
     },
     {
       "id": "m17-s7",
-      "spanish": "No abran la puerta.",
-      "english": "Don't open the door. (plural)",
+      "french": "Ne regardez pas ça.",
+      "english": "Don't look at that. (formal/plural)",
       "wordMeanings": {
-        "No": "no / not",
-        "abran": "open (subj/form pl)",
-        "la": "the / it (fem)",
-        "puerta": "door"
+        "Ne": "not",
+        "regardez": "look (formal/plural)",
+        "pas": "not",
+        "ça": "that"
       }
     },
     {
       "id": "m17-s8",
-      "spanish": "No mires eso.",
+      "french": "Ne regarde pas ça.",
       "english": "Don't look at that.",
       "wordMeanings": {
-        "No": "no / not",
-        "mires": "look (subj)",
-        "eso": "that"
+        "Ne": "not",
+        "regarde": "look",
+        "pas": "not",
+        "ça": "that"
       }
     },
     {
       "id": "m17-s9",
-      "spanish": "No mire eso.",
-      "english": "Don't look at that. (formal)",
+      "french": "N'écoutez pas.",
+      "english": "Don't listen. (formal/plural)",
       "wordMeanings": {
-        "No": "no / not",
-        "mire": "look (subj)",
-        "eso": "that"
+        "N'écoutez": "do not listen (formal/plural)",
+        "pas": "not"
       }
     },
     {
       "id": "m17-s10",
-      "spanish": "No escuchen.",
-      "english": "Don't listen. (plural)",
+      "french": "N'écoute pas.",
+      "english": "Don't listen.",
       "wordMeanings": {
-        "No": "no / not",
-        "escuchen": "listen (subj pl)"
+        "N'écoute": "do not listen",
+        "pas": "not"
       }
     },
     {
       "id": "m17-s11",
-      "spanish": "No digas eso.",
+      "french": "Ne dis pas ça.",
       "english": "Don't say that.",
       "wordMeanings": {
-        "No": "no / not",
-        "digas": "say (subj)",
-        "eso": "that"
+        "Ne": "not",
+        "dis": "say",
+        "pas": "not",
+        "ça": "that"
       }
     },
     {
       "id": "m17-s12",
-      "spanish": "No diga eso.",
-      "english": "Don't say that. (formal)",
+      "french": "Ne dites pas ça.",
+      "english": "Don't say that. (formal/plural)",
       "wordMeanings": {
-        "No": "no / not",
-        "diga": "say (subj)",
-        "eso": "that"
+        "Ne": "not",
+        "dites": "say (formal/plural)",
+        "pas": "not",
+        "ça": "that"
       }
     },
     {
       "id": "m17-s13",
-      "spanish": "No me digas eso.",
+      "french": "Ne me dis pas ça.",
       "english": "Don't tell me that.",
       "wordMeanings": {
-        "No": "no / not",
-        "me": "me / to me",
-        "digas": "say (subj)",
-        "eso": "that"
+        "Ne": "not",
+        "me": "to me",
+        "dis": "tell",
+        "pas": "not",
+        "ça": "that"
       }
     },
     {
       "id": "m17-s14",
-      "spanish": "No me lo digas.",
+      "french": "Ne me le dis pas.",
       "english": "Don't tell it to me.",
       "wordMeanings": {
-        "No": "no / not",
-        "me": "me / to me",
-        "lo": "it / him",
-        "digas": "say (subj)"
+        "Ne me le dis pas": "do not tell it to me"
       }
     },
     {
       "id": "m17-s15",
-      "spanish": "No se lo des.",
+      "french": "Ne le lui donne pas.",
       "english": "Don't give it to him/her.",
       "wordMeanings": {
-        "No": "no / not",
-        "se": "himself / herself / themselves",
-        "lo": "it / him",
-        "des": "give (subj)"
+        "Ne le lui donne pas": "do not give it to him/her"
       }
     },
     {
       "id": "m17-s16",
-      "spanish": "No se la des.",
-      "english": "Don't give it to him/her.",
+      "french": "Ne la lui donne pas.",
+      "english": "Don't give it to him/her. (female object)",
       "wordMeanings": {
-        "No": "no / not",
-        "se": "himself / herself / themselves",
-        "la": "the / it (fem)",
-        "des": "give (subj)"
+        "Ne la lui donne pas": "do not give it to him/her (fem obj)"
       }
     },
     {
       "id": "m17-s17",
-      "spanish": "No me lo des.",
+      "french": "Ne me le donne pas.",
       "english": "Don't give it to me.",
       "wordMeanings": {
-        "No": "no / not",
-        "me": "me / to me",
-        "lo": "it / him",
-        "des": "give (subj)"
+        "Ne me le donne pas": "do not give it to me"
       }
     },
     {
       "id": "m17-s18",
-      "spanish": "No te sientes aquí.",
-      "english": "Don't sit here.",
+      "french": "Ne te rassieds pas ici.",
+      "english": "Don't sit down here.",
       "wordMeanings": {
-        "No": "no / not",
-        "te": "you / to you",
-        "sientes": "you feel",
-        "aquí": "here"
+        "Ne": "not",
+        "te rassieds": "sit yourself",
+        "pas": "not",
+        "ici": "here"
       }
     },
     {
       "id": "m17-s19",
-      "spanish": "No se siente aquí.",
-      "english": "Don't sit here. (formal)",
+      "french": "Ne vous asseyez pas ici.",
+      "english": "Don't sit here. (formal/plural)",
       "wordMeanings": {
-        "No": "no / not",
-        "se": "himself / herself / themselves",
-        "siente": "feels",
-        "aquí": "here"
+        "Ne": "not",
+        "vous asseyez": "sit yourselves (formal/pl)",
+        "pas": "not",
+        "ici": "here"
       }
     },
     {
       "id": "m17-s20",
-      "spanish": "No te quedes en casa.",
+      "french": "Ne reste pas à la maison.",
       "english": "Don't stay at home.",
       "wordMeanings": {
-        "No": "no / not",
-        "te": "you / to you",
-        "quedes": "stay (subj)",
-        "en": "in / on",
-        "casa": "house"
+        "Ne": "not",
+        "reste": "stay",
+        "pas": "not",
+        "à": "at",
+        "la": "the (fem)",
+        "maison": "house"
       }
     },
     {
       "id": "m17-s21",
-      "spanish": "No vayas ahora.",
-      "english": "Don't go now.",
+      "french": "N'y va pas maintenant.",
+      "english": "Don't go there now.",
       "wordMeanings": {
-        "No": "no / not",
-        "vayas": "go (subj)",
-        "ahora": "now"
+        "N'y va": "do not go there",
+        "pas": "not",
+        "maintenant": "now"
       }
     },
     {
       "id": "m17-s22",
-      "spanish": "No venga ahora.",
-      "english": "Don't come now. (formal)",
+      "french": "N'y allez pas maintenant.",
+      "english": "Don't go there now. (formal/plural)",
       "wordMeanings": {
-        "No": "no / not",
-        "venga": "come (subj)",
-        "ahora": "now"
+        "N'y allez": "do not go there (formal/pl)",
+        "pas": "not",
+        "maintenant": "now"
       }
     },
     {
       "id": "m17-s23",
-      "spanish": "No vayan ahora.",
-      "english": "Don't go now. (plural)",
+      "french": "Ne viens pas maintenant.",
+      "english": "Don't come now.",
       "wordMeanings": {
-        "No": "no / not",
-        "vayan": "go (subj pl)",
-        "ahora": "now"
+        "Ne": "not",
+        "viens": "come",
+        "pas": "not",
+        "maintenant": "now"
       }
     },
     {
       "id": "m17-s24",
-      "spanish": "No lo compres.",
+      "french": "Ne l'achète pas.",
       "english": "Don't buy it.",
       "wordMeanings": {
-        "No": "no / not",
-        "lo": "it / him",
-        "compres": "buy (subj)"
+        "Ne": "not",
+        "l'": "it",
+        "achète": "buy",
+        "pas": "not"
       }
     },
     {
       "id": "m17-s25",
-      "spanish": "No la compres.",
-      "english": "Don't buy it.",
+      "french": "Ne les achète pas.",
+      "english": "Don't buy them.",
       "wordMeanings": {
-        "No": "no / not",
-        "la": "the / it (fem)",
-        "compres": "buy (subj)"
+        "Ne": "not",
+        "les": "them",
+        "achète": "buy",
+        "pas": "not"
       }
     },
     {
       "id": "m17-s26",
-      "spanish": "No los compres.",
-      "english": "Don't buy them.",
+      "french": "Ne l'achetez pas.",
+      "english": "Don't buy it. (formal/plural)",
       "wordMeanings": {
-        "No": "no / not",
-        "los": "the / them",
-        "compres": "buy (subj)"
+        "Ne": "not",
+        "l'": "it",
+        "achetez": "buy (formal/plural)",
+        "pas": "not"
       }
     },
     {
       "id": "m17-s27",
-      "spanish": "No las compres.",
-      "english": "Don't buy them.",
+      "french": "Ne les achetez pas.",
+      "english": "Don't buy them. (formal/plural)",
       "wordMeanings": {
-        "No": "no / not",
-        "las": "the / them (fem)",
-        "compres": "buy (subj)"
+        "Ne": "not",
+        "les": "them",
+        "achetez": "buy (formal/plural)",
+        "pas": "not"
       }
     },
     {
       "id": "m17-s28",
-      "spanish": "No hables tan rápido.",
+      "french": "Ne parle pas si vite.",
       "english": "Don't speak so fast.",
       "wordMeanings": {
-        "No": "no / not",
-        "hables": "speak (subj)",
-        "tan": "so / as",
-        "rápido": "fast / quickly"
+        "Ne": "not",
+        "parle": "speak",
+        "pas": "not",
+        "si": "so",
+        "vite": "fast"
       }
     },
     {
       "id": "m17-s29",
-      "spanish": "No coma tan rápido.",
-      "english": "Don't eat so fast. (formal)",
+      "french": "Ne parlez pas si vite.",
+      "english": "Don't speak so fast. (formal/plural)",
       "wordMeanings": {
-        "No": "no / not",
-        "coma": "eat (subj)",
-        "tan": "so / as",
-        "rápido": "fast / quickly"
+        "Ne": "not",
+        "parlez": "speak (formal/pl)",
+        "pas": "not",
+        "si": "so",
+        "vite": "fast"
       }
     },
     {
       "id": "m17-s30",
-      "spanish": "No llegues tarde.",
+      "french": "N'arrive pas en retard.",
       "english": "Don't arrive late.",
       "wordMeanings": {
-        "No": "no / not",
-        "llegues": "arrive (subj)",
-        "tarde": "late / afternoon"
+        "N'arrive": "do not arrive",
+        "pas": "not",
+        "en retard": "late (in delay)"
       }
     }
   ],
-  "grammarExplanation": "Negative commands tell someone NOT TO DO something. ALL negative commands use the subjunctive form:\n\n• Tú: No + subjunctive → No hables (Don't speak)\n• Usted: No + subjunctive → No hable\n• Ustedes: No + subjunctive plural → No hablen\n\nWith pronouns, place them BEFORE the verb (not attached):\n• No lo compres (Don't buy it)\n• No me lo digas (Don't tell it to me)\n• No se lo des (Don't give it to him/her)",
+  "grammarExplanation": "Negative commands in French are very straightforward: they use the exact same forms as Affirmative commands but wrap the verb in 'ne ... pas'.\n\n• Parle (Speak) → Ne parle pas (Don't speak)\n• Mangez (Eat, pl) → Ne mangez pas (Don't eat)\n\nCrucial rule: With negative commands, object pronouns DO NOT attach to the end. They go back to their typical spot BETWEEN 'ne' and the verb:\n• Donne-le-moi (Give it to me) → Ne me le donne pas (Don't give it to me).\n• Dis-lui (Tell him) → Ne lui dis pas (Don't tell him).",
   "vocabulary": {
-    "aquí": {
-      "mnemonic": "Sounds like 'a key' — 'The key is right here!'",
-      "explanation": "Means 'here'. More precise than 'acá'."
+    "ne ... pas": {
+      "mnemonic": "No pass! Don't do it.",
+      "explanation": "Wrap the verb to make it negative."
     },
-    "la": {
-      "mnemonic": "'La lady' — her/it (feminine).",
-      "explanation": "Also 'the' (feminine)."
+    "parle": {
+      "mnemonic": "Parlor.",
+      "explanation": "Imperative of parler (tu form)."
     },
-    "puerta": {
-      "mnemonic": "Think 'port/portal' — a door.",
-      "explanation": "Feminine noun meaning door/gate."
+    "parlez": {
+      "mnemonic": "Parlor.",
+      "explanation": "Imperative of parler (vous form)."
     },
-    "lo": {
-      "mnemonic": "'Low him' — direct object him/it.",
-      "explanation": "Masculine direct object pronoun."
+    "mangez": {
+      "mnemonic": "Mange.",
+      "explanation": "Imperative of manger (vous form)."
     },
-    "se": {
-      "mnemonic": "Think 'self' — reflexive pronoun.",
-      "explanation": "Replaces le/les before lo/la/los/las."
+    "vis": {
+      "mnemonic": "Vivid.",
+      "explanation": "Imperative of vivre (tu form)."
     },
-    "casa": {
-      "mnemonic": "Think 'casino' — a big house of games.",
-      "explanation": "Feminine noun. 'En casa' = at home."
+    "attendez": {
+      "mnemonic": "Wait to attend.",
+      "explanation": "Imperative of attendre (vous form)."
     },
-    "los": {
-      "mnemonic": "'Los' = them (masculine plural).",
-      "explanation": "Direct object pronoun."
+    "ouvre": {
+      "mnemonic": "Overture.",
+      "explanation": "Imperative of ouvrir (tu form). Drops the 's'."
     },
-    "las": {
-      "mnemonic": "'Las ladies' — them (feminine).",
-      "explanation": "Direct object pronoun."
+    "ouvrez": {
+      "mnemonic": "Overture.",
+      "explanation": "Imperative of ouvrir (vous form)."
     },
-    "tarde": {
-      "mnemonic": "Think 'tardy' — late!",
-      "explanation": "Means 'late' or 'afternoon'."
+    "regarde": {
+      "mnemonic": "Regard.",
+      "explanation": "Imperative of regarder. Drops the 's'."
+    },
+    "regardez": {
+      "mnemonic": "Regard.",
+      "explanation": "Imperative of regarder (vous form)."
+    },
+    "écoute": {
+      "mnemonic": "Acoustic.",
+      "explanation": "Imperative of écouter. Drops the 's'."
+    },
+    "écoutez": {
+      "mnemonic": "Acoustic.",
+      "explanation": "Imperative of écouter (vous form)."
+    },
+    "dis": {
+      "mnemonic": "Dictate.",
+      "explanation": "Imperative of dire."
+    },
+    "dites": {
+      "mnemonic": "Dictate.",
+      "explanation": "Imperative of dire (vous form)."
+    },
+    "asseyez": {
+      "mnemonic": "Seat yourselves.",
+      "explanation": "Reflexive imperative of s'asseoir (vous form)."
+    },
+    "rassieds": {
+      "mnemonic": "Sit down.",
+      "explanation": "Variant of s'asseoir (tu form) used in negative."
+    },
+    "reste": {
+      "mnemonic": "Rest / stay.",
+      "explanation": "Imperative of rester. Drops the 's'."
+    },
+    "va": {
+      "mnemonic": "Voyage — Go.",
+      "explanation": "Imperative of aller (tu form)."
+    },
+    "allez": {
+      "mnemonic": "Alley — Go.",
+      "explanation": "Imperative of aller (vous form)."
+    },
+    "viens": {
+      "mnemonic": "Venue.",
+      "explanation": "Imperative of venir."
+    },
+    "achète": {
+      "mnemonic": "Checklist.",
+      "explanation": "Imperative of acheter. Note the accent grave."
+    },
+    "achetez": {
+      "mnemonic": "Checklist.",
+      "explanation": "Imperative of acheter (vous form)."
+    },
+    "si": {
+      "mnemonic": "Si fast! So fast!",
+      "explanation": "Means 'so'."
+    },
+    "vite": {
+      "mnemonic": "Vitality/Vittles — fast.",
+      "explanation": "Means 'fast'."
+    },
+    "en retard": {
+      "mnemonic": "In retard / delayed.",
+      "explanation": "Means 'late' (for an event/arrival). Differs from 'tard' (late in day)."
+    },
+    "arrive": {
+      "mnemonic": "Arrive.",
+      "explanation": "Imperative of arriver."
     }
   }
 }

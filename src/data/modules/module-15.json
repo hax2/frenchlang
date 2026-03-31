@@ -6,372 +6,370 @@
   "sentences": [
     {
       "id": "m15-s1",
-      "spanish": "Le doy el libro a Ana.",
+      "french": "Je donne le livre à Ana.",
       "english": "I give Ana the book.",
       "wordMeanings": {
-        "Le": "to him / her",
-        "doy": "I give",
-        "el": "the",
-        "libro": "book",
-        "a": "to",
+        "Je donne": "I give",
+        "le": "the",
+        "livre": "book",
+        "à": "to",
         "Ana": "Ana"
       }
     },
     {
       "id": "m15-s2",
-      "spanish": "Se lo doy.",
+      "french": "Je le lui donne.",
       "english": "I give it to her.",
       "wordMeanings": {
-        "Se": "himself / herself / themselves",
-        "lo": "it / him",
-        "doy": "I give"
+        "Je": "I",
+        "le": "it (masc)",
+        "lui": "to her",
+        "donne": "give"
       }
     },
     {
       "id": "m15-s3",
-      "spanish": "Le doy la carta a Luis.",
+      "french": "Je donne la lettre à Luis.",
       "english": "I give Luis the letter.",
       "wordMeanings": {
-        "Le": "to him / her",
-        "doy": "I give",
-        "la": "the / it (fem)",
-        "carta": "letter",
-        "a": "to",
+        "Je donne": "I give",
+        "la": "the (fem)",
+        "lettre": "letter",
+        "à": "to",
         "Luis": "Luis"
       }
     },
     {
       "id": "m15-s4",
-      "spanish": "Se la doy.",
+      "french": "Je la lui donne.",
       "english": "I give it to him.",
       "wordMeanings": {
-        "Se": "himself / herself / themselves",
-        "la": "the / it (fem)",
-        "doy": "I give"
+        "Je": "I",
+        "la": "it (fem)",
+        "lui": "to him",
+        "donne": "give"
       }
     },
     {
       "id": "m15-s5",
-      "spanish": "Les doy los libros a ellos.",
+      "french": "Je donne les livres à eux.",
       "english": "I give them the books.",
       "wordMeanings": {
-        "Les": "to them",
-        "doy": "I give",
-        "los": "the / them",
-        "libros": "books",
-        "a": "to",
-        "ellos": "they / them"
+        "Je donne": "I give",
+        "les": "the (pl)",
+        "livres": "books",
+        "à": "to",
+        "eux": "them"
       }
     },
     {
       "id": "m15-s6",
-      "spanish": "Se los doy.",
+      "french": "Je les leur donne.",
       "english": "I give them to them.",
       "wordMeanings": {
-        "Se": "himself / herself / themselves",
-        "los": "the / them",
-        "doy": "I give"
+        "Je": "I",
+        "les": "them (dir)",
+        "leur": "to them (indir)",
+        "donne": "give"
       }
     },
     {
       "id": "m15-s7",
-      "spanish": "Les doy las llaves a ustedes.",
+      "french": "Je vous donne les clés.",
       "english": "I give you (pl.) the keys.",
       "wordMeanings": {
-        "Les": "to them",
-        "doy": "I give",
-        "las": "the / them (fem)",
-        "llaves": "keys",
-        "a": "to",
-        "ustedes": "you (plural)"
+        "Je": "I",
+        "vous": "to you (pl)",
+        "donne": "give",
+        "les": "the (pl)",
+        "clés": "keys"
       }
     },
     {
       "id": "m15-s8",
-      "spanish": "Se las doy.",
+      "french": "Je vous les donne.",
       "english": "I give them to you (pl.).",
       "wordMeanings": {
-        "Se": "himself / herself / themselves",
-        "las": "the / them (fem)",
-        "doy": "I give"
+        "Je": "I",
+        "vous": "to you",
+        "les": "them",
+        "donne": "give"
       }
     },
     {
       "id": "m15-s9",
-      "spanish": "¿Se lo das ahora?",
+      "french": "Le lui donnes-tu maintenant ?",
       "english": "Do you give it to him/her now?",
       "wordMeanings": {
-        "Se": "himself / herself / themselves",
-        "lo": "it / him",
-        "das": "you give",
-        "ahora": "now"
+        "Le": "it",
+        "lui": "to him/her",
+        "donnes-tu": "do you give",
+        "maintenant": "now"
       }
     },
     {
       "id": "m15-s10",
-      "spanish": "Sí, se lo doy ahora.",
-      "english": "Yes, I give it now.",
+      "french": "Oui, je le lui donne maintenant.",
+      "english": "Yes, I give it to him/her now.",
       "wordMeanings": {
-        "Sí": "yes",
-        "se": "himself / herself / themselves",
-        "lo": "it / him",
-        "doy": "I give",
-        "ahora": "now"
+        "Oui": "yes",
+        "je le lui donne": "I give it to him/her",
+        "maintenant": "now"
       }
     },
     {
       "id": "m15-s11",
-      "spanish": "No, no se lo doy ahora.",
-      "english": "No, I don’t give it now.",
+      "french": "Non, je ne le lui donne pas maintenant.",
+      "english": "No, I don't give it to him/her now.",
       "wordMeanings": {
-        "No": "no / not",
-        "no": "no / not",
-        "se": "himself / herself / themselves",
-        "lo": "it / him",
-        "doy": "I give",
-        "ahora": "now"
+        "Non": "no",
+        "je ne le lui donne pas": "I don't give it to him/her",
+        "maintenant": "now"
       }
     },
     {
       "id": "m15-s12",
-      "spanish": "¿Se la das hoy?",
+      "french": "La lui donnes-tu aujourd'hui ?",
       "english": "Do you give it to him/her today?",
       "wordMeanings": {
-        "Se": "himself / herself / themselves",
-        "la": "the / it (fem)",
-        "das": "you give",
-        "hoy": "today"
+        "La": "it (fem)",
+        "lui": "to him/her",
+        "donnes-tu": "do you give",
+        "aujourd'hui": "today"
       }
     },
     {
       "id": "m15-s13",
-      "spanish": "Sí, se la doy hoy.",
-      "english": "Yes, I give it today.",
+      "french": "Oui, je la lui donne aujourd'hui.",
+      "english": "Yes, I give it to him/her today.",
       "wordMeanings": {
-        "Sí": "yes",
-        "se": "himself / herself / themselves",
-        "la": "the / it (fem)",
-        "doy": "I give",
-        "hoy": "today"
+        "Oui": "yes",
+        "je la lui donne": "I give it to him/her",
+        "aujourd'hui": "today"
       }
     },
     {
       "id": "m15-s14",
-      "spanish": "Ayer se lo di.",
+      "french": "Hier je le lui ai donné.",
       "english": "Yesterday I gave it to him/her.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "se": "himself / herself / themselves",
-        "lo": "it / him",
-        "di": "I gave / say (imp)"
+        "Hier": "yesterday",
+        "je le lui ai": "I have it to him/her",
+        "donné": "given"
       }
     },
     {
       "id": "m15-s15",
-      "spanish": "Ayer se la di.",
-      "english": "Yesterday I gave it to him/her.",
+      "french": "Hier je la lui ai donnée.",
+      "english": "Yesterday I gave it to him/her. (feminine object)",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "se": "himself / herself / themselves",
-        "la": "the / it (fem)",
-        "di": "I gave / say (imp)"
+        "Hier": "yesterday",
+        "je la lui ai": "I have it to him/her",
+        "donnée": "given (fem)"
       }
     },
     {
       "id": "m15-s16",
-      "spanish": "Hoy se lo he dado.",
-      "english": "Today I’ve given it to him/her.",
+      "french": "Aujourd'hui je le lui ai donné.",
+      "english": "Today I've given it to him/her.",
       "wordMeanings": {
-        "Hoy": "today",
-        "se": "himself / herself / themselves",
-        "lo": "it / him",
-        "he": "I have",
-        "dado": "given"
+        "Aujourd'hui": "today",
+        "je le lui ai": "I have it to him/her",
+        "donné": "given"
       }
     },
     {
       "id": "m15-s17",
-      "spanish": "Hoy se la he dado.",
-      "english": "Today I’ve given it to him/her.",
+      "french": "Aujourd'hui je la lui ai donnée.",
+      "english": "Today I've given it to him/her. (feminine object)",
       "wordMeanings": {
-        "Hoy": "today",
-        "se": "himself / herself / themselves",
-        "la": "the / it (fem)",
-        "he": "I have",
-        "dado": "given"
+        "Aujourd'hui": "today",
+        "je la lui ai": "I have it to him/her",
+        "donnée": "given (fem)"
       }
     },
     {
       "id": "m15-s18",
-      "spanish": "Se lo quiero dar.",
+      "french": "Je veux le lui donner.",
       "english": "I want to give it to him/her.",
       "wordMeanings": {
-        "Se": "himself / herself / themselves",
-        "lo": "it / him",
-        "quiero": "I want",
-        "dar": "to give"
+        "Je veux": "I want",
+        "le": "it",
+        "lui": "to him/her",
+        "donner": "to give"
       }
     },
     {
       "id": "m15-s19",
-      "spanish": "Quiero dárselo.",
-      "english": "I want to give it to him/her.",
+      "french": "Je veux la lui donner.",
+      "english": "I want to give it to him/her. (feminine object)",
       "wordMeanings": {
-        "Quiero": "I want",
-        "dárselo": "to give it to him/her"
+        "Je veux": "I want",
+        "la": "it (fem)",
+        "lui": "to him/her",
+        "donner": "to give"
       }
     },
     {
       "id": "m15-s20",
-      "spanish": "Se la voy a dar.",
-      "english": "I’m going to give it to him/her.",
+      "french": "Je vais le lui donner.",
+      "english": "I'm going to give it to him/her.",
       "wordMeanings": {
-        "Se": "himself / herself / themselves",
-        "la": "the / it (fem)",
-        "voy": "I go",
-        "a": "to",
-        "dar": "to give"
+        "Je vais": "I'm going",
+        "le": "it",
+        "lui": "to him/her",
+        "donner": "to give"
       }
     },
     {
       "id": "m15-s21",
-      "spanish": "Voy a dársela.",
-      "english": "I’m going to give it to him/her.",
+      "french": "Je vais la lui donner.",
+      "english": "I'm going to give it to him/her. (feminine object)",
       "wordMeanings": {
-        "Voy": "I go",
-        "a": "to",
-        "dársela": "to give it to him/her"
+        "Je vais": "I'm going",
+        "la": "it (fem)",
+        "lui": "to him/her",
+        "donner": "to give"
       }
     },
     {
       "id": "m15-s22",
-      "spanish": "Se los estamos dando.",
-      "english": "We’re giving them to them.",
+      "french": "Nous sommes en train de les leur donner.",
+      "english": "We're giving them to them.",
       "wordMeanings": {
-        "Se": "himself / herself / themselves",
-        "los": "the / them",
-        "estamos": "we are",
-        "dando": "giving"
+        "Nous sommes en train de": "we are (in the process of)",
+        "les": "them",
+        "leur": "to them",
+        "donner": "giving"
       }
     },
     {
       "id": "m15-s23",
-      "spanish": "Estamos dándoselos.",
-      "english": "We’re giving them to them.",
+      "french": "Ils sont en train de les leur donner.",
+      "english": "They're giving them to them.",
       "wordMeanings": {
-        "Estamos": "we are",
-        "dándoselos": "giving them to him/her"
+        "Ils sont en train de": "they are (in the process of)",
+        "les leur donner": "giving them to them"
       }
     },
     {
       "id": "m15-s24",
-      "spanish": "No se lo digas.",
-      "english": "Don’t tell it to him/her.",
+      "french": "Ne le lui dis pas.",
+      "english": "Don't tell it to him/her.",
       "wordMeanings": {
-        "No": "no / not",
-        "se": "himself / herself / themselves",
-        "lo": "it / him",
-        "digas": "say (subj)"
+        "Ne le lui dis pas": "do not tell it to him/her"
       }
     },
     {
       "id": "m15-s25",
-      "spanish": "Díselo.",
+      "french": "Dis-le-lui.",
       "english": "Tell it to him/her.",
       "wordMeanings": {
-        "Díselo": "tell it to him/her"
+        "Dis-le-lui": "tell it to him/her (imperative)"
       }
     },
     {
       "id": "m15-s26",
-      "spanish": "Se lo explico.",
+      "french": "Je le lui explique.",
       "english": "I explain it to him/her.",
       "wordMeanings": {
-        "Se": "himself / herself / themselves",
-        "lo": "it / him",
-        "explico": "I explain"
+        "Je le lui explique": "I explain it to him/her"
       }
     },
     {
       "id": "m15-s27",
-      "spanish": "Se la explico.",
-      "english": "I explain it to him/her.",
+      "french": "Je la lui explique.",
+      "english": "I explain it (the rule) to him/her.",
       "wordMeanings": {
-        "Se": "himself / herself / themselves",
-        "la": "the / it (fem)",
-        "explico": "I explain"
+        "Je la lui explique": "I explain it to him/her"
       }
     }
   ],
-  "grammarExplanation": "When both an indirect AND direct object pronoun appear together, the indirect one comes FIRST:\n\n• le/les + lo/la/los/las → 'se' replaces le/les\n• 'Le doy el libro' + 'lo' → 'Se lo doy' (I give it to her)\n\nWith infinitives, pronouns can attach to the end:\n• 'Se lo quiero dar' or 'Quiero dárselo'\n\nOrder: se → te/me/nos → lo/la/los/las → verb.",
+  "grammarExplanation": "When a sentence has both a Direct and an Indirect object pronoun, French uses a strict order:\n1. me / te / nous / vous (1st/2nd person)\n2. le / la / les (3rd person direct)\n3. lui / leur (3rd person indirect)\n\n• If mixing 1st/2nd + 3rd: 'Je vous (indir) les (dir) donne' (I give them to you).\n• If mixing two 3rd persons, the direct goes FIRST: 'Je le (dir) lui (indir) donne' (I give it to him/her).\nUnlink Spanish, French has no 'se lo' replacement—you just use 'le lui'. Also note standard placement is BEFORE infinitives.",
   "vocabulary": {
+    "donne": {
+      "mnemonic": "Think 'donate' — to give.",
+      "explanation": "From 'donner'."
+    },
     "le": {
-      "mnemonic": "'Lend to him/her' — indirect pronoun.",
-      "explanation": "Indirect object: to him/her."
-    },
-    "libro": {
-      "mnemonic": "Think 'library' — full of libros (books)!",
-      "explanation": "Means 'book'. Masculine noun."
-    },
-    "se": {
-      "mnemonic": "Think 'self' — reflexive pronoun.",
-      "explanation": "Replaces le/les before lo/la/los/las."
-    },
-    "lo": {
-      "mnemonic": "'Low him' — direct object him/it.",
+      "mnemonic": "The (masculine), but also 'him' or 'it'.",
       "explanation": "Masculine direct object pronoun."
     },
     "la": {
-      "mnemonic": "'La lady' — her/it (feminine).",
-      "explanation": "Also 'the' (feminine)."
-    },
-    "carta": {
-      "mnemonic": "Think 'card/letter'.",
-      "explanation": "Means 'letter' or 'menu'."
+      "mnemonic": "The (feminine), but also 'her' or 'it'.",
+      "explanation": "Feminine direct object pronoun."
     },
     "les": {
-      "mnemonic": "'Lend to them' — indirect pronoun.",
-      "explanation": "Indirect object: to them."
+      "mnemonic": "The (plural), but also 'them'.",
+      "explanation": "Plural direct object pronoun."
     },
-    "los": {
-      "mnemonic": "'Los' = them (masculine plural).",
-      "explanation": "Direct object pronoun."
+    "lui": {
+      "mnemonic": "Think 'Louis' — but it means BOTH to him and to her.",
+      "explanation": "Third person singular indirect object pronoun."
     },
-    "las": {
-      "mnemonic": "'Las ladies' — them (feminine).",
-      "explanation": "Direct object pronoun."
+    "leur": {
+      "mnemonic": "Sounds like 'lure' — lure it to them.",
+      "explanation": "Third person plural indirect object pronoun."
     },
-    "ustedes": {
-      "mnemonic": "Think 'you-sted-es' — all of you!",
-      "explanation": "Formal/neutral 'you all' in Latin American Spanish."
+    "vous": {
+      "mnemonic": "Think 'rendezvous' — gathering you all.",
+      "explanation": "Formal 'you' or plural 'you' (direct or indirect)."
     },
-    "hoy": {
-      "mnemonic": "'Hoy! today!' — an exclamation for today.",
+    "livre": {
+      "mnemonic": "Think 'library' — full of livres (books)!",
+      "explanation": "Means 'book'. Masculine noun."
+    },
+    "lettre": {
+      "mnemonic": "Identical.",
+      "explanation": "Feminine noun."
+    },
+    "clés": {
+      "mnemonic": "Think a 'clef' in music unlocks the notes.",
+      "explanation": "Means 'keys'."
+    },
+    "eux": {
+      "mnemonic": "Disjunctive 'them'.",
+      "explanation": "Used after prepositions ('à eux')."
+    },
+    "maintenant": {
+      "mnemonic": "Maintain the present moment.",
+      "explanation": "Means 'now'."
+    },
+    "aujourd'hui": {
+      "mnemonic": "The day of today.",
       "explanation": "Means 'today'."
     },
-    "ayer": {
-      "mnemonic": "'A year ago? No, just yesterday!'",
+    "hier": {
+      "mnemonic": "Rhymes with 'year' — yesterday.",
       "explanation": "Means 'yesterday'."
     },
-    "di": {
-      "mnemonic": "Think 'dictate' — Say/Tell!",
-      "explanation": "Irregular tú command of 'decir'."
+    "donné": {
+      "mnemonic": "Donated/given.",
+      "explanation": "Past participle of 'donner'."
     },
-    "he": {
-      "mnemonic": "'He' is the 'have' helper verb.",
-      "explanation": "Auxiliary for present perfect."
+    "donnée": {
+      "mnemonic": "Donated/given (fem).",
+      "explanation": "Agrees with preceding direct object 'la'."
     },
-    "quiero": {
-      "mnemonic": "'I query what I want' — I want.",
-      "explanation": "First person of 'querer' (to want)."
+    "veux": {
+      "mnemonic": "I vouch for what I want.",
+      "explanation": "From 'vouloir' (to want)."
     },
-    "voy": {
-      "mnemonic": "Think 'voyage' — I go!",
-      "explanation": "First person of 'ir' (to go). Irregular."
+    "vais": {
+      "mnemonic": "Voyage — I'm going.",
+      "explanation": "From 'aller' (to go)."
     },
-    "estamos": {
-      "mnemonic": "'We establish ourselves' — we are.",
-      "explanation": "First person plural of 'estar'."
+    "en train de": {
+      "mnemonic": "On the train of doing something.",
+      "explanation": "Means 'in the process of / currently'."
+    },
+    "dis": {
+      "mnemonic": "Dictate — tell/say.",
+      "explanation": "From 'dire'."
+    },
+    "explique": {
+      "mnemonic": "Explain/explicate.",
+      "explanation": "From 'expliquer'."
     }
   }
 }

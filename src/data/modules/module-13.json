@@ -1,500 +1,521 @@
 {
   "id": "module-13",
   "title": "Chapter 13: Direct Object Pronouns",
-  "description": "Replace nouns with 'lo, la, los, las'.",
+  "description": "Replace nouns with 'le, la, les'.",
   "level": "Beginner",
   "sentences": [
     {
       "id": "m13-s1",
-      "spanish": "Veo el libro.",
+      "french": "Je vois le livre.",
       "english": "I see the book.",
       "wordMeanings": {
-        "Veo": "I see",
-        "el": "the",
-        "libro": "book"
+        "Je vois": "I see",
+        "le": "the",
+        "livre": "book"
       }
     },
     {
       "id": "m13-s2",
-      "spanish": "Lo veo.",
+      "french": "Je le vois.",
       "english": "I see it.",
       "wordMeanings": {
-        "Lo": "it / him",
-        "veo": "I see"
+        "Je": "I",
+        "le": "it (masc)",
+        "vois": "see"
       }
     },
     {
       "id": "m13-s3",
-      "spanish": "Veo la casa.",
+      "french": "Je vois la maison.",
       "english": "I see the house.",
       "wordMeanings": {
-        "Veo": "I see",
-        "la": "the / it (fem)",
-        "casa": "house"
+        "Je vois": "I see",
+        "la": "the (fem)",
+        "maison": "house"
       }
     },
     {
       "id": "m13-s4",
-      "spanish": "La veo.",
+      "french": "Je la vois.",
       "english": "I see it.",
       "wordMeanings": {
-        "La": "the / it (fem)",
-        "veo": "I see"
+        "Je": "I",
+        "la": "it (fem)",
+        "vois": "see"
       }
     },
     {
       "id": "m13-s5",
-      "spanish": "Compro el pan.",
+      "french": "J'achète le pain.",
       "english": "I buy the bread.",
       "wordMeanings": {
-        "Compro": "I buy",
-        "el": "the",
-        "pan": "bread"
+        "J'achète": "I buy",
+        "le": "the",
+        "pain": "bread"
       }
     },
     {
       "id": "m13-s6",
-      "spanish": "Lo compro.",
+      "french": "Je l'achète.",
       "english": "I buy it.",
       "wordMeanings": {
-        "Lo": "it / him",
-        "compro": "I buy"
+        "Je": "I",
+        "l'": "it",
+        "achète": "buy"
       }
     },
     {
       "id": "m13-s7",
-      "spanish": "Compro la sopa.",
+      "french": "J'achète la soupe.",
       "english": "I buy the soup.",
       "wordMeanings": {
-        "Compro": "I buy",
-        "la": "the / it (fem)",
-        "sopa": "soup"
+        "J'achète": "I buy",
+        "la": "the (fem)",
+        "soupe": "soup"
       }
     },
     {
       "id": "m13-s8",
-      "spanish": "La compro.",
+      "french": "Je l'achète.",
       "english": "I buy it.",
       "wordMeanings": {
-        "La": "the / it (fem)",
-        "compro": "I buy"
+        "Je": "I",
+        "l'": "it",
+        "achète": "buy"
       }
     },
     {
       "id": "m13-s9",
-      "spanish": "Tienes el libro.",
+      "french": "Tu as le livre.",
       "english": "You have the book.",
       "wordMeanings": {
-        "Tienes": "you have",
-        "el": "the",
-        "libro": "book"
+        "Tu as": "you have",
+        "le": "the",
+        "livre": "book"
       }
     },
     {
       "id": "m13-s10",
-      "spanish": "Lo tienes.",
+      "french": "Tu l'as.",
       "english": "You have it.",
       "wordMeanings": {
-        "Lo": "it / him",
-        "tienes": "you have"
+        "Tu": "you",
+        "l'": "it",
+        "as": "have"
       }
     },
     {
       "id": "m13-s11",
-      "spanish": "Tienes la carta.",
+      "french": "Tu as la lettre.",
       "english": "You have the letter.",
       "wordMeanings": {
-        "Tienes": "you have",
-        "la": "the / it (fem)",
-        "carta": "letter"
+        "Tu as": "you have",
+        "la": "the (fem)",
+        "lettre": "letter"
       }
     },
     {
       "id": "m13-s12",
-      "spanish": "La tienes.",
+      "french": "Tu l'as.",
       "english": "You have it.",
       "wordMeanings": {
-        "La": "the / it (fem)",
-        "tienes": "you have"
+        "Tu": "you",
+        "l'": "it",
+        "as": "have"
       }
     },
     {
       "id": "m13-s13",
-      "spanish": "Busco los libros.",
+      "french": "Je cherche les livres.",
       "english": "I look for the books.",
       "wordMeanings": {
-        "Busco": "I look for",
-        "los": "the / them",
-        "libros": "books"
+        "Je cherche": "I look for",
+        "les": "the (pl)",
+        "livres": "books"
       }
     },
     {
       "id": "m13-s14",
-      "spanish": "Los busco.",
+      "french": "Je les cherche.",
       "english": "I look for them.",
       "wordMeanings": {
-        "Los": "the / them",
-        "busco": "I look for"
+        "Je": "I",
+        "les": "them",
+        "cherche": "look for"
       }
     },
     {
       "id": "m13-s15",
-      "spanish": "Busco las llaves.",
+      "french": "Je cherche les clés.",
       "english": "I look for the keys.",
       "wordMeanings": {
-        "Busco": "I look for",
-        "las": "the / them (fem)",
-        "llaves": "keys"
+        "Je cherche": "I look for",
+        "les": "the (pl)",
+        "clés": "keys"
       }
     },
     {
       "id": "m13-s16",
-      "spanish": "Las busco.",
+      "french": "Je les cherche.",
       "english": "I look for them.",
       "wordMeanings": {
-        "Las": "the / them (fem)",
-        "busco": "I look for"
+        "Je": "I",
+        "les": "them",
+        "cherche": "look for"
       }
     },
     {
       "id": "m13-s17",
-      "spanish": "¿Ves el café?",
-      "english": "Do you see the coffee?",
+      "french": "Vois-tu le café ?",
+      "english": "Do you see the café?",
       "wordMeanings": {
-        "Ves": "you see",
-        "el": "the",
-        "café": "coffee"
+        "Vois-tu": "do you see",
+        "le": "the",
+        "café": "café"
       }
     },
     {
       "id": "m13-s18",
-      "spanish": "Sí, lo veo.",
+      "french": "Oui, je le vois.",
       "english": "Yes, I see it.",
       "wordMeanings": {
-        "Sí": "yes",
-        "lo": "it / him",
-        "veo": "I see"
+        "Oui": "yes",
+        "je": "I",
+        "le": "it (masc)",
+        "vois": "see"
       }
     },
     {
       "id": "m13-s19",
-      "spanish": "¿Ves la mesa?",
+      "french": "Vois-tu la table ?",
       "english": "Do you see the table?",
       "wordMeanings": {
-        "Ves": "you see",
-        "la": "the / it (fem)",
-        "mesa": "table"
+        "Vois-tu": "do you see",
+        "la": "the (fem)",
+        "table": "table"
       }
     },
     {
       "id": "m13-s20",
-      "spanish": "Sí, la veo.",
+      "french": "Oui, je la vois.",
       "english": "Yes, I see it.",
       "wordMeanings": {
-        "Sí": "yes",
-        "la": "the / it (fem)",
-        "veo": "I see"
+        "Oui": "yes",
+        "je": "I",
+        "la": "it (fem)",
+        "vois": "see"
       }
     },
     {
       "id": "m13-s21",
-      "spanish": "¿Compraste el coche?",
+      "french": "As-tu acheté la voiture ?",
       "english": "Did you buy the car?",
       "wordMeanings": {
-        "Compraste": "you bought",
-        "el": "the",
-        "coche": "car"
+        "As-tu acheté": "did you buy",
+        "la": "the (fem)",
+        "voiture": "car"
       }
     },
     {
       "id": "m13-s22",
-      "spanish": "Sí, lo compré.",
+      "french": "Oui, je l'ai achetée.",
       "english": "Yes, I bought it.",
       "wordMeanings": {
-        "Sí": "yes",
-        "lo": "it / him",
-        "compré": "I bought"
+        "Oui": "yes",
+        "je l'ai achetée": "I bought it"
       }
     },
     {
       "id": "m13-s23",
-      "spanish": "¿Compraste la casa?",
+      "french": "As-tu acheté la maison ?",
       "english": "Did you buy the house?",
       "wordMeanings": {
-        "Compraste": "you bought",
-        "la": "the / it (fem)",
-        "casa": "house"
+        "As-tu acheté": "did you buy",
+        "la": "the (fem)",
+        "maison": "house"
       }
     },
     {
       "id": "m13-s24",
-      "spanish": "No, no la compré.",
-      "english": "No, I didn’t buy it.",
+      "french": "Non, je ne l'ai pas achetée.",
+      "english": "No, I didn't buy it.",
       "wordMeanings": {
-        "No": "no / not",
-        "no": "no / not",
-        "la": "the / it (fem)",
-        "compré": "I bought"
+        "Non": "no",
+        "je ne l'ai pas achetée": "I didn't buy it."
       }
     },
     {
       "id": "m13-s25",
-      "spanish": "Ayer abrí el libro.",
+      "french": "Hier j'ai ouvert le livre.",
       "english": "Yesterday I opened the book.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "abrí": "I opened",
-        "el": "the",
-        "libro": "book"
+        "Hier": "yesterday",
+        "j'ai ouvert": "I opened",
+        "le": "the",
+        "livre": "book"
       }
     },
     {
       "id": "m13-s26",
-      "spanish": "Ayer lo abrí.",
+      "french": "Hier je l'ai ouvert.",
       "english": "Yesterday I opened it.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "lo": "it / him",
-        "abrí": "I opened"
+        "Hier": "yesterday",
+        "je l'ai ouvert": "I opened it (masc)"
       }
     },
     {
       "id": "m13-s27",
-      "spanish": "Ayer abrí la puerta.",
+      "french": "Hier j'ai ouvert la porte.",
       "english": "Yesterday I opened the door.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "abrí": "I opened",
-        "la": "the / it (fem)",
-        "puerta": "door"
+        "Hier": "yesterday",
+        "j'ai ouvert": "I opened",
+        "la": "the (fem)",
+        "porte": "door"
       }
     },
     {
       "id": "m13-s28",
-      "spanish": "Ayer la abrí.",
+      "french": "Hier je l'ai ouverte.",
       "english": "Yesterday I opened it.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "la": "the / it (fem)",
-        "abrí": "I opened"
+        "Hier": "yesterday",
+        "je l'ai ouverte": "I opened it (fem)"
       }
     },
     {
       "id": "m13-s29",
-      "spanish": "Estoy leyendo el libro.",
-      "english": "I’m reading the book.",
+      "french": "Je suis en train de lire le livre.",
+      "english": "I am reading the book.",
       "wordMeanings": {
-        "Estoy": "I am",
-        "leyendo": "reading",
-        "el": "the",
-        "libro": "book"
+        "Je suis en train de": "I am currently (in the process of)",
+        "lire": "to read",
+        "le": "the",
+        "livre": "book"
       }
     },
     {
       "id": "m13-s30",
-      "spanish": "Lo estoy leyendo.",
-      "english": "I’m reading it.",
+      "french": "Je suis en train de le lire.",
+      "english": "I am reading it.",
       "wordMeanings": {
-        "Lo": "it / him",
-        "estoy": "I am",
-        "leyendo": "reading"
+        "Je suis en train de": "I am currently",
+        "le": "it (masc)",
+        "lire": "to read"
       }
     },
     {
       "id": "m13-s31",
-      "spanish": "Estoy escribiendo la carta.",
-      "english": "I’m writing the letter.",
+      "french": "Je suis en train d'écrire la lettre.",
+      "english": "I am writing the letter.",
       "wordMeanings": {
-        "Estoy": "I am",
-        "escribiendo": "writing",
-        "la": "the / it (fem)",
-        "carta": "letter"
+        "Je suis en train d'": "I am currently",
+        "écrire": "to write",
+        "la": "the (fem)",
+        "lettre": "letter"
       }
     },
     {
       "id": "m13-s32",
-      "spanish": "La estoy escribiendo.",
-      "english": "I’m writing it.",
+      "french": "Je suis en train de l'écrire.",
+      "english": "I am writing it.",
       "wordMeanings": {
-        "La": "the / it (fem)",
-        "estoy": "I am",
-        "escribiendo": "writing"
+        "Je suis en train de": "I am currently",
+        "l'": "it (fem)",
+        "écrire": "to write"
       }
     },
     {
       "id": "m13-s33",
-      "spanish": "¿Dónde está el libro? No lo veo.",
-      "english": "Where is the book? I don’t see it.",
+      "french": "Où est le livre ? Je ne le vois pas.",
+      "english": "Where is the book? I don't see it.",
       "wordMeanings": {
-        "Dónde": "where",
-        "está": "is",
-        "el": "the",
-        "libro": "book",
-        "No": "no / not",
-        "lo": "it / him",
-        "veo": "I see"
+        "Où": "where",
+        "est": "is",
+        "le": "the",
+        "livre": "book",
+        "Je ne le vois pas": "I don't see it"
       }
     },
     {
       "id": "m13-s34",
-      "spanish": "¿Dónde está la llave? No la encuentro.",
-      "english": "Where is the key? I can’t find it.",
+      "french": "Où est la clé ? Je ne la trouve pas.",
+      "english": "Where is the key? I don't find it.",
       "wordMeanings": {
-        "Dónde": "where",
-        "está": "is",
-        "la": "the / it (fem)",
-        "llave": "key",
-        "No": "no / not",
-        "encuentro": "I find"
+        "Où": "where",
+        "est": "is",
+        "la": "the (fem)",
+        "clé": "key",
+        "Je ne la trouve pas": "I don't find it"
       }
     },
     {
       "id": "m13-s35",
-      "spanish": "Lo quiero.",
+      "french": "Je le veux.",
       "english": "I want it.",
       "wordMeanings": {
-        "Lo": "it / him",
-        "quiero": "I want"
+        "Je": "I",
+        "le": "it (masc)",
+        "veux": "want"
       }
     },
     {
       "id": "m13-s36",
-      "spanish": "La quiero.",
+      "french": "Je la veux.",
       "english": "I want it.",
       "wordMeanings": {
-        "La": "the / it (fem)",
-        "quiero": "I want"
+        "Je": "I",
+        "la": "it (fem)",
+        "veux": "want"
       }
     },
     {
       "id": "m13-s37",
-      "spanish": "Los quiero.",
+      "french": "Je les veux.",
       "english": "I want them.",
       "wordMeanings": {
-        "Los": "the / them",
-        "quiero": "I want"
+        "Je": "I",
+        "les": "them",
+        "veux": "want"
       }
     },
     {
       "id": "m13-s38",
-      "spanish": "Las quiero.",
-      "english": "I want them.",
+      "french": "Je les veux aussi.",
+      "english": "I want them too.",
       "wordMeanings": {
-        "Las": "the / them (fem)",
-        "quiero": "I want"
+        "Je": "I",
+        "les": "them",
+        "veux": "want",
+        "aussi": "also/too"
       }
     },
     {
       "id": "m13-s39",
-      "spanish": "¿Lo tienes aquí?",
+      "french": "L'as-tu ici ?",
       "english": "Do you have it here?",
       "wordMeanings": {
-        "Lo": "it / him",
-        "tienes": "you have",
-        "aquí": "here"
+        "L'as-tu": "do you have it",
+        "ici": "here"
       }
     },
     {
       "id": "m13-s40",
-      "spanish": "Sí, lo tengo aquí.",
+      "french": "Oui, je l'ai ici.",
       "english": "Yes, I have it here.",
       "wordMeanings": {
-        "Sí": "yes",
-        "lo": "it / him",
-        "tengo": "I have",
-        "aquí": "here"
+        "Oui": "yes",
+        "je l'ai": "I have it",
+        "ici": "here"
       }
     }
   ],
-  "grammarExplanation": "Direct object pronouns replace the noun receiving the action:\n\n• lo = it/him (masculine)\n• la = it/her (feminine)\n• los = them (masculine)\n• las = them (feminine)\n\nThey go BEFORE the conjugated verb:\n• 'Veo el libro' → 'Lo veo' (I see it)\n• 'Compro la sopa' → 'La compro' (I buy it)\n\nWith infinitives/gerunds, they can attach to the end:\n• 'Lo estoy leyendo' or 'Estoy leyéndolo'",
+  "grammarExplanation": "Direct Object Pronouns replace the noun receiving the action directly (what or who).\n\n• le = it/him (masculine)\n• la = it/her (feminine)\n• l' = it/him/her (before a vowel)\n• les = them (plural)\n\nIn French, they always go BEFORE the verb, even with infinitives:\n• 'Je vois le livre' → 'Je le vois'\n• 'Je vais lire le livre' → 'Je vais le lire'\nNote: In the passé composé, the past participle must agree with a preceding direct object. ('Je l'ai ouverte' = I opened it [la porte]).",
   "vocabulary": {
-    "libro": {
-      "mnemonic": "Think 'library' — full of libros (books)!",
+    "livre": {
+      "mnemonic": "Think 'library' — full of livres (books)!",
       "explanation": "Means 'book'. Masculine noun."
     },
-    "lo": {
-      "mnemonic": "'Low him' — direct object him/it.",
+    "le": {
+      "mnemonic": "The (masculine), but also 'him' or 'it'.",
       "explanation": "Masculine direct object pronoun."
     },
     "la": {
-      "mnemonic": "'La lady' — her/it (feminine).",
-      "explanation": "Also 'the' (feminine)."
+      "mnemonic": "The (feminine), but also 'her' or 'it'.",
+      "explanation": "Feminine direct object pronoun."
     },
-    "casa": {
-      "mnemonic": "Think 'casino' — a big house of games.",
-      "explanation": "Feminine noun. 'En casa' = at home."
+    "l'": {
+      "mnemonic": "Smashed 'le' or 'la' before a vowel.",
+      "explanation": "Used before vowels or silent H."
     },
-    "compro": {
-      "mnemonic": "'Compare-o' — I compare before I buy.",
-      "explanation": "First person of 'comprar' (to buy)."
+    "les": {
+      "mnemonic": "The (plural), but also 'them'.",
+      "explanation": "Plural direct object pronoun."
     },
-    "pan": {
+    "vois": {
+      "mnemonic": "Think 'voyeur' — someone who sees/watches.",
+      "explanation": "From 'voir' (to see)."
+    },
+    "maison": {
+      "mnemonic": "Think 'mansion' — a house.",
+      "explanation": "Feminine noun for 'house'."
+    },
+    "achète": {
+      "mnemonic": "Think 'a checklist' — you need one when buying.",
+      "explanation": "Third/first person of 'acheter' (to buy)."
+    },
+    "pain": {
       "mnemonic": "Bread baked in a pan!",
       "explanation": "Means 'bread'. Masculine noun."
     },
-    "tienes": {
-      "mnemonic": "'Tea-en-es' — you have tea.",
-      "explanation": "Informal 'you have'. From 'tener'."
+    "soupe": {
+      "mnemonic": "Identical root as 'soup'.",
+      "explanation": "Feminine noun."
     },
-    "carta": {
-      "mnemonic": "Think 'card/letter'.",
-      "explanation": "Means 'letter' or 'menu'."
+    "lettre": {
+      "mnemonic": "Identical.",
+      "explanation": "Feminine noun."
     },
-    "busco": {
-      "mnemonic": "'Bus-go' — I go looking for it.",
-      "explanation": "First person of 'buscar' (to look for)."
+    "cherche": {
+      "mnemonic": "Think 'search' — nearly the same word.",
+      "explanation": "Means 'to look for / to search'."
     },
-    "los": {
-      "mnemonic": "'Los' = them (masculine plural).",
-      "explanation": "Direct object pronoun."
+    "clés": {
+      "mnemonic": "Think a 'clef' in music unlocks the notes.",
+      "explanation": "Means 'keys'."
     },
-    "las": {
-      "mnemonic": "'Las ladies' — them (feminine).",
-      "explanation": "Direct object pronoun."
+    "table": {
+      "mnemonic": "Table.",
+      "explanation": "Means 'table'. Feminine."
     },
-    "café": {
-      "mnemonic": "Same as English 'café' — coffee!",
-      "explanation": "Means 'coffee' or 'café'."
+    "voiture": {
+      "mnemonic": "Voyage in a voiture.",
+      "explanation": "Means 'car'. Feminine."
     },
-    "mesa": {
-      "mnemonic": "A 'mesa' (flat-topped hill) — flat like a table.",
-      "explanation": "Means 'table'. Feminine noun."
+    "achetée": {
+      "mnemonic": "Bought (feminine agreement).",
+      "explanation": "Past participle agreeing with preceding direct object 'la'."
     },
-    "coche": {
-      "mnemonic": "Think 'coach' — a horse-drawn coach = car.",
-      "explanation": "Means 'car'. Mainly used in Spain."
+    "porte": {
+      "mnemonic": "Portal — door.",
+      "explanation": "Means 'door'."
     },
-    "ayer": {
-      "mnemonic": "'A year ago? No, just yesterday!'",
-      "explanation": "Means 'yesterday'."
+    "ouverte": {
+      "mnemonic": "Opened (feminine agreement).",
+      "explanation": "Past participle agreeing with 'la porte'."
     },
-    "puerta": {
-      "mnemonic": "Think 'port/portal' — a door.",
-      "explanation": "Feminine noun meaning door/gate."
+    "en train de": {
+      "mnemonic": "On the train of doing something.",
+      "explanation": "Means 'in the process of / currently'."
     },
-    "estoy": {
-      "mnemonic": "'I estoy here!' — I am (located/feeling).",
-      "explanation": "First person of 'estar'. For location and feelings."
+    "lire": {
+      "mnemonic": "Think 'literature' — to read.",
+      "explanation": "Means 'to read'."
     },
-    "dónde": {
-      "mnemonic": "Think 'done-day' — where?",
-      "explanation": "Question word for location."
+    "écrire": {
+      "mnemonic": "Think 'scribe' — to write.",
+      "explanation": "Means 'to write'."
     },
-    "está": {
-      "mnemonic": "Think 'establish' where something is.",
-      "explanation": "Third person of 'estar' (to be, location/state)."
+    "où": {
+      "mnemonic": "Where? Ooh, I don't know.",
+      "explanation": "Means 'where'."
     },
-    "quiero": {
-      "mnemonic": "'I query what I want' — I want.",
-      "explanation": "First person of 'querer' (to want)."
+    "trouve": {
+      "mnemonic": "Treasure trove — you find it.",
+      "explanation": "From 'trouver' (to find)."
     },
-    "aquí": {
-      "mnemonic": "Sounds like 'a key' — 'The key is right here!'",
-      "explanation": "Means 'here'. More precise than 'acá'."
+    "veux": {
+      "mnemonic": "Think 'vouch' — I vouch for what I want.",
+      "explanation": "First person of vouloir (to want)."
     },
-    "tengo": {
-      "mnemonic": "Think 'tango' — I have a tango partner!",
-      "explanation": "First person of 'tener' (to have). Irregular."
+    "aussi": {
+      "mnemonic": "Oh, see! me too!",
+      "explanation": "Means 'also / too'."
+    },
+    "ici": {
+      "mnemonic": "The key is here.",
+      "explanation": "Means 'here'."
     }
   }
 }

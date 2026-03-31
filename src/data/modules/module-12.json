@@ -1,666 +1,717 @@
 {
   "id": "module-12",
-  "title": "Chapter 12: The Present Perfect",
-  "description": "Talk about what you 'have done'.",
+  "title": "Chapter 12: The Recent Past",
+  "description": "Talk about what you 'just did' using venir de.",
   "level": "Beginner",
   "sentences": [
     {
       "id": "m12-s1",
-      "spanish": "He comido pan.",
-      "english": "I have eaten bread.",
+      "french": "Je viens de manger du pain.",
+      "english": "I just ate bread.",
       "wordMeanings": {
-        "He": "I have",
-        "comido": "eaten",
-        "pan": "bread"
+        "Je viens de": "I come from (I just)",
+        "manger": "to eat",
+        "du": "some",
+        "pain": "bread"
       }
     },
     {
       "id": "m12-s2",
-      "spanish": "Has comido sopa.",
-      "english": "You have eaten soup.",
+      "french": "Tu viens de manger de la soupe.",
+      "english": "You just ate soup.",
       "wordMeanings": {
-        "Has": "you have",
-        "comido": "eaten",
-        "sopa": "soup"
+        "Tu viens de": "you come from (you just)",
+        "manger": "to eat",
+        "de la": "some",
+        "soupe": "soup"
       }
     },
     {
       "id": "m12-s3",
-      "spanish": "Ha bebido agua.",
-      "english": "He/She has drunk water.",
+      "french": "Il vient de boire de l'eau.",
+      "english": "He just drank water.",
       "wordMeanings": {
-        "Ha": "has",
-        "bebido": "drunk",
-        "agua": "water"
+        "Il vient de": "he comes from (he just)",
+        "boire": "to drink",
+        "de l'": "some",
+        "eau": "water"
       }
     },
     {
       "id": "m12-s4",
-      "spanish": "Hemos bebido café.",
-      "english": "We have drunk coffee.",
+      "french": "Nous venons de boire du café.",
+      "english": "We just drank coffee.",
       "wordMeanings": {
-        "Hemos": "we have",
-        "bebido": "drunk",
-        "café": "coffee"
+        "Nous venons de": "we come from (we just)",
+        "boire": "to drink",
+        "du": "some",
+        "café": "café/coffee"
       }
     },
     {
       "id": "m12-s5",
-      "spanish": "Han comido en casa.",
-      "english": "They have eaten at home.",
+      "french": "Ils viennent de manger à la maison.",
+      "english": "They just ate at home.",
       "wordMeanings": {
-        "Han": "have",
-        "comido": "eaten",
-        "en": "in / on",
-        "casa": "house"
+        "Ils viennent de": "they come from (they just)",
+        "manger": "to eat",
+        "à": "at",
+        "la": "the (fem)",
+        "maison": "house"
       }
     },
     {
       "id": "m12-s6",
-      "spanish": "¿Has estudiado hoy?",
-      "english": "Have you studied today?",
+      "french": "Viens-tu d'étudier aujourd'hui ?",
+      "english": "Did you just study today?",
       "wordMeanings": {
-        "Has": "you have",
-        "estudiado": "studied",
-        "hoy": "today"
+        "Viens-tu d'": "do you come from (did you just)",
+        "étudier": "to study",
+        "aujourd'hui": "today"
       }
     },
     {
       "id": "m12-s7",
-      "spanish": "Sí, he estudiado hoy.",
-      "english": "Yes, I have studied today.",
+      "french": "Oui, je viens d'étudier aujourd'hui.",
+      "english": "Yes, I just studied today.",
       "wordMeanings": {
-        "Sí": "yes",
-        "he": "I have",
-        "estudiado": "studied",
-        "hoy": "today"
+        "Oui": "yes",
+        "je viens d'": "I come from (I just)",
+        "étudier": "to study",
+        "aujourd'hui": "today"
       }
     },
     {
       "id": "m12-s8",
-      "spanish": "No, no he estudiado hoy.",
-      "english": "No, I haven't studied today.",
+      "french": "Non, je ne viens pas d'étudier aujourd'hui.",
+      "english": "No, I didn't just study today.",
       "wordMeanings": {
-        "No": "no / not",
-        "no": "no / not",
-        "he": "I have",
-        "estudiado": "studied",
-        "hoy": "today"
+        "Non": "no",
+        "je ne viens pas d'": "I do not come from (I did not just)",
+        "étudier": "to study",
+        "aujourd'hui": "today"
       }
     },
     {
       "id": "m12-s9",
-      "spanish": "He trabajado mucho.",
-      "english": "I have worked a lot.",
+      "french": "Je viens de travailler beaucoup.",
+      "english": "I just worked a lot.",
       "wordMeanings": {
-        "He": "I have",
-        "trabajado": "worked",
-        "mucho": "much / a lot"
+        "Je viens de": "I come from (I just)",
+        "travailler": "to work",
+        "beaucoup": "a lot"
       }
     },
     {
       "id": "m12-s10",
-      "spanish": "Has trabajado en casa.",
-      "english": "You have worked at home.",
+      "french": "Tu viens de travailler à la maison.",
+      "english": "You just worked at home.",
       "wordMeanings": {
-        "Has": "you have",
-        "trabajado": "worked",
-        "en": "in / on",
-        "casa": "house"
+        "Tu viens de": "you come from (you just)",
+        "travailler": "to work",
+        "à": "at",
+        "la": "the (fem)",
+        "maison": "house"
       }
     },
     {
       "id": "m12-s11",
-      "spanish": "Ha trabajado en el centro.",
-      "english": "He/She has worked downtown.",
+      "french": "Elle vient de travailler en centre-ville.",
+      "english": "She just worked downtown.",
       "wordMeanings": {
-        "Ha": "has",
-        "trabajado": "worked",
-        "en": "in / on",
-        "el": "the",
-        "centro": "downtown"
+        "Elle vient de": "she comes from (she just)",
+        "travailler": "to work",
+        "en": "in",
+        "centre-ville": "downtown"
       }
     },
     {
       "id": "m12-s12",
-      "spanish": "Hemos trabajado hoy.",
-      "english": "We have worked today.",
+      "french": "Nous venons de travailler aujourd'hui.",
+      "english": "We just worked today.",
       "wordMeanings": {
-        "Hemos": "we have",
-        "trabajado": "worked",
-        "hoy": "today"
+        "Nous venons de": "we come from (we just)",
+        "travailler": "to work",
+        "aujourd'hui": "today"
       }
     },
     {
       "id": "m12-s13",
-      "spanish": "He hablado con Ana.",
-      "english": "I have spoken with Ana.",
+      "french": "Je viens de parler avec Ana.",
+      "english": "I just spoke with Ana.",
       "wordMeanings": {
-        "He": "I have",
-        "hablado": "spoken",
-        "con": "with",
+        "Je viens de": "I come from (I just)",
+        "parler": "to speak",
+        "avec": "with",
         "Ana": "Ana"
       }
     },
     {
       "id": "m12-s14",
-      "spanish": "Has hablado con Luis.",
-      "english": "You have spoken with Luis.",
+      "french": "Tu viens de parler avec Luis.",
+      "english": "You just spoke with Luis.",
       "wordMeanings": {
-        "Has": "you have",
-        "hablado": "spoken",
-        "con": "with",
+        "Tu viens de": "you come from (you just)",
+        "parler": "to speak",
+        "avec": "with",
         "Luis": "Luis"
       }
     },
     {
       "id": "m12-s15",
-      "spanish": "Ha hablado con Marta.",
-      "english": "He/She has spoken with Marta.",
+      "french": "Il vient de parler avec Marta.",
+      "english": "He just spoke with Marta.",
       "wordMeanings": {
-        "Ha": "has",
-        "hablado": "spoken",
-        "con": "with",
+        "Il vient de": "he comes from (he just)",
+        "parler": "to speak",
+        "avec": "with",
         "Marta": "Marta"
       }
     },
     {
       "id": "m12-s16",
-      "spanish": "Hemos hablado en español.",
-      "english": "We have spoken in Spanish.",
+      "french": "Nous venons de parler en français.",
+      "english": "We just spoke in French.",
       "wordMeanings": {
-        "Hemos": "we have",
-        "hablado": "spoken",
-        "en": "in / on",
-        "español": "Spanish"
+        "Nous venons de": "we come from (we just)",
+        "parler": "to speak",
+        "en": "in",
+        "français": "French"
       }
     },
     {
       "id": "m12-s17",
-      "spanish": "He comprado pan.",
-      "english": "I have bought bread.",
+      "french": "Je viens d'acheter du pain.",
+      "english": "I just bought bread.",
       "wordMeanings": {
-        "He": "I have",
-        "comprado": "bought",
-        "pan": "bread"
+        "Je viens d'": "I come from (I just)",
+        "acheter": "to buy",
+        "du": "some",
+        "pain": "bread"
       }
     },
     {
       "id": "m12-s18",
-      "spanish": "Has comprado café.",
-      "english": "You have bought coffee.",
+      "french": "Tu viens d'acheter du café.",
+      "english": "You just bought coffee.",
       "wordMeanings": {
-        "Has": "you have",
-        "comprado": "bought",
-        "café": "coffee"
+        "Tu viens d'": "you come from (you just)",
+        "acheter": "to buy",
+        "du": "some",
+        "café": "café/coffee"
       }
     },
     {
       "id": "m12-s19",
-      "spanish": "Ha comprado un libro.",
-      "english": "He/She has bought a book.",
+      "french": "Elle vient d'acheter un livre.",
+      "english": "She just bought a book.",
       "wordMeanings": {
-        "Ha": "has",
-        "comprado": "bought",
+        "Elle vient d'": "she comes from (she just)",
+        "acheter": "to buy",
         "un": "a",
-        "libro": "book"
+        "livre": "book"
       }
     },
     {
       "id": "m12-s20",
-      "spanish": "Hemos comprado comida.",
-      "english": "We have bought food.",
+      "french": "Nous venons d'acheter de la nourriture.",
+      "english": "We just bought food.",
       "wordMeanings": {
-        "Hemos": "we have",
-        "comprado": "bought",
-        "comida": "food"
+        "Nous venons d'": "we come from (we just)",
+        "acheter": "to buy",
+        "de la": "some",
+        "nourriture": "food/nourishment"
       }
     },
     {
       "id": "m12-s21",
-      "spanish": "He buscado un trabajo.",
-      "english": "I have looked for a job.",
+      "french": "Je viens de chercher un travail.",
+      "english": "I just looked for a job.",
       "wordMeanings": {
-        "He": "I have",
-        "buscado": "looked for",
+        "Je viens de": "I come from (I just)",
+        "chercher": "to look for",
         "un": "a",
-        "trabajo": "I work / job"
+        "travail": "work/job"
       }
     },
     {
       "id": "m12-s22",
-      "spanish": "Has buscado un café.",
-      "english": "You have looked for a café.",
+      "french": "Tu viens de chercher un café.",
+      "english": "You just looked for a café.",
       "wordMeanings": {
-        "Has": "you have",
-        "buscado": "looked for",
+        "Tu viens de": "you come from (you just)",
+        "chercher": "to look for",
         "un": "a",
-        "café": "coffee"
+        "café": "café"
       }
     },
     {
       "id": "m12-s23",
-      "spanish": "Ha buscado una casa.",
-      "english": "He/She has looked for a house.",
+      "french": "Il vient de chercher une maison.",
+      "english": "He just looked for a house.",
       "wordMeanings": {
-        "Ha": "has",
-        "buscado": "looked for",
-        "una": "a (fem)",
-        "casa": "house"
+        "Il vient de": "he comes from (he just)",
+        "chercher": "to look for",
+        "une": "a (fem)",
+        "maison": "house"
       }
     },
     {
       "id": "m12-s24",
-      "spanish": "He abierto la puerta.",
-      "english": "I have opened the door.",
+      "french": "Je viens d'ouvrir la porte.",
+      "english": "I just opened the door.",
       "wordMeanings": {
-        "He": "I have",
-        "abierto": "opened",
-        "la": "the / it (fem)",
-        "puerta": "door"
+        "Je viens d'": "I come from (I just)",
+        "ouvrir": "to open",
+        "la": "the (fem)",
+        "porte": "door"
       }
     },
     {
       "id": "m12-s25",
-      "spanish": "Has abierto el libro.",
-      "english": "You have opened the book.",
+      "french": "Tu viens d'ouvrir le livre.",
+      "english": "You just opened the book.",
       "wordMeanings": {
-        "Has": "you have",
-        "abierto": "opened",
-        "el": "the",
-        "libro": "book"
+        "Tu viens d'": "you come from (you just)",
+        "ouvrir": "to open",
+        "le": "the",
+        "livre": "book"
       }
     },
     {
       "id": "m12-s26",
-      "spanish": "Ha abierto la ventana.",
-      "english": "He/She has opened the window.",
+      "french": "Elle vient d'ouvrir la fenêtre.",
+      "english": "She just opened the window.",
       "wordMeanings": {
-        "Ha": "has",
-        "abierto": "opened",
-        "la": "the / it (fem)",
-        "ventana": "window"
+        "Elle vient d'": "she comes from (she just)",
+        "ouvrir": "to open",
+        "la": "the (fem)",
+        "fenêtre": "window"
       }
     },
     {
       "id": "m12-s27",
-      "spanish": "He escrito un mensaje.",
-      "english": "I have written a message.",
+      "french": "Je viens d'écrire un message.",
+      "english": "I just wrote a message.",
       "wordMeanings": {
-        "He": "I have",
-        "escrito": "written",
+        "Je viens d'": "I come from (I just)",
+        "écrire": "to write",
         "un": "a",
-        "mensaje": "message"
+        "message": "message"
       }
     },
     {
       "id": "m12-s28",
-      "spanish": "Has escrito una carta.",
-      "english": "You have written a letter.",
+      "french": "Tu viens d'écrire une lettre.",
+      "english": "You just wrote a letter.",
       "wordMeanings": {
-        "Has": "you have",
-        "escrito": "written",
-        "una": "a (fem)",
-        "carta": "letter"
+        "Tu viens d'": "you come from (you just)",
+        "écrire": "to write",
+        "une": "a (fem)",
+        "lettre": "letter"
       }
     },
     {
       "id": "m12-s29",
-      "spanish": "Ha escrito un mensaje.",
-      "english": "He/She has written a message.",
+      "french": "Il vient d'écrire un message.",
+      "english": "He just wrote a message.",
       "wordMeanings": {
-        "Ha": "has",
-        "escrito": "written",
+        "Il vient d'": "he comes from (he just)",
+        "écrire": "to write",
         "un": "a",
-        "mensaje": "message"
+        "message": "message"
       }
     },
     {
       "id": "m12-s30",
-      "spanish": "He recibido un mensaje.",
-      "english": "I have received a message.",
+      "french": "Je viens de recevoir un message.",
+      "english": "I just received a message.",
       "wordMeanings": {
-        "He": "I have",
-        "recibido": "received",
+        "Je viens de": "I come from (I just)",
+        "recevoir": "to receive",
         "un": "a",
-        "mensaje": "message"
+        "message": "message"
       }
     },
     {
       "id": "m12-s31",
-      "spanish": "Has recibido una carta.",
-      "english": "You have received a letter.",
+      "french": "Tu viens de recevoir une lettre.",
+      "english": "You just received a letter.",
       "wordMeanings": {
-        "Has": "you have",
-        "recibido": "received",
-        "una": "a (fem)",
-        "carta": "letter"
+        "Tu viens de": "you come from (you just)",
+        "recevoir": "to receive",
+        "une": "a (fem)",
+        "lettre": "letter"
       }
     },
     {
       "id": "m12-s32",
-      "spanish": "Ha recibido un libro.",
-      "english": "He/She has received a book.",
+      "french": "Elle vient de recevoir un livre.",
+      "english": "She just received a book.",
       "wordMeanings": {
-        "Ha": "has",
-        "recibido": "received",
+        "Elle vient de": "she comes from (she just)",
+        "recevoir": "to receive",
         "un": "a",
-        "libro": "book"
+        "livre": "book"
       }
     },
     {
       "id": "m12-s33",
-      "spanish": "Hoy he tenido tiempo.",
-      "english": "Today I have had time.",
+      "french": "Aujourd'hui je viens d'avoir du temps.",
+      "english": "Today I just had time.",
       "wordMeanings": {
-        "Hoy": "today",
-        "he": "I have",
-        "tenido": "had",
-        "tiempo": "time"
+        "Aujourd'hui": "today",
+        "je viens d'": "I come from (I just)",
+        "avoir": "to have",
+        "du": "some",
+        "temps": "time"
       }
     },
     {
       "id": "m12-s34",
-      "spanish": "Hoy he tenido hambre.",
-      "english": "Today I have been hungry.",
+      "french": "Aujourd'hui je viens d'avoir faim.",
+      "english": "Today I just was hungry.",
       "wordMeanings": {
-        "Hoy": "today",
-        "he": "I have",
-        "tenido": "had",
-        "hambre": "hunger"
+        "Aujourd'hui": "today",
+        "je viens d'": "I come from (I just)",
+        "avoir": "to have",
+        "faim": "hunger"
       }
     },
     {
       "id": "m12-s35",
-      "spanish": "Hoy he tenido sed.",
-      "english": "Today I have been thirsty.",
+      "french": "Aujourd'hui je viens d'avoir soif.",
+      "english": "Today I just was thirsty.",
       "wordMeanings": {
-        "Hoy": "today",
-        "he": "I have",
-        "tenido": "had",
-        "sed": "thirst"
+        "Aujourd'hui": "today",
+        "je viens d'": "I come from (I just)",
+        "avoir": "to have",
+        "soif": "thirst"
       }
     },
     {
       "id": "m12-s36",
-      "spanish": "Esta semana he estudiado mucho.",
-      "english": "This week I have studied a lot.",
+      "french": "Cette semaine je viens d'étudier beaucoup.",
+      "english": "This week I just studied a lot.",
       "wordMeanings": {
-        "Esta": "this",
-        "semana": "week",
-        "he": "I have",
-        "estudiado": "studied",
-        "mucho": "much / a lot"
+        "Cette": "this (fem)",
+        "semaine": "week",
+        "je viens d'": "I come from (I just)",
+        "étudier": "to study",
+        "beaucoup": "a lot/much"
       }
     },
     {
       "id": "m12-s37",
-      "spanish": "Esta semana he trabajado mucho.",
-      "english": "This week I have worked a lot.",
+      "french": "Cette semaine je viens de travailler beaucoup.",
+      "english": "This week I just worked a lot.",
       "wordMeanings": {
-        "Esta": "this",
-        "semana": "week",
-        "he": "I have",
-        "trabajado": "worked",
-        "mucho": "much / a lot"
+        "Cette": "this (fem)",
+        "semaine": "week",
+        "je viens de": "I come from (I just)",
+        "travailler": "to work",
+        "beaucoup": "a lot/much"
       }
     },
     {
       "id": "m12-s38",
-      "spanish": "¿Has ido al café hoy?",
-      "english": "Have you gone to the café today?",
+      "french": "Viens-tu d'aller au café aujourd'hui ?",
+      "english": "Did you just go to the café today?",
       "wordMeanings": {
-        "Has": "you have",
-        "ido": "gone",
-        "al": "to the",
-        "café": "coffee",
-        "hoy": "today"
+        "Viens-tu d'": "do you come from (did you just)",
+        "aller": "to go",
+        "au": "to the",
+        "café": "café/coffee",
+        "aujourd'hui": "today"
       }
     },
     {
       "id": "m12-s39",
-      "spanish": "Sí, he ido al café hoy.",
-      "english": "Yes, I have gone to the café today.",
+      "french": "Oui, je viens d'aller au café aujourd'hui.",
+      "english": "Yes, I just went to the café today.",
       "wordMeanings": {
-        "Sí": "yes",
-        "he": "I have",
-        "ido": "gone",
-        "al": "to the",
-        "café": "coffee",
-        "hoy": "today"
+        "Oui": "yes",
+        "je viens d'": "I come from (I just)",
+        "aller": "to go",
+        "au": "to the",
+        "café": "café",
+        "aujourd'hui": "today"
       }
     },
     {
       "id": "m12-s40",
-      "spanish": "No, no he ido al café hoy.",
-      "english": "No, I haven't gone to the café today.",
+      "french": "Non, je ne viens pas d'aller au café aujourd'hui.",
+      "english": "No, I didn't just go to the café today.",
       "wordMeanings": {
-        "No": "no / not",
-        "no": "no / not",
-        "he": "I have",
-        "ido": "gone",
-        "al": "to the",
-        "café": "coffee",
-        "hoy": "today"
+        "Non": "no",
+        "je ne viens pas d'": "I do not come from (I did not just)",
+        "aller": "to go",
+        "au": "to the",
+        "café": "café",
+        "aujourd'hui": "today"
       }
     },
     {
       "id": "m12-s41",
-      "spanish": "He vivido aquí.",
-      "english": "I have lived here.",
+      "french": "Je viens de vivre ici.",
+      "english": "I just lived here.",
       "wordMeanings": {
-        "He": "I have",
-        "vivido": "lived",
-        "aquí": "here"
+        "Je viens de": "I come from (I just)",
+        "vivre": "to live",
+        "ici": "here"
       }
     },
     {
       "id": "m12-s42",
-      "spanish": "Has vivido allí.",
-      "english": "You have lived there.",
+      "french": "Tu viens de vivre là-bas.",
+      "english": "You just lived there.",
       "wordMeanings": {
-        "Has": "you have",
-        "vivido": "lived",
-        "allí": "there"
+        "Tu viens de": "you come from (you just)",
+        "vivre": "to live",
+        "là-bas": "over there"
       }
     },
     {
       "id": "m12-s43",
-      "spanish": "Ha vivido en el centro.",
-      "english": "He/She has lived downtown.",
+      "french": "Il vient de vivre en centre-ville.",
+      "english": "He just lived downtown.",
       "wordMeanings": {
-        "Ha": "has",
-        "vivido": "lived",
-        "en": "in / on",
-        "el": "the",
-        "centro": "downtown"
+        "Il vient de": "he comes from (he just)",
+        "vivre": "to live",
+        "en": "in",
+        "centre-ville": "downtown"
       }
     },
     {
       "id": "m12-s44",
-      "spanish": "He aprendido español.",
-      "english": "I have learned Spanish.",
+      "french": "Je viens d'apprendre le français.",
+      "english": "I just learned French.",
       "wordMeanings": {
-        "He": "I have",
-        "aprendido": "learned",
-        "español": "Spanish"
+        "Je viens d'": "I come from (I just)",
+        "apprendre": "to learn",
+        "le": "the",
+        "français": "French"
       }
     },
     {
       "id": "m12-s45",
-      "spanish": "Has aprendido mucho.",
-      "english": "You have learned a lot.",
+      "french": "Tu viens d'apprendre beaucoup.",
+      "english": "You just learned a lot.",
       "wordMeanings": {
-        "Has": "you have",
-        "aprendido": "learned",
-        "mucho": "much / a lot"
+        "Tu viens d'": "you come from (you just)",
+        "apprendre": "to learn",
+        "beaucoup": "a lot/much"
       }
     },
     {
       "id": "m12-s46",
-      "spanish": "Hemos aprendido cada día.",
-      "english": "We have learned every day.",
+      "french": "Nous venons d'apprendre chaque jour.",
+      "english": "We just learned every day.",
       "wordMeanings": {
-        "Hemos": "we have",
-        "aprendido": "learned",
-        "cada": "each",
-        "día": "day"
+        "Nous venons d'": "we come from (we just)",
+        "apprendre": "to learn",
+        "chaque": "each",
+        "jour": "day"
       }
     },
     {
       "id": "m12-s47",
-      "spanish": "Ayer estudié; hoy he estudiado.",
-      "english": "Yesterday I studied; today I have studied.",
+      "french": "Hier j'ai étudié ; aujourd'hui je viens d'étudier.",
+      "english": "Yesterday I studied; today I just studied.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "estudié;": "I studied;",
-        "hoy": "today",
-        "he": "I have",
-        "estudiado": "studied"
+        "Hier": "yesterday",
+        "j'ai étudié ;": "I studied (passé composé) ;",
+        "aujourd'hui": "today",
+        "je viens d'": "I come from (I just)",
+        "étudier": "to study"
       }
     },
     {
       "id": "m12-s48",
-      "spanish": "Antes estudiaba; hoy he estudiado.",
-      "english": "Before I used to study; today I have studied.",
+      "french": "Avant j'étudiais ; aujourd'hui je viens d'étudier.",
+      "english": "Before I used to study; today I just studied.",
       "wordMeanings": {
-        "Antes": "before",
-        "estudiaba;": "used to study;",
-        "hoy": "today",
-        "he": "I have",
-        "estudiado": "studied"
+        "Avant": "before",
+        "j'étudiais ;": "I used to study (imparfait) ;",
+        "aujourd'hui": "today",
+        "je viens d'": "I come from (I just)",
+        "étudier": "to study"
       }
     }
   ],
-  "grammarExplanation": "The present perfect describes what has happened, formed with 'haber + past participle.'\n\nConjugate 'haber':\n• He, Has, Ha, Hemos, Han\n\nPast participles:\n• -AR → -ado: hablado, comprado, estudiado\n• -ER/-IR → -ido: comido, bebido, vivido\n\nIrregulars: abierto (abrir), escrito (escribir), dicho (decir), hecho (hacer), visto (ver)\n\nExample: 'He comido pan' = I have eaten bread.",
+  "grammarExplanation": "Instead of focusing on \"what I have done\" (the Spanish Present Perfect), French primarily uses 'venir de + infinitive' (the Recent Past) to talk about what you “just did” right before speaking.\n\nConjugate 'venir' (to come):\n• Je viens de (manger) = I just (ate)\n• Tu viens de (manger)\n• Il/Elle vient de (manger)\n• Nous venons de (manger) = We just (ate)\n• Vous venez de...\n• Ils/Elles viennent de...\n\nMakes a quick sentence: 'I come from eating' = 'I just ate.'",
   "vocabulary": {
-    "he": {
-      "mnemonic": "'He' is the 'have' helper verb.",
-      "explanation": "Auxiliary for present perfect."
+    "viens": {
+      "mnemonic": "Think 'venue' — people come to the venue.",
+      "explanation": "First/second person of 'venir' (to come)."
     },
-    "pan": {
+    "vient": {
+      "mnemonic": "Think 'vent' — air comes out the vent.",
+      "explanation": "Third person of 'venir'."
+    },
+    "venons": {
+      "mnemonic": "We come.",
+      "explanation": "First person plural of 'venir'."
+    },
+    "viennent": {
+      "mnemonic": "They come.",
+      "explanation": "Third person plural of 'venir'."
+    },
+    "manger": {
+      "mnemonic": "Think 'mange/manger' — farm animals eat from a manger.",
+      "explanation": "Means 'to eat'."
+    },
+    "pain": {
       "mnemonic": "Bread baked in a pan!",
       "explanation": "Means 'bread'. Masculine noun."
     },
-    "has": {
-      "mnemonic": "Same as English 'has' — you have (done).",
-      "explanation": "Second person auxiliary."
+    "soupe": {
+      "mnemonic": "Identical root as 'soup'.",
+      "explanation": "Feminine noun."
     },
-    "ha": {
-      "mnemonic": "'Ha! he has done it!'",
-      "explanation": "Third person auxiliary."
+    "eau": {
+      "mnemonic": "Think 'eau de toilette' (water).",
+      "explanation": "Means 'water'. (de l'eau)"
     },
-    "agua": {
-      "mnemonic": "Think 'aqua' — water!",
-      "explanation": "Fem but uses 'el agua'."
-    },
-    "hemos": {
-      "mnemonic": "'Hemos = we have (hem-os).'",
-      "explanation": "First person plural auxiliary."
+    "boire": {
+      "mnemonic": "Think 'booze/boire' — to drink.",
+      "explanation": "Infinitive. Irregular -RE verb."
     },
     "café": {
       "mnemonic": "Same as English 'café' — coffee!",
       "explanation": "Means 'coffee' or 'café'."
     },
-    "han": {
-      "mnemonic": "'They han-d it in' — they have done.",
-      "explanation": "Third person plural auxiliary."
+    "maison": {
+      "mnemonic": "Think 'mansion' — a house.",
+      "explanation": "Feminine noun for 'house'."
     },
-    "casa": {
-      "mnemonic": "Think 'casino' — a big house of games.",
-      "explanation": "Feminine noun. 'En casa' = at home."
+    "étudier": {
+      "mnemonic": "Nearly 'study' — to study.",
+      "explanation": "Infinitive. -ER verb."
     },
-    "hoy": {
-      "mnemonic": "'Hoy! today!' — an exclamation for today.",
+    "aujourd'hui": {
+      "mnemonic": "Very long word meaning 'the day of today'.",
       "explanation": "Means 'today'."
     },
-    "mucho": {
-      "mnemonic": "Think 'much-o' — much/a lot!",
-      "explanation": "Means 'much/a lot'. Fem: mucha."
+    "travailler": {
+      "mnemonic": "'Travel to work' — to work.",
+      "explanation": "Infinitive. -ER verb."
     },
-    "centro": {
-      "mnemonic": "Same as English 'center' — downtown!",
-      "explanation": "Also means 'center'. 'Centro' = downtown area."
+    "beaucoup": {
+      "mnemonic": "Long, beautiful word for 'a lot'.",
+      "explanation": "Means 'much/a lot'."
     },
-    "español": {
-      "mnemonic": "'Espagne/Spain' + '-ol' — the Spanish language.",
-      "explanation": "Both the language and nationality."
+    "centre-ville": {
+      "mnemonic": "The 'center city'.",
+      "explanation": "Means 'downtown'."
     },
-    "libro": {
-      "mnemonic": "Think 'library' — full of libros (books)!",
+    "parler": {
+      "mnemonic": "Think 'parlor' — you sit to talk.",
+      "explanation": "Infinitive. -ER verb."
+    },
+    "avec": {
+      "mnemonic": "No clear trick — simple preposition.",
+      "explanation": "Means 'with'."
+    },
+    "acheter": {
+      "mnemonic": "Think 'a checklist' — you need one when buying.",
+      "explanation": "Means 'to buy'."
+    },
+    "livre": {
+      "mnemonic": "Think 'library' — full of livres (books)!",
       "explanation": "Means 'book'. Masculine noun."
     },
-    "comida": {
-      "mnemonic": "'Come eat-a' — comida is food!",
-      "explanation": "From 'comer' (to eat)."
+    "nourriture": {
+      "mnemonic": "Looks like 'nourishment'.",
+      "explanation": "Means 'food'."
     },
-    "trabajo": {
+    "chercher": {
+      "mnemonic": "Think 'search' — nearly the same word.",
+      "explanation": "Means 'to look for / to search'."
+    },
+    "travail": {
       "mnemonic": "Think 'travel to work'.",
-      "explanation": "Means 'work/job'. Also 'I work'."
+      "explanation": "Noun form meaning 'work/job'."
     },
-    "abierto": {
-      "mnemonic": "'Open air-to' — opened.",
-      "explanation": "Past participle of 'abrir'. Irregular."
+    "ouvrir": {
+      "mnemonic": "Think 'ouverture' — opening.",
+      "explanation": "Means 'to open'."
     },
-    "la": {
-      "mnemonic": "'La lady' — her/it (feminine).",
-      "explanation": "Also 'the' (feminine)."
+    "porte": {
+      "mnemonic": "Think 'portal' — door.",
+      "explanation": "Means 'door'."
     },
-    "puerta": {
-      "mnemonic": "Think 'port/portal' — a door.",
-      "explanation": "Feminine noun meaning door/gate."
+    "fenêtre": {
+      "mnemonic": "No easy trick — related to 'defenestrate' (throw out a window).",
+      "explanation": "Means 'window'."
     },
-    "ventana": {
-      "mnemonic": "'Vent-ana' — air vents in a window.",
-      "explanation": "From Latin 'ventus' (wind)."
+    "écrire": {
+      "mnemonic": "Think 'scribe/script' — to write.",
+      "explanation": "Means 'to write'."
     },
-    "escrito": {
-      "mnemonic": "Think 'script' — written!",
-      "explanation": "Past participle of 'escribir'. Irregular."
+    "message": {
+      "mnemonic": "Identical.",
+      "explanation": "Masculine noun."
     },
-    "carta": {
-      "mnemonic": "Think 'card/letter'.",
-      "explanation": "Means 'letter' or 'menu'."
+    "lettre": {
+      "mnemonic": "Identical.",
+      "explanation": "Feminine noun."
     },
-    "tiempo": {
+    "recevoir": {
+      "mnemonic": "Looks exactly like 'receive'.",
+      "explanation": "Means 'to receive'."
+    },
+    "avoir": {
+      "mnemonic": "Think 'avail' / helper verb.",
+      "explanation": "Means 'to have'."
+    },
+    "faim": {
+      "mnemonic": "Rhymes with 'bam' — starving!",
+      "explanation": "'Avoir faim' = to be hungry."
+    },
+    "soif": {
+      "mnemonic": "Quaff a drink when you have soif.",
+      "explanation": "'Avoir soif' = to be thirsty."
+    },
+    "temps": {
       "mnemonic": "Think 'tempo' — time and rhythm.",
-      "explanation": "Means 'time' or 'weather'."
+      "explanation": "Means 'time'."
     },
-    "hambre": {
-      "mnemonic": "Think 'hamburger' — so hungry for one!",
-      "explanation": "'Tener hambre' = to be hungry."
+    "cette": {
+      "mnemonic": "Feminine form of 'ce' (this).",
+      "explanation": "Means 'this'."
     },
-    "sed": {
-      "mnemonic": "Think 'said I'm thirsty!'",
-      "explanation": "'Tener sed' = to be thirsty."
+    "semaine": {
+      "mnemonic": "Think 'semesters have weeks'.",
+      "explanation": "Means 'week'."
     },
-    "semana": {
-      "mnemonic": "Think 'semester has weeks'.",
-      "explanation": "Means 'week'. Feminine noun."
+    "aller": {
+      "mnemonic": "Think 'alley' — step into the alley to go.",
+      "explanation": "Means 'to go'."
     },
-    "aquí": {
-      "mnemonic": "Sounds like 'a key' — 'The key is right here!'",
-      "explanation": "Means 'here'. More precise than 'acá'."
+    "vivre": {
+      "mnemonic": "Think 'vivid/vive' — to live.",
+      "explanation": "Means 'to live'."
     },
-    "allí": {
-      "mnemonic": "Sounds like 'a lee' — over there.",
-      "explanation": "Means 'there'. Points to a specific spot."
+    "ici": {
+      "mnemonic": "The key is here.",
+      "explanation": "Means 'here'."
     },
-    "cada": {
-      "mnemonic": "Think 'cadence' — each beat.",
+    "là-bas": {
+      "mnemonic": "Over there (low).",
+      "explanation": "Means 'over there'."
+    },
+    "apprendre": {
+      "mnemonic": "Think 'apprentice' — someone who learns.",
+      "explanation": "Means 'to learn' or 'teach'."
+    },
+    "chaque": {
+      "mnemonic": "Each one.",
       "explanation": "Means 'each/every'."
     },
-    "día": {
-      "mnemonic": "Think 'diary' — each day.",
-      "explanation": "Masculine despite ending in -a."
-    },
-    "ayer": {
-      "mnemonic": "'A year ago? No, just yesterday!'",
-      "explanation": "Means 'yesterday'."
-    },
-    "antes": {
-      "mnemonic": "Think 'ante' (before in poker).",
-      "explanation": "Means 'before'."
+    "jour": {
+      "mnemonic": "Think 'journal' — write each day.",
+      "explanation": "Means 'day'."
     }
   }
 }

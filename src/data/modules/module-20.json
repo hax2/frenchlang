@@ -1,438 +1,530 @@
 {
   "id": "module-20",
   "title": "Chapter 20: Subjunctive: Importance",
-  "description": "Use impersonal expressions like 'Es importante que'.",
+  "description": "Use impersonal expressions like 'Il est important que'.",
   "level": "Beginner",
   "sentences": [
     {
       "id": "m20-s1",
-      "spanish": "Es importante que hables.",
+      "french": "Il est important que tu parles.",
       "english": "It's important that you speak.",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "hables": "speak (subj)"
+        "Il", "it",
+        "est": "is",
+        "important": "important",
+        "que": "that",
+        "tu": "you",
+        "parles": "speak (subj)"
       }
     },
     {
       "id": "m20-s2",
-      "spanish": "Es importante que escuches.",
+      "french": "Il est important que tu écoutes.",
       "english": "It's important that you listen.",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "escuches": "listen (subj)"
+        "Il": "it",
+        "est": "is",
+        "important": "important",
+        "que": "that",
+        "tu": "you",
+        "écoutes": "listen (subj)"
       }
     },
     {
       "id": "m20-s3",
-      "spanish": "Es importante que estudies.",
+      "french": "Il est important que tu étudies.",
       "english": "It's important that you study.",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "estudies": "study (subj)"
+        "Il": "it",
+        "est": "is",
+        "important": "important",
+        "que": "that",
+        "tu": "you",
+        "étudies": "study (subj)"
       }
     },
     {
       "id": "m20-s4",
-      "spanish": "Es importante que trabajes.",
+      "french": "Il est important que tu travailles.",
       "english": "It's important that you work.",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "trabajes": "work (subj)"
+        "Il": "it",
+        "est": "is",
+        "important": "important",
+        "que": "that",
+        "tu": "you",
+        "travailles": "work (subj)"
       }
     },
     {
       "id": "m20-s5",
-      "spanish": "Es importante que comas bien.",
+      "french": "Il est important que tu manges bien.",
       "english": "It's important that you eat well.",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "comas": "eat (subj)",
-        "bien": "well/good"
+        "Il": "it",
+        "est": "is",
+        "important": "important",
+        "que": "that",
+        "tu": "you",
+        "manges": "eat (subj)",
+        "bien": "well"
       }
     },
     {
       "id": "m20-s6",
-      "spanish": "Es importante que bebas agua.",
+      "french": "Il est important que tu boives de l'eau.",
       "english": "It's important that you drink water.",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "bebas": "drink (subj)",
-        "agua": "water"
+        "Il": "it",
+        "est": "is",
+        "important": "important",
+        "que": "that",
+        "tu": "you",
+        "boives": "drink (subj)",
+        "de l'": "some",
+        "eau": "water"
       }
     },
     {
       "id": "m20-s7",
-      "spanish": "Es importante que duermas bien.",
+      "french": "Il est important que tu dormes bien.",
       "english": "It's important that you sleep well.",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "duermas": "sleep (subj)",
-        "bien": "well/good"
+        "Il": "it",
+        "est": "is",
+        "important": "important",
+        "que": "that",
+        "tu": "you",
+        "dormes": "sleep (subj)",
+        "bien": "well"
       }
     },
     {
       "id": "m20-s8",
-      "spanish": "Es importante que descanses.",
+      "french": "Il est important que tu te reposes.",
       "english": "It's important that you rest.",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "descanses": "rest (subj)"
+        "Il": "it",
+        "est": "is",
+        "important": "important",
+        "que": "that",
+        "tu": "you",
+        "te": "yourself",
+        "reposes": "rest (subj)"
       }
     },
     {
       "id": "m20-s9",
-      "spanish": "Es importante que llegues temprano.",
+      "french": "Il est important que tu arrives tôt.",
       "english": "It's important that you arrive early.",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "llegues": "arrive (subj)",
-        "temprano": "early"
+        "Il": "it",
+        "est": "is",
+        "important": "important",
+        "que": "that",
+        "tu": "you",
+        "arrives": "arrive (subj)",
+        "tôt": "early"
       }
     },
     {
       "id": "m20-s10",
-      "spanish": "Es importante que no llegues tarde.",
+      "french": "Il est important que tu n'arrives pas en retard.",
       "english": "It's important that you not arrive late.",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "no": "no / not",
-        "llegues": "arrive (subj)",
-        "tarde": "late / afternoon"
+        "Il": "it",
+        "est": "is",
+        "important": "important",
+        "que": "that",
+        "tu": "you",
+        "n'arrives pas": "do not arrive (subj)",
+        "en retard": "late"
       }
     },
     {
       "id": "m20-s11",
-      "spanish": "Es importante que vengas mañana.",
+      "french": "Il est important que tu viennes demain.",
       "english": "It's important that you come tomorrow.",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "vengas": "come (subj)",
-        "mañana": "tomorrow / morning"
+        "Il": "it",
+        "est": "is",
+        "important": "important",
+        "que": "that",
+        "tu": "you",
+        "viennes": "come (subj)",
+        "demain": "tomorrow"
       }
     },
     {
       "id": "m20-s12",
-      "spanish": "Es importante que vayas hoy.",
+      "french": "Il est important que tu ailles aujourd'hui.",
       "english": "It's important that you go today.",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "vayas": "go (subj)",
-        "hoy": "today"
+        "Il": "it",
+        "est": "is",
+        "important": "important",
+        "que": "that",
+        "tu": "you",
+        "ailles": "go (subj)",
+        "aujourd'hui": "today"
       }
     },
     {
       "id": "m20-s13",
-      "spanish": "Es importante que abras la puerta.",
+      "french": "Il est important que tu ouvres la porte.",
       "english": "It's important that you open the door.",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "abras": "open (subj/inf)",
-        "la": "the / it (fem)",
-        "puerta": "door"
+        "Il": "it",
+        "est": "is",
+        "important": "important",
+        "que": "that",
+        "tu": "you",
+        "ouvres": "open (subj)",
+        "la": "the (fem)",
+        "porte": "door"
       }
     },
     {
       "id": "m20-s14",
-      "spanish": "Es importante que cierres la ventana.",
+      "french": "Il est important que tu fermes la fenêtre.",
       "english": "It's important that you close the window.",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "cierres": "close (subj)",
-        "la": "the / it (fem)",
-        "ventana": "window"
+        "Il": "it",
+        "est": "is",
+        "important": "important",
+        "que": "that",
+        "tu": "you",
+        "fermes": "close (subj)",
+        "la": "the (fem)",
+        "fenêtre": "window"
       }
     },
     {
       "id": "m20-s15",
-      "spanish": "Es importante que me escuches.",
+      "french": "Il est important que tu m'écoutes.",
       "english": "It's important that you listen to me.",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "me": "me / to me",
-        "escuches": "listen (subj)"
+        "Il": "it",
+        "est": "is",
+        "important": "important",
+        "que": "that",
+        "tu": "you",
+        "m'": "me",
+        "écoutes": "listen (subj)"
       }
     },
     {
       "id": "m20-s16",
-      "spanish": "Es importante que me digas la verdad.",
+      "french": "Il est important que tu me dises la vérité.",
       "english": "It's important that you tell me the truth.",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "me": "me / to me",
-        "digas": "say (subj)",
-        "la": "the / it (fem)",
-        "verdad": "truth"
+        "Il": "it",
+        "est": "is",
+        "important": "important",
+        "que": "that",
+        "tu": "you",
+        "me": "to me",
+        "dises": "tell (subj)",
+        "la": "the (fem)",
+        "vérité": "truth"
       }
     },
     {
       "id": "m20-s17",
-      "spanish": "Es importante que me lo digas.",
+      "french": "Il est important que tu me le dises.",
       "english": "It's important that you tell it to me.",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "me": "me / to me",
-        "lo": "it / him",
-        "digas": "say (subj)"
+        "Il": "it",
+        "est": "is",
+        "important": "important",
+        "que": "that",
+        "tu": "you",
+        "me le": "it to me",
+        "dises": "tell (subj)"
       }
     },
     {
       "id": "m20-s18",
-      "spanish": "Es importante que se lo des a Ana.",
+      "french": "Il est important que tu le lui donnes à Ana.",
       "english": "It's important that you give it to Ana.",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "se": "himself / herself / themselves",
-        "lo": "it / him",
-        "des": "give (subj)",
-        "a": "to",
+        "Il": "it",
+        "est": "is",
+        "important": "important",
+        "que": "that",
+        "tu": "you",
+        "le": "it",
+        "lui": "to her",
+        "donnes": "give (subj)",
+        "à": "to",
         "Ana": "Ana"
       }
     },
     {
       "id": "m20-s19",
-      "spanish": "Es importante que se la des a Luis.",
+      "french": "Il est important que tu la lui donnes à Luis.",
       "english": "It's important that you give it to Luis.",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "se": "himself / herself / themselves",
-        "la": "the / it (fem)",
-        "des": "give (subj)",
-        "a": "to",
+        "Il": "it",
+        "est": "is",
+        "important": "important",
+        "que": "that",
+        "tu": "you",
+        "la": "it (fem)",
+        "lui": "to him",
+        "donnes": "give (subj)",
+        "à": "to",
         "Luis": "Luis"
       }
     },
     {
       "id": "m20-s20",
-      "spanish": "Es importante que tengas tiempo.",
+      "french": "Il est important que tu aies du temps.",
       "english": "It's important that you have time.",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "tengas": "have (subj)",
-        "tiempo": "time"
+        "Il": "it",
+        "est": "is",
+        "important": "important",
+        "que": "that",
+        "tu": "you",
+        "aies": "have (subj)",
+        "du": "some",
+        "temps": "time"
       }
     },
     {
       "id": "m20-s21",
-      "spanish": "Es importante que tengas dinero.",
+      "french": "Il est important que tu aies de l'argent.",
       "english": "It's important that you have money.",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "tengas": "have (subj)",
-        "dinero": "money"
+        "Il": "it",
+        "est": "is",
+        "important": "important",
+        "que": "that",
+        "tu": "you",
+        "aies": "have (subj)",
+        "de l'": "some",
+        "argent": "money"
       }
     },
     {
       "id": "m20-s22",
-      "spanish": "Es importante que estés aquí.",
+      "french": "Il est important que tu sois ici.",
       "english": "It's important that you are here.",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "estés": "are (subj)",
-        "aquí": "here"
+        "Il": "it",
+        "est": "is",
+        "important": "important",
+        "que": "that",
+        "tu": "you",
+        "sois": "are (subj)",
+        "ici": "here"
       }
     },
     {
       "id": "m20-s23",
-      "spanish": "Es importante que estés bien.",
-      "english": "It's important that you are well.",
+      "french": "Il est important que tu fasses bien.",
+      "english": "It's important that you do well.",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "estés": "are (subj)",
-        "bien": "well/good"
+        "Il": "it",
+        "est": "is",
+        "important": "important",
+        "que": "that",
+        "tu": "you",
+        "fasses": "do (subj)",
+        "bien": "well"
       }
     },
     {
       "id": "m20-s24",
-      "spanish": "Es importante que seas paciente.",
-      "english": "It's important that you are patient.",
+      "french": "Il est important que tu sois patient.",
+      "english": "It's important that you be patient.",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "seas": "you are (subj)",
-        "paciente": "patient"
+        "Il": "it",
+        "est": "is",
+        "important": "important",
+        "que": "that",
+        "tu": "you",
+        "sois": "are (subj)",
+        "patient": "patient (masc)"
       }
     },
     {
       "id": "m20-s25",
-      "spanish": "Es importante que seas amable.",
-      "english": "It's important that you are kind.",
+      "french": "Il est important que tu sois gentil.",
+      "english": "It's important that you be kind.",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "seas": "you are (subj)",
-        "amable": "kind"
+        "Il": "it",
+        "est": "is",
+        "important": "important",
+        "que": "that",
+        "tu": "you",
+        "sois": "are (subj)",
+        "gentil": "kind (masc)"
       }
     },
     {
       "id": "m20-s26",
-      "spanish": "Es importante que lo compres hoy.",
+      "french": "Il est important que tu l'achètes aujourd'hui.",
       "english": "It's important that you buy it today.",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "lo": "it / him",
-        "compres": "buy (subj)",
-        "hoy": "today"
+        "Il": "it",
+        "est": "is",
+        "important": "important",
+        "que": "that",
+        "tu": "you",
+        "l'": "it",
+        "achètes": "buy (subj)",
+        "aujourd'hui": "today"
       }
     },
     {
       "id": "m20-s27",
-      "spanish": "Es importante que la compres hoy.",
-      "english": "It's important that you buy it today.",
+      "french": "Il est important que tu l'achètes demain.",
+      "english": "It's important that you buy it tomorrow.",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "la": "the / it (fem)",
-        "compres": "buy (subj)",
-        "hoy": "today"
+        "Il": "it",
+        "est": "is",
+        "important": "important",
+        "que": "that",
+        "tu": "you",
+        "l'": "it",
+        "achètes": "buy (subj)",
+        "demain": "tomorrow"
       }
     },
     {
       "id": "m20-s28",
-      "spanish": "Es importante que los compres hoy.",
+      "french": "Il est important que tu les achètes aujourd'hui.",
       "english": "It's important that you buy them today.",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "los": "the / them",
-        "compres": "buy (subj)",
-        "hoy": "today"
+        "Il": "it",
+        "est": "is",
+        "important": "important",
+        "que": "that",
+        "tu": "you",
+        "les": "them",
+        "achètes": "buy (subj)",
+        "aujourd'hui": "today"
       }
     },
     {
       "id": "m20-s29",
-      "spanish": "Es importante que las compres hoy.",
-      "english": "It's important that you buy them today.",
+      "french": "Il faut que tu restes.",
+      "english": "It is necessary that you stay. (You must stay).",
       "wordMeanings": {
-        "Es": "is",
-        "importante": "important",
-        "que": "that / than",
-        "las": "the / them (fem)",
-        "compres": "buy (subj)",
-        "hoy": "today"
+        "Il faut": "it is necessary",
+        "que": "that",
+        "tu": "you",
+        "restes": "stay (subj)"
       }
     }
   ],
-  "grammarExplanation": "Impersonal expressions of judgment or importance also trigger the subjunctive:\n\n'Es importante que + subjunctive'\n'Es necesario que + subjunctive'\n\n• Es importante que estudies = It's important that you study\n• Es importante que seas paciente = It's important that you be patient\n\nOther triggers: 'Es bueno que', 'Es malo que', 'Es mejor que', 'Es necesario que.'",
+  "grammarExplanation": "Much like Spanish, impersonal expressions of importance 'Il est important que', necessity 'Il est nécessaire que', or 'Il faut que' (It is necessary/One must) trigger the subjunctive mood in French.\n\n• 'Il est important que tu étudies' = It's important that you study.\n• 'Il faut que tu aies du temps' = It's necessary that you have time (You must have time).\n\nNotice the irregular subjunctive verbs:\n- être (to be) → que tu sois\n- avoir (to have) → que tu aies\n- faire (to do) → que tu fasses",
   "vocabulary": {
-    "es": {
-      "mnemonic": "Sounds like letter 'S' — 'He/She is S-uper.'",
-      "explanation": "Third person singular of 'ser'."
+    "il est": {
+      "mnemonic": "It is.",
+      "explanation": "Impersonal 'it is' (like 'es' in Spanish for 'it's important')."
     },
-    "importante": {
-      "mnemonic": "Nearly identical to 'important' — cognate!",
-      "explanation": "Same for masc/fem."
+    "important": {
+      "mnemonic": "Important.",
+      "explanation": "Same word, silent 't'."
     },
-    "agua": {
-      "mnemonic": "Think 'aqua' — water!",
-      "explanation": "Fem but uses 'el agua'."
+    "il faut": {
+      "mnemonic": "It falls on you to do it.",
+      "explanation": "Extremely common expression meaning 'it is necessary' or 'one must'."
     },
-    "temprano": {
-      "mnemonic": "'Temporary morning' — early!",
-      "explanation": "Means 'early'."
+    "parles": {
+      "mnemonic": "Parlor.",
+      "explanation": "Subjunctive of parler (tu form). Matches present."
     },
-    "tarde": {
-      "mnemonic": "Think 'tardy' — late!",
-      "explanation": "Means 'late' or 'afternoon'."
+    "écoutes": {
+      "mnemonic": "Acoustic.",
+      "explanation": "Subjunctive of écouter (tu form). Matches present."
     },
-    "mañana": {
-      "mnemonic": "'Mañana, mañana' — putting off till tomorrow.",
-      "explanation": "Means 'tomorrow' or 'morning'."
+    "étudies": {
+      "mnemonic": "Studies.",
+      "explanation": "Subjunctive of étudier (tu form). Matches present."
     },
-    "hoy": {
-      "mnemonic": "'Hoy! today!' — an exclamation for today.",
-      "explanation": "Means 'today'."
+    "travailles": {
+      "mnemonic": "Travel to work.",
+      "explanation": "Subjunctive of travailler (tu form). Matches present."
     },
-    "la": {
-      "mnemonic": "'La lady' — her/it (feminine).",
-      "explanation": "Also 'the' (feminine)."
+    "manges": {
+      "mnemonic": "Mange.",
+      "explanation": "Subjunctive of manger (tu form). Matches present."
     },
-    "puerta": {
-      "mnemonic": "Think 'port/portal' — a door.",
-      "explanation": "Feminine noun meaning door/gate."
+    "boives": {
+      "mnemonic": "Beverage.",
+      "explanation": "Irregular subjunctive of 'boire' (tu form)."
     },
-    "ventana": {
-      "mnemonic": "'Vent-ana' — air vents in a window.",
-      "explanation": "From Latin 'ventus' (wind)."
+    "eau": {
+      "mnemonic": "Eau de toilette.",
+      "explanation": "Means 'water' (fem)."
     },
-    "lo": {
-      "mnemonic": "'Low him' — direct object him/it.",
-      "explanation": "Masculine direct object pronoun."
+    "dormes": {
+      "mnemonic": "Dormant.",
+      "explanation": "Subjunctive of 'dormir' (tu form)."
     },
-    "se": {
-      "mnemonic": "Think 'self' — reflexive pronoun.",
-      "explanation": "Replaces le/les before lo/la/los/las."
+    "reposes": {
+      "mnemonic": "Repose.",
+      "explanation": "Subjunctive of 'se reposer' (to rest)."
     },
-    "tiempo": {
-      "mnemonic": "Think 'tempo' — time and rhythm.",
-      "explanation": "Means 'time' or 'weather'."
+    "arrives": {
+      "mnemonic": "Arrive.",
+      "explanation": "Subjunctive of arriver (tu form). Matches present."
     },
-    "dinero": {
-      "mnemonic": "'Diner-o' — you need dinero at the diner.",
-      "explanation": "Means 'money'."
+    "viennes": {
+      "mnemonic": "Venue.",
+      "explanation": "Irregular subjunctive of 'venir' (tu form)."
     },
-    "aquí": {
-      "mnemonic": "Sounds like 'a key' — 'The key is right here!'",
-      "explanation": "Means 'here'. More precise than 'acá'."
+    "ailles": {
+      "mnemonic": "Alley / Go.",
+      "explanation": "Irregular subjunctive of 'aller' (tu form)."
     },
-    "los": {
-      "mnemonic": "'Los' = them (masculine plural).",
-      "explanation": "Direct object pronoun."
+    "ouvres": {
+      "mnemonic": "Overture.",
+      "explanation": "Subjunctive of ouvrir (tu form). Matches present."
     },
-    "las": {
-      "mnemonic": "'Las ladies' — them (feminine).",
-      "explanation": "Direct object pronoun."
+    "fermes": {
+      "mnemonic": "Firmly close it.",
+      "explanation": "Subjunctive of fermer (to close) (tu form)."
+    },
+    "dises": {
+      "mnemonic": "Dictate.",
+      "explanation": "Subjunctive of 'dire' (tu form). (Irregular: dise, dises, dise)."
+    },
+    "donnes": {
+      "mnemonic": "Donate.",
+      "explanation": "Subjunctive of donner (tu form). Matches present."
+    },
+    "aies": {
+      "mnemonic": "Eye / Aies.",
+      "explanation": "Extremely irregular subjunctive of 'avoir' (tu form)."
+    },
+    "sois": {
+      "mnemonic": "Sway / Sois.",
+      "explanation": "Extremely irregular subjunctive of 'être' (tu form)."
+    },
+    "fasses": {
+      "mnemonic": "Fass / Fast do it.",
+      "explanation": "Irregular subjunctive of 'faire' (to do/make)."
+    },
+    "gentil": {
+      "mnemonic": "Gentle.",
+      "explanation": "Means 'kind' or 'nice' (masc)."
+    },
+    "patient": {
+      "mnemonic": "Patient.",
+      "explanation": "Means 'patient' (masc)."
+    },
+    "achètes": {
+      "mnemonic": "Checklist.",
+      "explanation": "Subjunctive of 'acheter' (tu form)."
+    },
+    "restes": {
+      "mnemonic": "Rest / stay.",
+      "explanation": "Subjunctive of 'rester' (tu form)."
     }
   }
 }

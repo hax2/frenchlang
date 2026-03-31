@@ -1,389 +1,425 @@
 {
   "id": "module-16",
   "title": "Chapter 16: Affirmative Commands",
-  "description": "Give direct orders like 'Speak' or 'Eat'.",
+  "description": "Give direct orders like 'Speak' or 'Eat' using the imperative.",
   "level": "Beginner",
   "sentences": [
     {
       "id": "m16-s1",
-      "spanish": "Habla.",
+      "french": "Parle.",
       "english": "Speak.",
       "wordMeanings": {
-        "Habla": "speaks"
+        "Parle": "speak"
       }
     },
     {
       "id": "m16-s2",
-      "spanish": "Come.",
+      "french": "Mange.",
       "english": "Eat.",
       "wordMeanings": {
-        "Come": "eats"
+        "Mange": "eat"
       }
     },
     {
       "id": "m16-s3",
-      "spanish": "Vive aquí.",
+      "french": "Vis ici.",
       "english": "Live here.",
       "wordMeanings": {
-        "Vive": "lives",
-        "aquí": "here"
+        "Vis": "live",
+        "ici": "here"
       }
     },
     {
       "id": "m16-s4",
-      "spanish": "Espera aquí.",
+      "french": "Attends ici.",
       "english": "Wait here.",
       "wordMeanings": {
-        "Espera": "waits",
-        "aquí": "here"
+        "Attends": "wait",
+        "ici": "here"
       }
     },
     {
       "id": "m16-s5",
-      "spanish": "Hable, por favor.",
-      "english": "Speak, please. (formal)",
+      "french": "Parlez, s'il vous plaît.",
+      "english": "Speak, please. (formal/plural)",
       "wordMeanings": {
-        "Hable": "speak (subj)",
-        "por": "for / by",
-        "favor": "favor"
+        "Parlez": "speak (formal/plural)",
+        "s'il vous plaît": "please (formal)"
       }
     },
     {
       "id": "m16-s6",
-      "spanish": "Coma, por favor.",
-      "english": "Eat, please. (formal)",
+      "french": "Mangez, s'il vous plaît.",
+      "english": "Eat, please. (formal/plural)",
       "wordMeanings": {
-        "Coma": "eat (subj)",
-        "por": "for / by",
-        "favor": "favor"
+        "Mangez": "eat (formal/plural)",
+        "s'il vous plaît": "please (formal)"
       }
     },
     {
       "id": "m16-s7",
-      "spanish": "Hablad.",
-      "english": "Speak. (you plural, Spain)",
+      "french": "Parlez.",
+      "english": "Speak. (you plural)",
       "wordMeanings": {
-        "Hablad": "speak (imp pl)"
+        "Parlez": "speak"
       }
     },
     {
       "id": "m16-s8",
-      "spanish": "Hablen, por favor.",
+      "french": "Parlez, s'il vous plaît.",
       "english": "Speak, please. (you plural)",
       "wordMeanings": {
-        "Hablen": "speak (subj pl)",
-        "por": "for / by",
-        "favor": "favor"
+        "Parlez": "speak",
+        "s'il vous plaît": "please (formal)"
       }
     },
     {
       "id": "m16-s9",
-      "spanish": "Vamos.",
+      "french": "Allons-y.",
       "english": "Let’s go.",
       "wordMeanings": {
-        "Vamos": "we go"
+        "Allons": "let's go",
+        "-y": "there"
       }
     },
     {
       "id": "m16-s10",
-      "spanish": "Vamos a casa.",
+      "french": "Allons à la maison.",
       "english": "Let’s go home.",
       "wordMeanings": {
-        "Vamos": "we go",
-        "a": "to",
-        "casa": "house"
+        "Allons": "let's go",
+        "à": "to",
+        "la": "the (fem)",
+        "maison": "house"
       }
     },
     {
       "id": "m16-s11",
-      "spanish": "Vamos a comer.",
+      "french": "Allons manger.",
       "english": "Let’s eat.",
       "wordMeanings": {
-        "Vamos": "we go",
-        "a": "to",
-        "comer": "to eat"
+        "Allons": "let's go",
+        "manger": "to eat"
       }
     },
     {
       "id": "m16-s12",
-      "spanish": "Abre la puerta.",
+      "french": "Ouvre la porte.",
       "english": "Open the door.",
       "wordMeanings": {
-        "Abre": "opens",
-        "la": "the / it (fem)",
-        "puerta": "door"
+        "Ouvre": "open",
+        "la": "the (fem)",
+        "porte": "door"
       }
     },
     {
       "id": "m16-s13",
-      "spanish": "Abra la puerta.",
+      "french": "Ouvrez la porte.",
       "english": "Open the door. (formal)",
       "wordMeanings": {
-        "Abra": "open (subj/form)",
-        "la": "the / it (fem)",
-        "puerta": "door"
+        "Ouvrez": "open",
+        "la": "the (fem)",
+        "porte": "door"
       }
     },
     {
       "id": "m16-s14",
-      "spanish": "Abrid la puerta.",
-      "english": "Open the door. (you plural, Spain)",
+      "french": "Ouvrez la porte.",
+      "english": "Open the door. (you plural)",
       "wordMeanings": {
-        "Abrid": "open (imp pl)",
-        "la": "the / it (fem)",
-        "puerta": "door"
+        "Ouvrez": "open",
+        "la": "the (fem)",
+        "porte": "door"
       }
     },
     {
       "id": "m16-s15",
-      "spanish": "Abran la puerta.",
-      "english": "Open the door. (you plural)",
+      "french": "Ouvrez la porte, s'il vous plaît.",
+      "english": "Open the door, please. (you plural)",
       "wordMeanings": {
-        "Abran": "open (subj/form pl)",
-        "la": "the / it (fem)",
-        "puerta": "door"
+        "Ouvrez": "open (formal)",
+        "la": "the (fem)",
+        "porte": "door",
+        "s'il vous plaît": "please"
       }
     },
     {
       "id": "m16-s16",
-      "spanish": "Mira esto.",
+      "french": "Regarde ça.",
       "english": "Look at this.",
       "wordMeanings": {
-        "Mira": "looks",
-        "esto": "this"
+        "Regarde": "look",
+        "ça": "that/this"
       }
     },
     {
       "id": "m16-s17",
-      "spanish": "Mire esto.",
+      "french": "Regardez ça.",
       "english": "Look at this. (formal)",
       "wordMeanings": {
-        "Mire": "look (subj)",
-        "esto": "this"
+        "Regardez": "look (formal)",
+        "ça": "that/this"
       }
     },
     {
       "id": "m16-s18",
-      "spanish": "Escucha.",
+      "french": "Écoute.",
       "english": "Listen.",
       "wordMeanings": {
-        "Escucha": "listens"
+        "Écoute": "listen"
       }
     },
     {
       "id": "m16-s19",
-      "spanish": "Escuche.",
+      "french": "Écoutez.",
       "english": "Listen. (formal)",
       "wordMeanings": {
-        "Escuche": "listen (subj)"
+        "Écoutez": "listen (formal)"
       }
     },
     {
       "id": "m16-s20",
-      "spanish": "Dime.",
+      "french": "Dis-moi.",
       "english": "Tell me.",
       "wordMeanings": {
-        "Dime": "tell me"
+        "Dis": "tell",
+        "-moi": "me"
       }
     },
     {
       "id": "m16-s21",
-      "spanish": "Dígame.",
+      "french": "Dites-moi.",
       "english": "Tell me. (formal)",
       "wordMeanings": {
-        "Dígame": "tell me (form)"
+        "Dites": "tell (formal)",
+        "-moi": "me"
       }
     },
     {
       "id": "m16-s22",
-      "spanish": "Dime la verdad.",
+      "french": "Dis-moi la vérité.",
       "english": "Tell me the truth.",
       "wordMeanings": {
-        "Dime": "tell me",
-        "la": "the / it (fem)",
-        "verdad": "truth"
+        "Dis-moi": "tell me",
+        "la": "the (fem)",
+        "vérité": "truth"
       }
     },
     {
       "id": "m16-s23",
-      "spanish": "Dáselo.",
+      "french": "Donne-le-lui.",
       "english": "Give it to him/her.",
       "wordMeanings": {
-        "Dáselo": "give it to him/her"
+        "Donne": "give",
+        "-le": "it (masc)",
+        "-lui": "to him/her"
       }
     },
     {
       "id": "m16-s24",
-      "spanish": "Dásela.",
-      "english": "Give it to him/her.",
+      "french": "Donne-la-lui.",
+      "english": "Give it to him/her. (female object)",
       "wordMeanings": {
-        "Dásela": "give it to him/her"
+        "Donne": "give",
+        "-la": "it (fem)",
+        "-lui": "to him/her"
       }
     },
     {
       "id": "m16-s25",
-      "spanish": "Dámelo.",
+      "french": "Donne-le-moi.",
       "english": "Give it to me.",
       "wordMeanings": {
-        "Dámelo": "give it to me"
+        "Donne": "give",
+        "-le": "it (masc)",
+        "-moi": "to me"
       }
     },
     {
       "id": "m16-s26",
-      "spanish": "Dámela.",
-      "english": "Give it to me.",
+      "french": "Donne-la-moi.",
+      "english": "Give it to me. (female object)",
       "wordMeanings": {
-        "Dámela": "give it to me"
+        "Donne": "give",
+        "-la": "it (fem)",
+        "-moi": "to me"
       }
     },
     {
       "id": "m16-s27",
-      "spanish": "Explícaselo.",
+      "french": "Explique-le-lui.",
       "english": "Explain it to him/her.",
       "wordMeanings": {
-        "Explícaselo": "explain it to him/her"
+        "Explique": "explain",
+        "-le": "it",
+        "-lui": "to him/her"
       }
     },
     {
       "id": "m16-s28",
-      "spanish": "Enséñaselo.",
+      "french": "Montre-le-lui.",
       "english": "Show it to him/her.",
       "wordMeanings": {
-        "Enséñaselo": "show it to him/her"
+        "Montre": "show",
+        "-le": "it",
+        "-lui": "to him/her"
       }
     },
     {
       "id": "m16-s29",
-      "spanish": "Siéntate aquí.",
+      "french": "Assieds-toi ici.",
       "english": "Sit here.",
       "wordMeanings": {
-        "Siéntate": "sit down",
-        "aquí": "here"
+        "Assieds-toi": "sit yourself",
+        "ici": "here"
       }
     },
     {
       "id": "m16-s30",
-      "spanish": "Siéntese aquí.",
+      "french": "Asseyez-vous ici.",
       "english": "Sit here. (formal)",
       "wordMeanings": {
-        "Siéntese": "sit down (form)",
-        "aquí": "here"
+        "Asseyez-vous": "sit yourself (formal)",
+        "ici": "here"
       }
     },
     {
       "id": "m16-s31",
-      "spanish": "Quédate en casa.",
+      "french": "Reste à la maison.",
       "english": "Stay at home.",
       "wordMeanings": {
-        "Quédate": "stay",
-        "en": "in / on",
-        "casa": "house"
+        "Reste": "stay",
+        "à": "at",
+        "la": "the (fem)",
+        "maison": "house"
       }
     },
     {
       "id": "m16-s32",
-      "spanish": "Quédese en casa.",
+      "french": "Restez à la maison.",
       "english": "Stay at home. (formal)",
       "wordMeanings": {
-        "Quédese": "stay (form)",
-        "en": "in / on",
-        "casa": "house"
+        "Restez": "stay",
+        "à": "at",
+        "la": "the (fem)",
+        "maison": "house"
       }
     },
     {
       "id": "m16-s33",
-      "spanish": "Ven.",
+      "french": "Viens.",
       "english": "Come.",
       "wordMeanings": {
-        "Ven": "come"
+        "Viens": "come"
       }
     },
     {
       "id": "m16-s34",
-      "spanish": "Venga.",
+      "french": "Venez.",
       "english": "Come. (formal)",
       "wordMeanings": {
-        "Venga": "come (subj)"
+        "Venez": "come (formal)"
       }
     },
     {
       "id": "m16-s35",
-      "spanish": "Id.",
-      "english": "Go. (you plural, Spain)",
+      "french": "Allez.",
+      "english": "Go. (you plural)",
       "wordMeanings": {
-        "Id": "go (imp pl)"
+        "Allez": "go"
       }
     },
     {
       "id": "m16-s36",
-      "spanish": "Vayan.",
-      "english": "Go. (you plural)",
+      "french": "Allez-y.",
+      "english": "Go ahead. / Go there.",
       "wordMeanings": {
-        "Vayan": "go (subj pl)"
+        "Allez": "go",
+        "-y": "there"
       }
     }
   ],
-  "grammarExplanation": "Affirmative commands tell someone TO DO something.\n\nInformal 'tú' commands (use the él/ella present form):\n• Habla (Speak), Come (Eat), Abre (Open)\n\nFormal 'usted' commands (use subjunctive):\n• Hable, Coma, Abra\n\nPlural 'ustedes' commands (subjunctive plural):\n• Hablen, Coman, Abran\n\nWith reflexive/object pronouns, ATTACH them to the end:\n• Siéntate (Sit down), Dime (Tell me), Dáselo (Give it to him/her)",
+  "grammarExplanation": "Affirmative commands (Imperative) in French use the 'tu', 'nous', and 'vous' forms without the subject pronoun.\n\nFor regular -ER verbs, the 'tu' form drops the final 's' (Parle, Mange, Regarde).\nFor -IR/-RE verbs, keep the 's' (Dors, Prends, Attends).\n\nThe 'vous' form doubles as the formal singular AND plural command (Parlez, Regardez, Attendez).\n\nWith pronouns, ATTACH them to the end with a hyphen:\n• Dis-moi (Tell me)\n• Donne-le-moi (Give it to me). Note: The direct object ('le/la/les') comes BEFORE the indirect object ('moi/toi/lui/leur/nous/vous') in affirmative commands. Donne-le-lui.",
   "vocabulary": {
-    "habla": {
-      "mnemonic": "'Ha-bla' — he/she speaks.",
-      "explanation": "Third person of 'hablar'."
+    "parle": {
+      "mnemonic": "Parlor — I speak.",
+      "explanation": "Imperative of parler (tu form)."
     },
-    "come": {
-      "mnemonic": "'Come eat!' — he/she eats.",
-      "explanation": "Third person of 'comer'."
+    "parlez": {
+      "mnemonic": "Parlor — you speak.",
+      "explanation": "Imperative of parler (vous form)."
     },
-    "vive": {
-      "mnemonic": "Think 'viva!' — he/she lives.",
-      "explanation": "Third person of 'vivir'."
+    "mange": {
+      "mnemonic": "Mange.",
+      "explanation": "Imperative of manger (tu form)."
     },
-    "aquí": {
-      "mnemonic": "Sounds like 'a key' — 'The key is right here!'",
-      "explanation": "Means 'here'. More precise than 'acá'."
+    "vis": {
+      "mnemonic": "Vivid.",
+      "explanation": "Imperative of vivre (tu form)."
     },
-    "espera": {
-      "mnemonic": "'Aspire-a' — he/she waits.",
-      "explanation": "Third person of 'esperar'."
+    "attends": {
+      "mnemonic": "Wait to attend.",
+      "explanation": "Imperative of attendre (tu form)."
     },
-    "favor": {
-      "mnemonic": "Same as English 'favor' — do me a favor, please!",
-      "explanation": "'Por favor' literally means 'for favor'."
+    "allons": {
+      "mnemonic": "Allons-y (let's go).",
+      "explanation": "Imperative of aller (nous form)."
     },
-    "vamos": {
-      "mnemonic": "'¡Vamos!' — Let's go! Already English.",
-      "explanation": "First person plural of 'ir'."
+    "ouvre": {
+      "mnemonic": "Overture.",
+      "explanation": "Imperative of ouvrir (tu form). Drops the 's'."
     },
-    "casa": {
-      "mnemonic": "Think 'casino' — a big house of games.",
-      "explanation": "Feminine noun. 'En casa' = at home."
+    "regarde": {
+      "mnemonic": "Regard.",
+      "explanation": "Imperative of regarder. Drops the 's'."
     },
-    "comer": {
-      "mnemonic": "'Consume-er' — to eat.",
-      "explanation": "Infinitive. -ER verb."
+    "écoute": {
+      "mnemonic": "Acoustic.",
+      "explanation": "Imperative of écouter. Drops the 's'."
     },
-    "abre": {
-      "mnemonic": "'Abbreviate by opening' — he/she opens.",
-      "explanation": "Third person of 'abrir'."
+    "dis": {
+      "mnemonic": "Dictate.",
+      "explanation": "Imperative of dire."
     },
-    "la": {
-      "mnemonic": "'La lady' — her/it (feminine).",
-      "explanation": "Also 'the' (feminine)."
+    "dites": {
+      "mnemonic": "Dictate.",
+      "explanation": "Imperative of dire (vous form)."
     },
-    "puerta": {
-      "mnemonic": "Think 'port/portal' — a door.",
-      "explanation": "Feminine noun meaning door/gate."
+    "assieds-toi": {
+      "mnemonic": "Seat yourself.",
+      "explanation": "Reflexive imperative of s'asseoir."
     },
-    "mira": {
-      "mnemonic": "Think 'mirror-a' — he/she looks.",
-      "explanation": "Third person of 'mirar'. Also used as 'Look!'."
+    "reste": {
+      "mnemonic": "Rest / stay.",
+      "explanation": "Imperative of rester. Drops the 's'."
     },
-    "escucha": {
-      "mnemonic": "'Sketch-a sound' — he/she listens.",
-      "explanation": "Third person of 'escuchar'."
+    "viens": {
+      "mnemonic": "Venue.",
+      "explanation": "Imperative of venir."
     },
-    "ven": {
-      "mnemonic": "'Venture here!' — Come!",
-      "explanation": "Irregular tú command of 'venir'."
+    "venez": {
+      "mnemonic": "Venue.",
+      "explanation": "Imperative of venir (vous form)."
+    },
+    "allez": {
+      "mnemonic": "Alley.",
+      "explanation": "Imperative of aller (vous form)."
+    },
+    "moi": {
+      "mnemonic": "Me.",
+      "explanation": "Stressed pronoun used in affirmative commands instead of 'me'."
+    },
+    "toi": {
+      "mnemonic": "You.",
+      "explanation": "Stressed pronoun used in affirmative commands instead of 'te'."
+    },
+    "ça": {
+      "mnemonic": "That.",
+      "explanation": "Means 'that' or 'this'."
+    },
+    "s'il vous plaît": {
+      "mnemonic": "If it pleases you.",
+      "explanation": "Means 'please' (formal)."
     }
   }
 }
