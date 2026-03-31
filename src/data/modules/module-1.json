@@ -1,439 +1,583 @@
 {
   "id": "module-1",
-  "title": "Chapitre 1 : Salutations et Bases",
-  "description": "Apprendre à dire bonjour, au revoir et les présentations de base.",
-  "level": "Débutant",
+  "title": "Chapter 1: Greetings & Basics",
+  "description": "Learn to say hello, goodbye, and basic introductions.",
+  "level": "Beginner",
   "sentences": [
     {
       "id": "m1-s1",
-      "french": "Bonjour.",
-      "english": "Hello / Good morning.",
+      "spanish": "Hola.",
+      "english": "Hello.",
       "wordMeanings": {
-        "Bonjour": "hello"
+        "Hola": "hello"
       }
     },
     {
       "id": "m1-s2",
-      "french": "Salut.",
-      "english": "Hi / Bye (informal).",
+      "spanish": "Buenos días.",
+      "english": "Good morning.",
       "wordMeanings": {
-        "Salut": "hi / bye"
+        "Buenos": "good (masc pl)",
+        "días": "days"
       }
     },
     {
       "id": "m1-s3",
-      "french": "Bonsoir.",
-      "english": "Good evening.",
+      "spanish": "Buenas tardes.",
+      "english": "Good afternoon.",
       "wordMeanings": {
-        "Bonsoir": "good evening"
+        "Buenas": "good (fem pl)",
+        "tardes": "afternoons"
       }
     },
     {
       "id": "m1-s4",
-      "french": "Bonne nuit.",
-      "english": "Good night.",
+      "spanish": "Buenas noches.",
+      "english": "Good evening./Good night.",
       "wordMeanings": {
-        "Bonne": "good (fem)",
-        "nuit": "night"
+        "Buenas": "good (fem pl)",
+        "noches": "nights"
       }
     },
     {
       "id": "m1-s5",
-      "french": "Au revoir.",
+      "spanish": "Adiós.",
       "english": "Goodbye.",
       "wordMeanings": {
-        "Au": "to the",
-        "revoir": "seeing again"
+        "Adiós": "goodbye"
       }
     },
     {
       "id": "m1-s6",
-      "french": "À bientôt.",
-      "english": "See you soon.",
+      "spanish": "Hasta luego.",
+      "english": "See you later.",
       "wordMeanings": {
-        "À": "to",
-        "bientôt": "soon"
+        "Hasta": "until",
+        "luego": "later"
       }
     },
     {
       "id": "m1-s7",
-      "french": "S'il vous plaît.",
-      "english": "Please (formal).",
+      "spanish": "Por favor.",
+      "english": "Please.",
       "wordMeanings": {
-        "S'il": "if it",
-        "vous": "you",
-        "plaît": "pleases"
+        "Por": "for / by",
+        "favor": "favor"
       }
     },
     {
       "id": "m1-s8",
-      "french": "Merci.",
+      "spanish": "Gracias.",
       "english": "Thank you.",
       "wordMeanings": {
-        "Merci": "thank you"
+        "Gracias": "thank you"
       }
     },
     {
       "id": "m1-s9",
-      "french": "Merci beaucoup.",
+      "spanish": "Muchas gracias.",
       "english": "Thank you very much.",
       "wordMeanings": {
-        "Merci": "thank you",
-        "beaucoup": "much / a lot"
+        "Muchas": "many (fem)",
+        "gracias": "thank you"
       }
     },
     {
       "id": "m1-s10",
-      "french": "De rien.",
+      "spanish": "De nada.",
       "english": "You're welcome.",
       "wordMeanings": {
-        "De": "of",
-        "rien": "nothing"
+        "De": "of / from",
+        "nada": "nothing"
       }
     },
     {
       "id": "m1-s11",
-      "french": "Oui.",
+      "spanish": "Sí.",
       "english": "Yes.",
       "wordMeanings": {
-        "Oui": "yes"
+        "Sí": "yes"
       }
     },
     {
       "id": "m1-s12",
-      "french": "No.",
+      "spanish": "No.",
       "english": "No.",
       "wordMeanings": {
-        "No": "no"
+        "No": "no / not"
       }
     },
     {
       "id": "m1-s13",
-      "french": "Je suis Anne.",
-      "english": "I am Anne.",
+      "spanish": "Soy Ana.",
+      "english": "I am Ana.",
       "wordMeanings": {
-        "Je": "I",
-        "suis": "am",
-        "Anne": "Anne"
+        "Soy": "I am",
+        "Ana": "Ana"
       }
     },
     {
       "id": "m1-s14",
-      "french": "Je suis Pierre.",
-      "english": "I am Pierre.",
+      "spanish": "Soy Luis.",
+      "english": "I am Luis.",
       "wordMeanings": {
-        "Je": "I",
-        "suis": "am",
-        "Pierre": "Pierre"
+        "Soy": "I am",
+        "Luis": "Luis"
       }
     },
     {
       "id": "m1-s15",
-      "french": "Je suis Marie.",
-      "english": "I am Marie.",
+      "spanish": "Soy Marta.",
+      "english": "I am Marta.",
       "wordMeanings": {
-        "Je": "I",
-        "suis": "am",
-        "Marie": "Marie"
+        "Soy": "I am",
+        "Marta": "Marta"
       }
     },
     {
       "id": "m1-s16",
-      "french": "Je suis Charles.",
-      "english": "I am Charles.",
+      "spanish": "Soy Carlos.",
+      "english": "I am Carlos.",
       "wordMeanings": {
-        "Je": "I",
-        "suis": "am",
-        "Charles": "Charles"
+        "Soy": "I am",
+        "Carlos": "Carlos"
       }
     },
     {
       "id": "m1-s17",
-      "french": "Es-tu Anne ?",
-      "english": "Are you Anne?",
+      "spanish": "¿Eres Ana?",
+      "english": "Are you Ana?",
       "wordMeanings": {
-        "Es-tu": "are you (informal)"
+        "Eres": "you are",
+        "Ana": "Ana"
       }
     },
     {
       "id": "m1-s18",
-      "french": "Oui, je suis Anne.",
-      "english": "Yes, I am Anne.",
+      "spanish": "Sí, soy Ana.",
+      "english": "Yes, I am Ana.",
       "wordMeanings": {
-        "Oui": "yes",
-        "je": "I",
-        "suis": "am",
-        "Anne": "Anne"
+        "Sí": "yes",
+        "soy": "I am",
+        "Ana": "Ana"
       }
     },
     {
       "id": "m1-s19",
-      "french": "Non, je ne suis pas Anne.",
-      "english": "No, I am not Anne.",
+      "spanish": "No, no soy Ana.",
+      "english": "No, I am not Ana.",
       "wordMeanings": {
-        "Non": "no",
-        "je": "I",
-        "ne": "not (part 1)",
-        "suis": "am",
-        "pas": "not (part 2)"
+        "No": "no / not",
+        "no": "no / not",
+        "soy": "I am",
+        "Ana": "Ana"
       }
     },
     {
       "id": "m1-s20",
-      "french": "Es-tu Pierre ?",
-      "english": "Are you Pierre?",
+      "spanish": "¿Eres Luis?",
+      "english": "Are you Luis?",
       "wordMeanings": {
-        "Es-tu": "are you (informal)"
+        "Eres": "you are",
+        "Luis": "Luis"
       }
     },
     {
       "id": "m1-s21",
-      "french": "Oui, je suis Pierre.",
-      "english": "Yes, I am Pierre.",
+      "spanish": "Sí, soy Luis.",
+      "english": "Yes, I am Luis.",
       "wordMeanings": {
-        "Oui": "yes",
-        "je": "I",
-        "suis": "am",
-        "Pierre": "Pierre"
+        "Sí": "yes",
+        "soy": "I am",
+        "Luis": "Luis"
       }
     },
     {
       "id": "m1-s22",
-      "french": "Non, je ne suis pas Pierre.",
-      "english": "No, I am not Pierre.",
+      "spanish": "No, no soy Luis.",
+      "english": "No, I am not Luis.",
       "wordMeanings": {
-        "Non": "no",
-        "je": "I",
-        "ne": "not (part 1)",
-        "suis": "am",
-        "pas": "not (part 2)"
+        "No": "no / not",
+        "no": "no / not",
+        "soy": "I am",
+        "Luis": "Luis"
       }
     },
     {
       "id": "m1-s23",
-      "french": "Qui es-tu ?",
+      "spanish": "¿Quién eres?",
       "english": "Who are you?",
       "wordMeanings": {
-        "Qui": "who",
-        "es-tu": "are you"
+        "Quién": "who",
+        "eres": "you are"
       }
     },
     {
       "id": "m1-s24",
-      "french": "Je suis étudiant.",
-      "english": "I am a student (male).",
+      "spanish": "Soy estudiante.",
+      "english": "I am a student.",
       "wordMeanings": {
-        "Je": "I",
-        "suis": "am",
-        "étudiant": "student (male)"
+        "Soy": "I am",
+        "estudiante": "student"
       }
     },
     {
       "id": "m1-s25",
-      "french": "Je suis étudiante.",
-      "english": "I am a student (female).",
+      "spanish": "Eres estudiante.",
+      "english": "You are a student.",
       "wordMeanings": {
-        "Je": "I",
-        "suis": "am",
-        "étudiante": "student (female)"
+        "Eres": "you are",
+        "estudiante": "student"
       }
     },
     {
       "id": "m1-s26",
-      "french": "Il est étudiant.",
+      "spanish": "Él es estudiante.",
       "english": "He is a student.",
       "wordMeanings": {
-        "Il": "he",
-        "est": "is",
-        "étudiant": "student"
+        "Él": "he",
+        "es": "is",
+        "estudiante": "student"
       }
     },
     {
       "id": "m1-s27",
-      "french": "Elle est étudiante.",
+      "spanish": "Ella es estudiante.",
       "english": "She is a student.",
       "wordMeanings": {
-        "Elle": "she",
-        "est": "is",
-        "étudiante": "student"
+        "Ella": "she / her",
+        "es": "is",
+        "estudiante": "student"
       }
     },
     {
       "id": "m1-s28",
-      "french": "Qui est-il ?",
+      "spanish": "¿Quién es él?",
       "english": "Who is he?",
       "wordMeanings": {
-        "Qui": "who",
-        "est-il": "is he"
+        "Quién": "who",
+        "es": "is",
+        "él": "he"
       }
     },
     {
       "id": "m1-s29",
-      "french": "Il est Charles.",
-      "english": "He is Charles.",
+      "spanish": "Él es Carlos.",
+      "english": "He is Carlos.",
       "wordMeanings": {
-        "Il": "he",
-        "est": "is",
-        "Charles": "Charles"
+        "Él": "he",
+        "es": "is",
+        "Carlos": "Carlos"
       }
     },
     {
       "id": "m1-s30",
-      "french": "Qui est-elle ?",
+      "spanish": "¿Quién es ella?",
       "english": "Who is she?",
       "wordMeanings": {
-        "Qui": "who",
-        "est-elle": "is she"
+        "Quién": "who",
+        "es": "is",
+        "ella": "she / her"
       }
     },
     {
       "id": "m1-s31",
-      "french": "Elle est Marie.",
-      "english": "She is Marie.",
+      "spanish": "Ella es Marta.",
+      "english": "She is Marta.",
       "wordMeanings": {
-        "Elle": "she",
-        "est": "is",
-        "Marie": "Marie"
+        "Ella": "she / her",
+        "es": "is",
+        "Marta": "Marta"
       }
     },
     {
       "id": "m1-s32",
-      "french": "Nous sommes amis.",
+      "spanish": "Somos amigos.",
       "english": "We are friends.",
       "wordMeanings": {
-        "Nous": "we",
-        "sommes": "are",
-        "amis": "friends"
+        "Somos": "we are",
+        "amigos": "friends"
       }
     },
     {
       "id": "m1-s33",
-      "french": "Nous sommes étudiants.",
+      "spanish": "Somos estudiantes.",
       "english": "We are students.",
       "wordMeanings": {
-        "Nous": "we",
-        "sommes": "are",
-        "étudiants": "students"
+        "Somos": "we are",
+        "estudiantes": "students"
       }
     },
     {
       "id": "m1-s34",
-      "french": "Êtes-vous étudiants ?",
-      "english": "Are you (plural/formal) students?",
+      "spanish": "¿Son ustedes estudiantes?",
+      "english": "Are you (plural) students?",
       "wordMeanings": {
-        "Êtes-vous": "are you"
+        "Son": "are",
+        "ustedes": "you (plural)",
+        "estudiantes": "students"
       }
     },
     {
       "id": "m1-s35",
-      "french": "Oui, nous sommes étudiants.",
+      "spanish": "Sí, somos estudiantes.",
       "english": "Yes, we are students.",
       "wordMeanings": {
-        "Oui": "yes",
-        "nous": "we",
-        "sommes": "are",
-        "étudiants": "students"
+        "Sí": "yes",
+        "somos": "we are",
+        "estudiantes": "students"
       }
     },
     {
       "id": "m1-s36",
-      "french": "Ils sont amis.",
-      "english": "They (masc) are friends.",
+      "spanish": "No, no somos estudiantes.",
+      "english": "No, we are not students.",
       "wordMeanings": {
-        "Ils": "they",
-        "sont": "are",
-        "amis": "friends"
+        "No": "no / not",
+        "no": "no / not",
+        "somos": "we are",
+        "estudiantes": "students"
       }
     },
     {
       "id": "m1-s37",
-      "french": "Elles sont amies.",
-      "english": "They (fem) are friends.",
+      "spanish": "Ana y Luis son amigos.",
+      "english": "Ana and Luis are friends.",
       "wordMeanings": {
-        "Elles": "they (fem)",
-        "sont": "are",
-        "amies": "friends (fem)"
+        "Ana": "Ana",
+        "y": "and",
+        "Luis": "Luis",
+        "son": "are",
+        "amigos": "friends"
       }
     },
     {
       "id": "m1-s38",
-      "french": "Anne et Pierre sont amis.",
-      "english": "Anne and Pierre are friends.",
+      "spanish": "Marta y Carlos son amigos.",
+      "english": "Marta and Carlos are friends.",
       "wordMeanings": {
-        "sont": "are"
+        "Marta": "Marta",
+        "y": "and",
+        "Carlos": "Carlos",
+        "son": "are",
+        "amigos": "friends"
       }
     },
     {
       "id": "m1-s39",
-      "french": "Es-tu mon ami ?",
-      "english": "Are you my friend (male)?",
+      "spanish": "¿Eres mi amigo?",
+      "english": "Are you my friend?",
       "wordMeanings": {
-        "mon": "my (masc)",
-        "ami": "friend"
+        "Eres": "you are",
+        "mi": "my",
+        "amigo": "friend (male)"
       }
     },
     {
       "id": "m1-s40",
-      "french": "Oui, je suis ton ami.",
+      "spanish": "Sí, soy tu amigo.",
       "english": "Yes, I am your friend.",
       "wordMeanings": {
-        "ton": "your (masc)"
+        "Sí": "yes",
+        "soy": "I am",
+        "tu": "your",
+        "amigo": "friend (male)"
       }
     },
     {
       "id": "m1-s41",
-      "french": "Es-tu mon amie ?",
+      "spanish": "¿Eres mi amiga?",
       "english": "Are you my friend (female)?",
       "wordMeanings": {
-        "mon": "my (masc - used before vowels)",
-        "amie": "friend (fem)"
+        "Eres": "you are",
+        "mi": "my",
+        "amiga": "friend (female)"
       }
     },
     {
       "id": "m1-s42",
-      "french": "Oui, je suis ton amie.",
+      "spanish": "Sí, soy tu amiga.",
       "english": "Yes, I am your friend (female).",
       "wordMeanings": {
-        "ton": "your"
+        "Sí": "yes",
+        "soy": "I am",
+        "tu": "your",
+        "amiga": "friend (female)"
       }
     },
     {
       "id": "m1-s43",
-      "french": "Charles est mon ami.",
-      "english": "Charles is my friend.",
-      "wordMeanings": {}
+      "spanish": "Carlos es mi amigo.",
+      "english": "Carlos is my friend.",
+      "wordMeanings": {
+        "Carlos": "Carlos",
+        "es": "is",
+        "mi": "my",
+        "amigo": "friend (male)"
+      }
     },
     {
       "id": "m1-s44",
-      "french": "Anne est mon amie.",
-      "english": "Anne is my friend.",
-      "wordMeanings": {}
+      "spanish": "Ana es mi amiga.",
+      "english": "Ana is my friend.",
+      "wordMeanings": {
+        "Ana": "Ana",
+        "es": "is",
+        "mi": "my",
+        "amiga": "friend (female)"
+      }
+    },
+    {
+      "id": "m1-s45",
+      "spanish": "¿Eres Carlos?",
+      "english": "Are you Carlos?",
+      "wordMeanings": {
+        "Eres": "you are",
+        "Carlos": "Carlos"
+      }
+    },
+    {
+      "id": "m1-s46",
+      "spanish": "No, soy Luis.",
+      "english": "No, I am Luis.",
+      "wordMeanings": {
+        "No": "no / not",
+        "soy": "I am",
+        "Luis": "Luis"
+      }
+    },
+    {
+      "id": "m1-s47",
+      "spanish": "¿Eres Marta?",
+      "english": "Are you Marta?",
+      "wordMeanings": {
+        "Eres": "you are",
+        "Marta": "Marta"
+      }
+    },
+    {
+      "id": "m1-s48",
+      "spanish": "No, soy Ana.",
+      "english": "No, I am Ana.",
+      "wordMeanings": {
+        "No": "no / not",
+        "soy": "I am",
+        "Ana": "Ana"
+      }
     }
   ],
   "vocabulary": {
-    "bonjour": {
-      "mnemonic": "Think 'Good journey' — wishing someone a good start to their day.",
-      "explanation": "Literally 'Good day'. Used until sunset."
+    "hola": {
+      "mnemonic": "Sounds like 'holler' — you holler 'Hello!'",
+      "explanation": "Universal greeting, any time of day."
     },
-    "salut": {
-      "mnemonic": "Like a 'salute' — a quick informal greeting.",
-      "explanation": "Can mean both 'Hi' and 'Bye' in informal settings."
+    "buenos": {
+      "mnemonic": "Think 'bonus' — it's a bonus to have a good day!",
+      "explanation": "Masculine plural of 'bueno' (good)."
     },
-    "merci": {
-      "mnemonic": "Sounds like 'mercy' — you're glad they showed you mercy/thanks!",
-      "explanation": "Universal word for thanks."
+    "días": {
+      "mnemonic": "Think 'diaries' — you write in your diary each day.",
+      "explanation": "Plural of 'día' (day)."
     },
-    "suis": {
-      "mnemonic": "Sounds like 'sweet' — I am sweet!",
-      "explanation": "First person singular of 'être' (to be)."
+    "buenas": {
+      "mnemonic": "Same root as 'bonus' — feminine plural of 'bueno'.",
+      "explanation": "Used with feminine nouns like tardes, noches."
     },
-    "es-tu": {
-      "mnemonic": "Sounds like 'S-2' — a code for 'Are you?'.",
-      "explanation": "Inversion of 'Tu es' for questions."
+    "tardes": {
+      "mnemonic": "Sounds like 'tardy' — being late in the afternoon.",
+      "explanation": "Plural of 'tarde' (afternoon/evening)."
     },
-    "étudiant": {
-      "mnemonic": "Very similar to English 'student'.",
-      "explanation": "Remember to add an -e for female students: étudiante."
+    "noches": {
+      "mnemonic": "Sounds like 'notches' — notch each night off.",
+      "explanation": "Plural of 'noche' (night)."
+    },
+    "adiós": {
+      "mnemonic": "Think 'adios amigos!' — a dramatic farewell.",
+      "explanation": "From 'a Dios' (to God). More final than 'hasta luego'."
+    },
+    "hasta": {
+      "mnemonic": "'Hasta la vista, baby!' — until we meet again.",
+      "explanation": "Means 'until'. Used in many farewell phrases."
+    },
+    "luego": {
+      "mnemonic": "Sounds like 'Lego' — I'll play Lego with you later.",
+      "explanation": "Means 'later' or 'then'."
+    },
+    "favor": {
+      "mnemonic": "Same as English 'favor' — do me a favor, please!",
+      "explanation": "'Por favor' literally means 'for favor'."
+    },
+    "gracias": {
+      "mnemonic": "Think 'gracious' — a gracious person says thank you.",
+      "explanation": "From Latin 'gratia' (grace/thanks)."
+    },
+    "muchas": {
+      "mnemonic": "Sounds like 'much-as' — many/much.",
+      "explanation": "Feminine plural of 'mucho'."
+    },
+    "nada": {
+      "mnemonic": "'Nada, zip, zilch' — nothing at all!",
+      "explanation": "'De nada' = 'of nothing' = you're welcome."
+    },
+    "soy": {
+      "mnemonic": "Think 'soy sauce' — silly but memorable 'I am'!",
+      "explanation": "First person of 'ser' (to be, permanent)."
+    },
+    "eres": {
+      "mnemonic": "Sounds like 'air is' — 'You are like air.'",
+      "explanation": "Informal 'you are' form of 'ser'."
+    },
+    "quién": {
+      "mnemonic": "Sounds like 'key-en' — 'Who has the key?'",
+      "explanation": "Question word meaning 'who'."
+    },
+    "estudiante": {
+      "mnemonic": "Nearly identical to 'student' — easy cognate!",
+      "explanation": "Works for both male and female students."
+    },
+    "él": {
+      "mnemonic": "Like 'el' in 'elevator' — he goes up!",
+      "explanation": "Subject pronoun 'he'. Accent distinguishes from 'el' (the)."
+    },
+    "es": {
+      "mnemonic": "Sounds like letter 'S' — 'He/She is S-uper.'",
+      "explanation": "Third person singular of 'ser'."
+    },
+    "ella": {
+      "mnemonic": "Think 'Cinderella' ends with '-ella' — she!",
+      "explanation": "Subject pronoun 'she/her'."
+    },
+    "somos": {
+      "mnemonic": "'So most awesome' — we are!",
+      "explanation": "First person plural of 'ser'."
+    },
+    "son": {
+      "mnemonic": "Like English 'son' — 'They are my sons.'",
+      "explanation": "Third person plural of 'ser'."
+    },
+    "ustedes": {
+      "mnemonic": "Think 'you-sted-es' — all of you!",
+      "explanation": "Formal/neutral 'you all' in Latin American Spanish."
+    },
+    "y": {
+      "mnemonic": "The letter 'Y' connects — like 'and' connects words.",
+      "explanation": "Pronounced like 'ee'. The simplest conjunction."
+    },
+    "mi": {
+      "mnemonic": "Sounds like 'me' — what belongs to me is 'mi'.",
+      "explanation": "Possessive 'my'. No accent (unlike 'mí' = me)."
+    },
+    "amigo": {
+      "mnemonic": "Already used in English — a friendly buddy.",
+      "explanation": "Male friend. 'Amiga' for female."
+    },
+    "tu": {
+      "mnemonic": "Sounds like 'to' — what belongs to you.",
+      "explanation": "Possessive 'your'. No accent (unlike 'tú' = you)."
+    },
+    "amiga": {
+      "mnemonic": "Feminine version of 'amigo' — your gal pal.",
+      "explanation": "Female friend. Note the -a ending."
     }
   }
 }

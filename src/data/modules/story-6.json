@@ -1,97 +1,204 @@
 {
   "id": "story-6",
-  "title": "📖 Histoire : Que ferais-tu ?",
-  "description": "Une histoire utilisant le conditionnel, venir de et depuis.",
   "type": "story",
-  "storyIntro": "Anne et Charles discutent de leurs rêves.",
+  "title": "📖 Story: What Would You Do?",
+  "description": "A story using conditionals, acabar de, and llevar + gerund.",
+  "level": "Beginner",
+  "storyIntro": "You've learned real conditionals (si + present), hypothetical conditionals (si + imperfect subjunctive), 'acabar de' for just-finished actions, and 'llevar + gerund' for ongoing durations.\n\nNow Ana and Marta are discussing a big life decision. Watch how conditionals express different levels of certainty!",
   "sentences": [
     {
       "id": "s6-s1",
-      "french": "Anne, si tu étais riche, que ferais-tu ?",
-      "english": "Anne, if you were rich, what would you do?",
+      "spanish": "Marta lleva tres años trabajando en la misma empresa.",
+      "english": "Marta has been working at the same company for three years.",
       "wordMeanings": {
-        "riche": "rich",
-        "ferais-tu": "would you do"
+        "Marta": "Marta",
+        "lleva": "has been (llevar + duration)",
+        "tres": "three",
+        "años": "years",
+        "trabajando": "working (gerund)",
+        "en": "at / in",
+        "la": "the",
+        "misma": "same",
+        "empresa": "company"
       }
     },
     {
       "id": "s6-s2",
-      "french": "Si j'étais riche, je voyagerais partout.",
-      "english": "If I were rich, I would travel everywhere.",
+      "spanish": "Acaba de recibir una oferta de otra empresa.",
+      "english": "She has just received an offer from another company.",
       "wordMeanings": {
-        "voyagerais": "would travel",
-        "partout": "everywhere"
+        "Acaba de": "has just (acabar de)",
+        "recibir": "to receive",
+        "una": "a",
+        "oferta": "offer",
+        "de": "from",
+        "otra": "another",
+        "empresa": "company"
       }
     },
     {
       "id": "s6-s3",
-      "french": "J'irais en France et j'achèterais une maison.",
-      "english": "I would go to France and I would buy a house.",
+      "spanish": "Si acepta la oferta, va a ganar más dinero.",
+      "english": "If she accepts the offer, she is going to earn more money.",
       "wordMeanings": {
-        "j'irais": "I would go",
-        "achèterais": "would buy"
+        "Si": "if",
+        "acepta": "accepts",
+        "la": "the",
+        "oferta": "offer",
+        "va a": "is going to (near future)",
+        "ganar": "earn",
+        "más": "more",
+        "dinero": "money"
       }
     },
     {
       "id": "s6-s4",
-      "french": "Je rêve de ça depuis longtemps.",
-      "english": "I have been dreaming of that for a long time.",
+      "spanish": "Pero si cambia de trabajo, tiene que mudarse a otra ciudad.",
+      "english": "But if she changes jobs, she has to move to another city.",
       "wordMeanings": {
-        "rêve": "dream",
-        "depuis longtemps": "for a long time"
+        "Pero": "but",
+        "si": "if",
+        "cambia": "changes",
+        "de": "of",
+        "trabajo": "work/job",
+        "tiene que": "has to",
+        "mudarse": "move (reflexive)",
+        "a": "to",
+        "otra": "another",
+        "ciudad": "city"
       }
     },
     {
       "id": "s6-s5",
-      "french": "Et toi, Charles ? Que ferais-tu ?",
-      "english": "And you, Charles? What would you do?",
-      "wordMeanings": {}
+      "spanish": "Ana le pregunta: \"¿Qué harías tú?\"",
+      "english": "Ana asks her: \"What would you do?\"",
+      "wordMeanings": {
+        "Ana": "Ana",
+        "le": "to her",
+        "pregunta": "asks",
+        "Qué": "what",
+        "harías": "would you do (conditional)",
+        "tú": "you"
+      }
     },
     {
       "id": "s6-s6",
-      "french": "Moi, j'étudierais la cuisine française.",
-      "english": "Me, I would study French cooking.",
+      "spanish": "\"Si tuviera más dinero, podría viajar más.\"",
+      "english": "\"If I had more money, I could travel more.\"",
       "wordMeanings": {
-        "étudierais": "would study",
-        "cuisine": "cooking"
+        "Si": "if",
+        "tuviera": "I had (imperfect subjunctive)",
+        "más": "more",
+        "dinero": "money",
+        "podría": "I could (conditional)",
+        "viajar": "to travel"
       }
     },
     {
       "id": "s6-s7",
-      "french": "Je viens de lire un livre sur les chefs.",
-      "english": "I just read a book about chefs.",
+      "spanish": "\"Pero si me fuera, te echaría de menos.\"",
+      "english": "\"But if I left, I would miss you.\"",
       "wordMeanings": {
-        "viens de": "just finished",
-        "lire": "to read",
-        "chefs": "chefs"
+        "Pero": "but",
+        "si": "if",
+        "me fuera": "I left (imperfect subjunctive)",
+        "te": "you",
+        "echaría de menos": "would miss (conditional)"
       }
     },
     {
       "id": "s6-s8",
-      "french": "Nous serions très heureux !",
-      "english": "We would be very happy!",
+      "spanish": "Ana le dice: \"Llevo mucho tiempo pensando en esto.\"",
+      "english": "Ana tells her: \"I have been thinking about this for a long time.\"",
       "wordMeanings": {
-        "serions": "would be",
-        "heureux": "happy"
+        "Ana": "Ana",
+        "le dice": "tells her",
+        "Llevo": "I have been (llevar + duration)",
+        "mucho": "much / a lot",
+        "tiempo": "time",
+        "pensando": "thinking (gerund)",
+        "en": "about",
+        "esto": "this"
       }
     },
     {
       "id": "s6-s9",
-      "french": "C'est un beau rêve.",
-      "english": "That's a beautiful dream.",
+      "spanish": "\"Si estás feliz allí, quédate. Pero si no estás contenta, cambia.\"",
+      "english": "\"If you are happy there, stay. But if you are not happy, change.\"",
       "wordMeanings": {
-        "rêve": "dream"
+        "Si": "if",
+        "estás": "you are",
+        "feliz": "happy",
+        "allí": "there",
+        "quédate": "stay (affirmative command + reflexive)",
+        "Pero": "but",
+        "si no": "if not",
+        "contenta": "happy/content",
+        "cambia": "change (command)"
+      }
+    },
+    {
+      "id": "s6-s10",
+      "spanish": "Marta acaba de tomar su decisión.",
+      "english": "Marta has just made her decision.",
+      "wordMeanings": {
+        "Marta": "Marta",
+        "acaba de": "has just (acabar de)",
+        "tomar": "to take / to make",
+        "su": "her",
+        "decisión": "decision"
+      }
+    },
+    {
+      "id": "s6-s11",
+      "spanish": "\"Si acepto, será una nueva aventura.\"",
+      "english": "\"If I accept, it will be a new adventure.\"",
+      "wordMeanings": {
+        "Si": "if",
+        "acepto": "I accept",
+        "será": "it will be (future)",
+        "una": "a",
+        "nueva": "new",
+        "aventura": "adventure"
+      }
+    },
+    {
+      "id": "s6-s12",
+      "spanish": "\"Voy a aceptar la oferta. ¡Gracias por tu consejo, amiga!\"",
+      "english": "\"I'm going to accept the offer. Thanks for your advice, friend!\"",
+      "wordMeanings": {
+        "Voy a": "I'm going to (near future)",
+        "aceptar": "to accept",
+        "la": "the",
+        "oferta": "offer",
+        "Gracias": "thanks",
+        "por": "for",
+        "tu": "your",
+        "consejo": "advice",
+        "amiga": "friend (female)"
       }
     }
   ],
   "vocabulary": {
-    "rêve": {
-      "mnemonic": "Think 'reverie' — a daydream.",
-      "explanation": "Masculine noun for dream."
+    "empresa": {
+      "mnemonic": "Think 'enterprise' — a business/company.",
+      "explanation": "Means 'company' or 'business'."
     },
-    "partout": {
-      "mnemonic": "Every-part-too.",
-      "explanation": "Adverb meaning everywhere."
+    "oferta": {
+      "mnemonic": "Think 'offer' — direct cognate!",
+      "explanation": "Means 'offer' or 'deal'."
+    },
+    "dinero": {
+      "mnemonic": "Think 'dinero' as in 'dough/money' — dinner costs money!",
+      "explanation": "Means 'money'."
+    },
+    "decisión": {
+      "mnemonic": "Think 'decision' — exact cognate!",
+      "explanation": "Means 'decision'."
+    },
+    "aventura": {
+      "mnemonic": "Think 'adventure' — exact cognate!",
+      "explanation": "Means 'adventure'."
     }
   }
 }

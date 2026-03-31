@@ -1,58 +1,143 @@
 {
   "id": "module-34",
-  "title": "Poésie : Demain dès l'aube",
-  "description": "Un poème touchant de Victor Hugo.",
-  "level": "Avancé",
+  "title": "Poetry: Mariposa del Aire",
+  "description": "A lovely poem by Federico García Lorca.",
+  "level": "Advanced",
   "sentences": [
     {
       "id": "m34-s1",
-      "french": "Demain, dès l'aube, à l'heure où blanchit la campagne,",
-      "english": "Tomorrow, at dawn, at the hour when the countryside whitens,",
+      "spanish": "Mariposa del aire, qué hermosa eres.",
+      "english": "Butterfly of the air, how beautiful you are.",
       "wordMeanings": {
-        "Demain": "tomorrow",
-        "aube": "dawn",
-        "blanchit": "whitens",
-        "campagne": "countryside"
+        "Mariposa": "butterfly",
+        "del": "of the",
+        "aire": "air",
+        "qué": "how",
+        "hermosa": "beautiful",
+        "eres": "you are"
       }
     },
     {
       "id": "m34-s2",
-      "french": "Je partirai. Vois-tu, je sais que tu m'attends.",
-      "english": "I will leave. You see, I know that you are waiting for me.",
+      "spanish": "Mariposa del aire, dorada y verde.",
+      "english": "Butterfly of the air, golden and green.",
       "wordMeanings": {
-        "partirai": "will leave",
-        "attends": "waiting for"
+        "Mariposa": "butterfly",
+        "del": "of the",
+        "aire": "air",
+        "dorada": "golden",
+        "y": "and",
+        "verde": "green"
       }
     },
     {
       "id": "m34-s3",
-      "french": "J'irai par la forêt, j'irai par la montagne.",
-      "english": "I will go through the forest, I will go through the mountain.",
+      "spanish": "Luz del candil, mariposa del aire.",
+      "english": "Light of the lamp, butterfly of the air.",
       "wordMeanings": {
-        "par": "through / by",
-        "montagne": "mountain"
+        "Luz": "light",
+        "del": "of the",
+        "candil": "oil lamp",
+        "mariposa": "butterfly",
+        "aire": "air"
       }
     },
     {
       "id": "m34-s4",
-      "french": "Je ne puis demeurer loin de toi plus longtemps.",
-      "english": "I cannot remain far from you any longer.",
+      "spanish": "¡Quédate ahí, ahí, ahí!",
+      "english": "Stay there, there, there!",
       "wordMeanings": {
-        "puis": "can / am able to",
-        "demeurer": "to remain",
-        "loin": "far",
-        "longtemps": "longer / a long time"
+        "Quédate": "stay",
+        "ahí": "there"
+      }
+    },
+    {
+      "id": "m34-s5",
+      "spanish": "No te quieres parar, pararte no quieres.",
+      "english": "You do not want to stop, to stop you do not want.",
+      "wordMeanings": {
+        "No": "no",
+        "te": "yourself",
+        "quieres": "you want",
+        "parar": "to stop",
+        "pararte": "to stop yourself",
+        "no": "no"
+      }
+    },
+    {
+      "id": "m34-s6",
+      "spanish": "Mariposa del aire, dorada y verde.",
+      "english": "Butterfly of the air, golden and green.",
+      "wordMeanings": {
+        "Mariposa": "butterfly",
+        "del": "of the",
+        "aire": "air",
+        "dorada": "golden",
+        "y": "and",
+        "verde": "green"
+      }
+    },
+    {
+      "id": "m34-s7",
+      "spanish": "Luz del candil, mariposa del aire.",
+      "english": "Light of the lamp, butterfly of the air.",
+      "wordMeanings": {
+        "Luz": "light",
+        "del": "of the",
+        "candil": "oil lamp",
+        "mariposa": "butterfly",
+        "aire": "air"
+      }
+    },
+    {
+      "id": "m34-s8",
+      "spanish": "¡Quédate ahí, ahí, ahí!",
+      "english": "Stay there, there, there!",
+      "wordMeanings": {
+        "Quédate": "stay",
+        "ahí": "there"
+      }
+    },
+    {
+      "id": "m34-s9",
+      "spanish": "¡Quédate ahí! Mariposa, ¿estás ahí?",
+      "english": "Stay there! Butterfly, are you there?",
+      "wordMeanings": {
+        "Quédate": "stay",
+        "ahí": "there",
+        "Mariposa": "butterfly",
+        "estás": "are you"
       }
     }
   ],
   "vocabulary": {
-    "demeurer": {
-      "mnemonic": "Think 'dwell'.",
-      "explanation": "Literary verb for remaining or staying."
+    "mariposa": {
+      "mnemonic": "'Mary poses' — a butterfly posing!",
+      "explanation": "Means 'butterfly'."
     },
-    "longtemps": {
-      "mnemonic": "Long time.",
-      "explanation": "Adverb meaning for a long time."
+    "aire": {
+      "mnemonic": "Same as English 'air'!",
+      "explanation": "Cognate."
+    },
+    "eres": {
+      "mnemonic": "Sounds like 'air is' — 'You are like air.'",
+      "explanation": "Informal 'you are' form of 'ser'."
+    },
+    "y": {
+      "mnemonic": "The letter 'Y' connects — like 'and' connects words.",
+      "explanation": "Pronounced like 'ee'. The simplest conjunction."
+    },
+    "verde": {
+      "mnemonic": "Think 'verdant' — lush green vegetation.",
+      "explanation": "Means 'green'. Same for masc/fem."
+    },
+    "luz": {
+      "mnemonic": "Think 'lux/luminous' — light.",
+      "explanation": "Feminine noun."
+    },
+    "estás": {
+      "mnemonic": "Think 'you establish your position'.",
+      "explanation": "Informal 'you are' (estar)."
     }
   }
 }

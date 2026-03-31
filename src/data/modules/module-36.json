@@ -1,57 +1,133 @@
 {
   "id": "module-36",
-  "title": "Littérature : Les Misérables",
-  "description": "Un extrait du célèbre roman de Victor Hugo.",
-  "level": "Avancé",
+  "title": "Literature: Cien Años de Soledad",
+  "description": "The iconic opening of Gabriel García Márquez's masterpiece.",
+  "level": "Advanced",
   "sentences": [
     {
       "id": "m36-s1",
-      "french": "Vivre, c'est dormir d'un sommeil plein de songes.",
-      "english": "To live is to sleep a sleep full of dreams.",
+      "spanish": "Muchos años después, frente al pelotón de fusilamiento...",
+      "english": "Many years later, facing the firing squad...",
       "wordMeanings": {
-        "Vivre": "to live",
-        "sommeil": "sleep",
-        "songes": "dreams / daydreams"
+        "Muchos": "many",
+        "años": "years",
+        "después": "later",
+        "frente": "facing/front",
+        "al": "to the",
+        "pelotón": "squad/platoon",
+        "de": "of",
+        "fusilamiento": "firing/execution"
       }
     },
     {
       "id": "m36-s2",
-      "french": "Rien n'est plus grand que le cœur d'une mère.",
-      "english": "Nothing is greater than a mother's heart.",
+      "spanish": "...el coronel Aureliano Buendía había de recordar aquella tarde remota...",
+      "english": "...Colonel Aureliano Buendía was to remember that distant afternoon...",
       "wordMeanings": {
-        "grand": "great",
-        "cœur": "heart",
-        "mère": "mother"
+        "el": "the",
+        "coronel": "colonel",
+        "Aureliano": "Aureliano",
+        "Buendía": "Buendía",
+        "había": "had",
+        "de": "of/to",
+        "recordar": "to remember",
+        "aquella": "that",
+        "tarde": "afternoon",
+        "remota": "remote/distant"
       }
     },
     {
       "id": "m36-s3",
-      "french": "Il n'y a pas de mauvaises herbes, il n'y a que de mauvais cultivateurs.",
-      "english": "There are no bad weeds, there are only bad cultivators.",
+      "spanish": "...en que su padre lo llevó a conocer el hielo.",
+      "english": "...in which his father took him to discover ice.",
       "wordMeanings": {
-        "mauvaises": "bad",
-        "herbes": "weeds / herbs",
-        "cultivateurs": "cultivators / farmers"
+        "en": "in",
+        "que": "which",
+        "su": "his",
+        "padre": "father",
+        "lo": "him",
+        "llevó": "took",
+        "a": "to",
+        "conocer": "to know/discover",
+        "el": "the",
+        "hielo": "ice"
       }
     },
     {
       "id": "m36-s4",
-      "french": "Aimer, c'est agir.",
-      "english": "To love is to act.",
+      "spanish": "Macondo era entonces una aldea de veinte casas de barro...",
+      "english": "Macondo was then a village of twenty houses of mud...",
       "wordMeanings": {
-        "Aimer": "to love",
-        "agir": "to act"
+        "Macondo": "Macondo",
+        "era": "was",
+        "entonces": "then",
+        "una": "a",
+        "aldea": "village",
+        "de": "of",
+        "veinte": "twenty",
+        "casas": "houses",
+        "barro": "mud/clay"
+      }
+    },
+    {
+      "id": "m36-s5",
+      "spanish": "...y cañabrava construidas a la orilla de un río de aguas diáfanas.",
+      "english": "...and wild cane built on the bank of a river of clear waters.",
+      "wordMeanings": {
+        "y": "and",
+        "cañabrava": "wild cane",
+        "construidas": "built",
+        "a": "at",
+        "la": "the",
+        "orilla": "bank/shore",
+        "de": "of",
+        "un": "a",
+        "río": "river",
+        "aguas": "waters",
+        "diáfanas": "diaphanous/clear"
       }
     }
   ],
   "vocabulary": {
-    "agir": {
-      "mnemonic": "Think 'act' or 'agent'.",
-      "explanation": "Standard -IR verb for acting."
+    "años": {
+      "mnemonic": "Think 'annual' → años = years.",
+      "explanation": "'Tener X años' = to be X years old."
     },
-    "mauvais": {
-      "mnemonic": "Think 'mal' or 'malice'.",
-      "explanation": "Adjective for bad."
+    "después": {
+      "mnemonic": "'Dispatch after' — afterwards.",
+      "explanation": "Means 'after/afterwards'."
+    },
+    "había": {
+      "mnemonic": "'Have-ee-a' — there was.",
+      "explanation": "Imperfect of 'haber'."
+    },
+    "tarde": {
+      "mnemonic": "Think 'tardy' — late!",
+      "explanation": "Means 'late' or 'afternoon'."
+    },
+    "lo": {
+      "mnemonic": "'Low him' — direct object him/it.",
+      "explanation": "Masculine direct object pronoun."
+    },
+    "hielo": {
+      "mnemonic": "'He-lo, it's icy!' — ice.",
+      "explanation": "Means 'ice'."
+    },
+    "era": {
+      "mnemonic": "Think 'era' — in that era, I was...",
+      "explanation": "Imperfect of 'ser'."
+    },
+    "y": {
+      "mnemonic": "The letter 'Y' connects — like 'and' connects words.",
+      "explanation": "Pronounced like 'ee'. The simplest conjunction."
+    },
+    "la": {
+      "mnemonic": "'La lady' — her/it (feminine).",
+      "explanation": "Also 'the' (feminine)."
+    },
+    "río": {
+      "mnemonic": "'Rio Grande' — río = river!",
+      "explanation": "Means 'river'."
     }
   }
 }

@@ -1,105 +1,160 @@
 {
   "id": "story-1",
-  "title": "📖 Histoire : Le nouvel ami d'Anne",
-  "description": "Une courte histoire utilisant les salutations, les lieux et les descriptions.",
   "type": "story",
-  "storyIntro": "Anne est au café. Elle rencontre un nouvel ami, Marc.",
+  "title": "📖 Story: Ana's New Friend",
+  "description": "A short story using what you've learned about greetings, locations, and descriptions.",
+  "level": "Beginner",
+  "storyIntro": "You've learned greetings, locations with estar, and descriptions with ser. Now let's put it all together in a short story about Ana meeting someone new.\n\nRead each sentence, listen to the audio, and see how the grammar you've learned works in a real conversation!",
   "sentences": [
     {
       "id": "s1-s1",
-      "french": "Bonjour, je suis Anne.",
-      "english": "Hello, I am Anne.",
-      "wordMeanings": {}
+      "spanish": "Buenos días. Soy Ana.",
+      "english": "Good morning. I am Ana.",
+      "wordMeanings": {
+        "Buenos": "good (masc pl)",
+        "días": "days / morning",
+        "Soy": "I am",
+        "Ana": "Ana"
+      }
     },
     {
       "id": "s1-s2",
-      "french": "Bonjour Anne, je suis Marc.",
-      "english": "Hello Anne, I am Marc.",
-      "wordMeanings": {}
+      "spanish": "Estoy en la escuela.",
+      "english": "I am at the school.",
+      "wordMeanings": {
+        "Estoy": "I am (location)",
+        "en": "in / at",
+        "la": "the",
+        "escuela": "school"
+      }
     },
     {
       "id": "s1-s3",
-      "french": "Enchantée Marc.",
-      "english": "Nice to meet you (fem) Marc.",
+      "spanish": "La escuela es grande y bonita.",
+      "english": "The school is big and pretty.",
       "wordMeanings": {
-        "Enchantée": "enchanted / nice to meet you"
+        "La": "the",
+        "escuela": "school",
+        "es": "is (characteristic)",
+        "grande": "big",
+        "y": "and",
+        "bonita": "pretty"
       }
     },
     {
       "id": "s1-s4",
-      "french": "Es-tu au café ?",
-      "english": "Are you at the café?",
-      "wordMeanings": {}
+      "spanish": "¿Quién es él?",
+      "english": "Who is he?",
+      "wordMeanings": {
+        "Quién": "who",
+        "es": "is",
+        "él": "he"
+      }
     },
     {
       "id": "s1-s5",
-      "french": "Oui, je suis avec mon ami.",
-      "english": "Yes, I am with my friend.",
+      "spanish": "Él es Carlos. Él es estudiante.",
+      "english": "He is Carlos. He is a student.",
       "wordMeanings": {
-        "avec": "with"
+        "Él": "he",
+        "es": "is",
+        "Carlos": "Carlos",
+        "estudiante": "student"
       }
     },
     {
       "id": "s1-s6",
-      "french": "Où est ton ami ?",
-      "english": "Where is your friend?",
-      "wordMeanings": {}
+      "spanish": "Hola, Carlos. Soy Ana. Soy estudiante.",
+      "english": "Hello, Carlos. I am Ana. I am a student.",
+      "wordMeanings": {
+        "Hola": "hello",
+        "Carlos": "Carlos",
+        "Soy": "I am",
+        "Ana": "Ana",
+        "estudiante": "student"
+      }
     },
     {
       "id": "s1-s7",
-      "french": "Il est à la maison maintenant.",
-      "english": "He is at home now.",
+      "spanish": "Carlos es alto y simpático.",
+      "english": "Carlos is tall and friendly.",
       "wordMeanings": {
-        "maintenant": "now"
+        "Carlos": "Carlos",
+        "es": "is (characteristic)",
+        "alto": "tall",
+        "y": "and",
+        "simpático": "friendly"
       }
     },
     {
       "id": "s1-s8",
-      "french": "Est-il grand ?",
-      "english": "Is he tall?",
-      "wordMeanings": {}
+      "spanish": "Ana está contenta.",
+      "english": "Ana is happy.",
+      "wordMeanings": {
+        "Ana": "Ana",
+        "está": "is (feeling/state)",
+        "contenta": "happy"
+      }
     },
     {
       "id": "s1-s9",
-      "french": "Oui, il est très grand et intelligent.",
-      "english": "Yes, he is very tall and intelligent.",
+      "spanish": "¿Eres mi amigo?",
+      "english": "Are you my friend?",
       "wordMeanings": {
-        "très": "very"
+        "Eres": "you are",
+        "mi": "my",
+        "amigo": "friend (male)"
       }
     },
     {
       "id": "s1-s10",
-      "french": "C'est super !",
-      "english": "That's great!",
+      "spanish": "Sí, soy tu amigo. Somos amigos.",
+      "english": "Yes, I am your friend. We are friends.",
       "wordMeanings": {
-        "super": "great"
+        "Sí": "yes",
+        "soy": "I am",
+        "tu": "your",
+        "amigo": "friend (male)",
+        "Somos": "we are",
+        "amigos": "friends"
       }
     },
     {
       "id": "s1-s11",
-      "french": "Merci Marc, à bientôt.",
-      "english": "Thank you Marc, see you soon.",
-      "wordMeanings": {}
+      "spanish": "Adiós, Carlos. Hasta luego.",
+      "english": "Goodbye, Carlos. See you later.",
+      "wordMeanings": {
+        "Adiós": "goodbye",
+        "Carlos": "Carlos",
+        "Hasta": "until",
+        "luego": "later"
+      }
     },
     {
       "id": "s1-s12",
-      "french": "Au revoir Anne !",
-      "english": "Goodbye Anne!",
-      "wordMeanings": {}
+      "spanish": "Buenas tardes, Ana. Hasta luego.",
+      "english": "Good afternoon, Ana. See you later.",
+      "wordMeanings": {
+        "Buenas": "good (fem pl)",
+        "tardes": "afternoons",
+        "Ana": "Ana",
+        "Hasta": "until",
+        "luego": "later"
+      }
     }
   ],
   "vocabulary": {
-    "enchantée": {
-      "mnemonic": "Think 'enchanted' to meet you.",
-      "explanation": "Add an extra 'e' if you are female: enchantée."
+    "escuela": {
+      "mnemonic": "Sounds like 'school-a' — easy cognate!",
+      "explanation": "Feminine noun. 'La escuela'."
     },
-    "avec": {
-      "mnemonic": "Rhymes with 'peck' — I peck with my friend.",
-      "explanation": "Standard word for 'with'."
+    "contenta": {
+      "mnemonic": "Think 'content' — feeling satisfied and happy.",
+      "explanation": "Feminine form of 'contento'. Used with estar."
     },
-    "maintenant": {
-      "mnemonic": "Think 'maintain now' — I'm maintaining this now.",
-      "explanation": "Adverb for 'now'."
+    "simpático": {
+      "mnemonic": "Think 'sympathetic' — someone friendly and nice.",
+      "explanation": "Means 'nice/friendly'. Used with ser (personality trait)."
     }
   }
 }
