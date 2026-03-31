@@ -1,0 +1,9 @@
+const r="module-pour-vs-par",e="Grammaire : Pour vs Par",o="Apprendre la différence entre 'pour' et 'par', deux prépositions essentielles.",n="Intermédiaire",a=`Pour and Par both translate roughly to 'for', 'by', or 'through', but they have distinct uses.
+
+• Pour: Used for purpose, destination, or a specific duration in the future. (For, in order to)
+• Par: Used for means of transport, through, by (agent in passive), or frequency. (By, through, via)
+
+- J'étudie pour apprendre. (I study in order to learn - Purpose)
+- Je pars pour Paris. (I'm leaving for Paris - Destination)
+- Il passe par le parc. (He goes through the park - Passage)
+- C'est écrit par Marc. (It is written by Marc - Agent)`,i=[{id:"pvp-s1",french:"Je travaille pour toi.",english:"I am working for you.",wordMeanings:{pour:"for"}},{id:"pvp-s2",french:"Il passe par Lyon.",english:"He is going through Lyon.",wordMeanings:{par:"through / via"}},{id:"pvp-s3",french:"C'est pour aujourd'hui.",english:"It is for today.",wordMeanings:{"aujourd'hui":"today"}},{id:"pvp-s4",french:"Je voyage par train.",english:"I am traveling by train.",wordMeanings:{train:"train"}},{id:"pvp-s5",french:"Il a été surpris par Marie.",english:"He was surprised by Marie.",wordMeanings:{surpris:"surprised"}},{id:"pvp-s6",french:"Je le fais pour rire.",english:"I'm doing it to laugh / for a laugh.",wordMeanings:{rire:"to laugh"}}],s={pour:{mnemonic:"Think 'purpose' — for a purpose.",explanation:"Preposition for purpose or destination."},par:{mnemonic:"Think 'partial' or 'passage' — through a part.",explanation:"Preposition for through, by, or via."}},t={id:r,title:e,description:o,level:n,grammarExplanation:a,sentences:i,vocabulary:s};export{t as default,o as description,a as grammarExplanation,r as id,n as level,i as sentences,e as title,s as vocabulary};
