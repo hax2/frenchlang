@@ -1,621 +1,605 @@
 {
   "id": "module-2",
   "title": "Chapter 2: Locations",
-  "description": "Express where things and people are using 'estar'.",
+  "description": "Express where things and people are.",
   "level": "Beginner",
   "sentences": [
     {
       "id": "m2-s1",
-      "spanish": "¿Dónde estás?",
+      "french": "Où es-tu ?",
       "english": "Where are you?",
       "wordMeanings": {
-        "Dónde": "where",
-        "estás": "you are"
+        "Où": "where",
+        "es-tu": "are you"
       }
     },
     {
       "id": "m2-s2",
-      "spanish": "Estoy aquí.",
+      "french": "Je suis ici.",
       "english": "I am here.",
       "wordMeanings": {
-        "Estoy": "I am",
-        "aquí": "here"
+        "Je": "I",
+        "suis": "am",
+        "ici": "here"
       }
     },
     {
       "id": "m2-s3",
-      "spanish": "Estoy allí.",
+      "french": "Je suis là-bas.",
       "english": "I am there.",
       "wordMeanings": {
-        "Estoy": "I am",
-        "allí": "there"
+        "Je": "I",
+        "suis": "am",
+        "là-bas": "over there"
       }
     },
     {
       "id": "m2-s4",
-      "spanish": "Estoy en casa.",
+      "french": "Je suis à la maison.",
       "english": "I am at home.",
       "wordMeanings": {
-        "Estoy": "I am",
-        "en": "in / on",
-        "casa": "house"
+        "Je": "I",
+        "suis": "am",
+        "à": "at",
+        "la": "the (fem)",
+        "maison": "house"
       }
     },
     {
       "id": "m2-s5",
-      "spanish": "Estoy en la escuela.",
+      "french": "Je suis à l'école.",
       "english": "I am at school.",
       "wordMeanings": {
-        "Estoy": "I am",
-        "en": "in / on",
-        "la": "the / it (fem)",
-        "escuela": "school"
+        "Je": "I",
+        "suis": "am",
+        "à": "at",
+        "l'école": "the school"
       }
     },
     {
       "id": "m2-s6",
-      "spanish": "Estoy en el trabajo.",
+      "french": "Je suis au travail.",
       "english": "I am at work.",
       "wordMeanings": {
-        "Estoy": "I am",
-        "en": "in / on",
-        "el": "the",
-        "trabajo": "I work / job"
+        "Je": "I",
+        "suis": "am",
+        "au": "at the (masc)",
+        "travail": "work/job"
       }
     },
     {
       "id": "m2-s7",
-      "spanish": "Estoy en el centro.",
+      "french": "Je suis en centre-ville.",
       "english": "I am downtown/in the center.",
       "wordMeanings": {
-        "Estoy": "I am",
-        "en": "in / on",
-        "el": "the",
-        "centro": "downtown"
+        "Je": "I",
+        "suis": "am",
+        "en": "in",
+        "centre-ville": "downtown"
       }
     },
     {
       "id": "m2-s8",
-      "spanish": "Estoy en la calle.",
+      "french": "Je suis dans la rue.",
       "english": "I am in the street.",
       "wordMeanings": {
-        "Estoy": "I am",
-        "en": "in / on",
-        "la": "the / it (fem)",
-        "calle": "street"
+        "Je": "I",
+        "suis": "am",
+        "dans": "in",
+        "la": "the (fem)",
+        "rue": "street"
       }
     },
     {
       "id": "m2-s9",
-      "spanish": "Estoy en el café.",
+      "french": "Je suis au café.",
       "english": "I am in the café.",
       "wordMeanings": {
-        "Estoy": "I am",
-        "en": "in / on",
-        "el": "the",
-        "café": "coffee"
+        "Je": "I",
+        "suis": "am",
+        "au": "at the (masc)",
+        "café": "café/coffee"
       }
     },
     {
       "id": "m2-s10",
-      "spanish": "¿Dónde está Ana?",
+      "french": "Où est Ana ?",
       "english": "Where is Ana?",
       "wordMeanings": {
-        "Dónde": "where",
-        "está": "is",
+        "Où": "where",
+        "est": "is",
         "Ana": "Ana"
       }
     },
     {
       "id": "m2-s11",
-      "spanish": "Ana está en casa.",
+      "french": "Ana est à la maison.",
       "english": "Ana is at home.",
       "wordMeanings": {
         "Ana": "Ana",
-        "está": "is",
-        "en": "in / on",
-        "casa": "house"
+        "est": "is",
+        "à": "at",
+        "la": "the (fem)",
+        "maison": "house"
       }
     },
     {
       "id": "m2-s12",
-      "spanish": "¿Dónde está Luis?",
+      "french": "Où est Luis ?",
       "english": "Where is Luis?",
       "wordMeanings": {
-        "Dónde": "where",
-        "está": "is",
+        "Où": "where",
+        "est": "is",
         "Luis": "Luis"
       }
     },
     {
       "id": "m2-s13",
-      "spanish": "Luis está en la escuela.",
+      "french": "Luis est à l'école.",
       "english": "Luis is at school.",
       "wordMeanings": {
         "Luis": "Luis",
-        "está": "is",
-        "en": "in / on",
-        "la": "the / it (fem)",
-        "escuela": "school"
+        "est": "is",
+        "à": "at",
+        "l'école": "the school"
       }
     },
     {
       "id": "m2-s14",
-      "spanish": "¿Dónde está Marta?",
+      "french": "Où est Marta ?",
       "english": "Where is Marta?",
       "wordMeanings": {
-        "Dónde": "where",
-        "está": "is",
+        "Où": "where",
+        "est": "is",
         "Marta": "Marta"
       }
     },
     {
       "id": "m2-s15",
-      "spanish": "Marta está en el trabajo.",
+      "french": "Marta est au travail.",
       "english": "Marta is at work.",
       "wordMeanings": {
         "Marta": "Marta",
-        "está": "is",
-        "en": "in / on",
-        "el": "the",
-        "trabajo": "I work / job"
+        "est": "is",
+        "au": "at the (masc)",
+        "travail": "work/job"
       }
     },
     {
       "id": "m2-s16",
-      "spanish": "¿Dónde está Carlos?",
+      "french": "Où est Carlos ?",
       "english": "Where is Carlos?",
       "wordMeanings": {
-        "Dónde": "where",
-        "está": "is",
+        "Où": "where",
+        "est": "is",
         "Carlos": "Carlos"
       }
     },
     {
       "id": "m2-s17",
-      "spanish": "Carlos está en el café.",
+      "french": "Carlos est au café.",
       "english": "Carlos is in the café.",
       "wordMeanings": {
         "Carlos": "Carlos",
-        "está": "is",
-        "en": "in / on",
-        "el": "the",
-        "café": "coffee"
+        "est": "is",
+        "au": "at the (masc)",
+        "café": "café"
       }
     },
     {
       "id": "m2-s18",
-      "spanish": "¿Estás en casa ahora?",
+      "french": "Es-tu à la maison maintenant ?",
       "english": "Are you at home now?",
       "wordMeanings": {
-        "Estás": "you are",
-        "en": "in / on",
-        "casa": "house",
-        "ahora": "now"
+        "Es-tu": "are you",
+        "à": "at",
+        "la": "the (fem)",
+        "maison": "house",
+        "maintenant": "now"
       }
     },
     {
       "id": "m2-s19",
-      "spanish": "Sí, estoy en casa ahora.",
+      "french": "Oui, je suis à la maison maintenant.",
       "english": "Yes, I am at home now.",
       "wordMeanings": {
-        "Sí": "yes",
-        "estoy": "I am",
-        "en": "in / on",
-        "casa": "house",
-        "ahora": "now"
+        "Oui": "yes",
+        "je": "I",
+        "suis": "am",
+        "à": "at",
+        "la": "the (fem)",
+        "maison": "house",
+        "maintenant": "now"
       }
     },
     {
       "id": "m2-s20",
-      "spanish": "No, no estoy en casa ahora.",
+      "french": "Non, je ne suis pas à la maison maintenant.",
       "english": "No, I am not at home now.",
       "wordMeanings": {
-        "No": "no / not",
-        "no": "no / not",
-        "estoy": "I am",
-        "en": "in / on",
-        "casa": "house",
-        "ahora": "now"
+        "Non": "no",
+        "je": "I",
+        "ne": "not (part 1)",
+        "suis": "am",
+        "pas": "not (part 2)",
+        "à": "at",
+        "la": "the (fem)",
+        "maison": "house",
+        "maintenant": "now"
       }
     },
     {
       "id": "m2-s21",
-      "spanish": "¿Estás en el trabajo hoy?",
+      "french": "Es-tu au travail aujourd'hui ?",
       "english": "Are you at work today?",
       "wordMeanings": {
-        "Estás": "you are",
-        "en": "in / on",
-        "el": "the",
-        "trabajo": "I work / job",
-        "hoy": "today"
+        "Es-tu": "are you",
+        "au": "at the (masc)",
+        "travail": "work",
+        "aujourd'hui": "today"
       }
     },
     {
       "id": "m2-s22",
-      "spanish": "Sí, estoy en el trabajo hoy.",
+      "french": "Oui, je suis au travail aujourd'hui.",
       "english": "Yes, I am at work today.",
       "wordMeanings": {
-        "Sí": "yes",
-        "estoy": "I am",
-        "en": "in / on",
-        "el": "the",
-        "trabajo": "I work / job",
-        "hoy": "today"
+        "Oui": "yes",
+        "je": "I",
+        "suis": "am",
+        "au": "at the (masc)",
+        "travail": "work",
+        "aujourd'hui": "today"
       }
     },
     {
       "id": "m2-s23",
-      "spanish": "No, no estoy en el trabajo hoy.",
+      "french": "Non, je ne suis pas au travail aujourd'hui.",
       "english": "No, I am not at work today.",
       "wordMeanings": {
-        "No": "no / not",
-        "no": "no / not",
-        "estoy": "I am",
-        "en": "in / on",
-        "el": "the",
-        "trabajo": "I work / job",
-        "hoy": "today"
+        "Non": "no",
+        "je": "I",
+        "ne": "not (part 1)",
+        "suis": "am",
+        "pas": "not (part 2)",
+        "au": "at the (masc)",
+        "travail": "work",
+        "aujourd'hui": "today"
       }
     },
     {
       "id": "m2-s24",
-      "spanish": "Estoy cerca.",
+      "french": "Je suis proche.",
       "english": "I am nearby.",
       "wordMeanings": {
-        "Estoy": "I am",
-        "cerca": "near"
+        "Je": "I",
+        "suis": "am",
+        "proche": "near/close"
       }
     },
     {
       "id": "m2-s25",
-      "spanish": "Estoy lejos.",
+      "french": "Je suis loin.",
       "english": "I am far away.",
       "wordMeanings": {
-        "Estoy": "I am",
-        "lejos": "far"
+        "Je": "I",
+        "suis": "am",
+        "loin": "far"
       }
     },
     {
       "id": "m2-s26",
-      "spanish": "La casa está cerca.",
+      "french": "La maison est proche.",
       "english": "The house is nearby.",
       "wordMeanings": {
-        "La": "the / it (fem)",
-        "casa": "house",
-        "está": "is",
-        "cerca": "near"
+        "La": "the (fem)",
+        "maison": "house",
+        "est": "is",
+        "proche": "near"
       }
     },
     {
       "id": "m2-s27",
-      "spanish": "La escuela está lejos.",
+      "french": "L'école est loin.",
       "english": "The school is far away.",
       "wordMeanings": {
-        "La": "the / it (fem)",
-        "escuela": "school",
-        "está": "is",
-        "lejos": "far"
+        "L'école": "The school",
+        "est": "is",
+        "loin": "far"
       }
     },
     {
       "id": "m2-s28",
-      "spanish": "¿La casa está cerca?",
+      "french": "La maison est-elle proche ?",
       "english": "Is the house nearby?",
       "wordMeanings": {
-        "La": "the / it (fem)",
-        "casa": "house",
-        "está": "is",
-        "cerca": "near"
+        "La": "the (fem)",
+        "maison": "house",
+        "est-elle": "is it",
+        "proche": "near"
       }
     },
     {
       "id": "m2-s29",
-      "spanish": "Sí, la casa está cerca.",
+      "french": "Oui, la maison est proche.",
       "english": "Yes, the house is nearby.",
       "wordMeanings": {
-        "Sí": "yes",
-        "la": "the / it (fem)",
-        "casa": "house",
-        "está": "is",
-        "cerca": "near"
+        "Oui": "yes",
+        "la": "the (fem)",
+        "maison": "house",
+        "est": "is",
+        "proche": "near"
       }
     },
     {
       "id": "m2-s30",
-      "spanish": "¿La escuela está lejos?",
+      "french": "L'école est-elle loin ?",
       "english": "Is the school far away?",
       "wordMeanings": {
-        "La": "the / it (fem)",
-        "escuela": "school",
-        "está": "is",
-        "lejos": "far"
+        "L'école": "The school",
+        "est-elle": "is it",
+        "loin": "far"
       }
     },
     {
       "id": "m2-s31",
-      "spanish": "Sí, la escuela está lejos.",
+      "french": "Oui, l'école est loin.",
       "english": "Yes, the school is far away.",
       "wordMeanings": {
-        "Sí": "yes",
-        "la": "the / it (fem)",
-        "escuela": "school",
-        "está": "is",
-        "lejos": "far"
+        "Oui": "yes",
+        "l'école": "the school",
+        "est": "is",
+        "loin": "far"
       }
     },
     {
       "id": "m2-s32",
-      "spanish": "Somos amigos y estamos aquí.",
+      "french": "Nous sommes amis et nous sommes ici.",
       "english": "We are friends and we are here.",
       "wordMeanings": {
-        "Somos": "we are",
-        "amigos": "friends",
-        "y": "and",
-        "estamos": "we are",
-        "aquí": "here"
+        "Nous": "we",
+        "sommes": "are",
+        "amis": "friends",
+        "et": "and",
+        "ici": "here"
       }
     },
     {
       "id": "m2-s33",
-      "spanish": "Soy Ana y estoy en casa.",
+      "french": "Je suis Ana et je suis à la maison.",
       "english": "I am Ana and I am at home.",
       "wordMeanings": {
-        "Soy": "I am",
+        "Je": "I",
+        "suis": "am",
         "Ana": "Ana",
-        "y": "and",
-        "estoy": "I am",
-        "en": "in / on",
-        "casa": "house"
+        "et": "and",
+        "à": "at",
+        "la": "the (fem)",
+        "maison": "house"
       }
     },
     {
       "id": "m2-s34",
-      "spanish": "¿Dónde están ustedes?",
+      "french": "Où êtes-vous ?",
       "english": "Where are you (plural)?",
       "wordMeanings": {
-        "Dónde": "where",
-        "están": "are",
-        "ustedes": "you (plural)"
+        "Où": "where",
+        "êtes-vous": "are you (plural/formal)"
       }
     },
     {
       "id": "m2-s35",
-      "spanish": "Estamos aquí.",
+      "french": "Nous sommes ici.",
       "english": "We are here.",
       "wordMeanings": {
-        "Estamos": "we are",
-        "aquí": "here"
+        "Nous": "we",
+        "sommes": "are",
+        "ici": "here"
       }
     },
     {
       "id": "m2-s36",
-      "spanish": "Estamos allí.",
+      "french": "Nous sommes là-bas.",
       "english": "We are there.",
       "wordMeanings": {
-        "Estamos": "we are",
-        "allí": "there"
+        "Nous": "we",
+        "sommes": "are",
+        "là-bas": "over there"
       }
     },
     {
       "id": "m2-s37",
-      "spanish": "Estamos en el café.",
+      "french": "Nous sommes au café.",
       "english": "We are in the café.",
       "wordMeanings": {
-        "Estamos": "we are",
-        "en": "in / on",
-        "el": "the",
-        "café": "coffee"
+        "Nous": "we",
+        "sommes": "are",
+        "au": "at the (masc)",
+        "café": "café"
       }
     },
     {
       "id": "m2-s38",
-      "spanish": "Hoy estoy en casa.",
+      "french": "Aujourd'hui, je suis à la maison.",
       "english": "Today I am at home.",
       "wordMeanings": {
-        "Hoy": "today",
-        "estoy": "I am",
-        "en": "in / on",
-        "casa": "house"
+        "Aujourd'hui": "today",
+        "je": "I",
+        "suis": "am",
+        "à": "at",
+        "la": "the (fem)",
+        "maison": "house"
       }
     },
     {
       "id": "m2-s39",
-      "spanish": "Hoy estoy en el centro.",
+      "french": "Aujourd'hui, je suis en centre-ville.",
       "english": "Today I am downtown.",
       "wordMeanings": {
-        "Hoy": "today",
-        "estoy": "I am",
-        "en": "in / on",
-        "el": "the",
-        "centro": "downtown"
+        "Aujourd'hui": "today",
+        "je": "I",
+        "suis": "am",
+        "en": "in",
+        "centre-ville": "downtown"
       }
     },
     {
       "id": "m2-s40",
-      "spanish": "Hoy no estoy en la escuela.",
+      "french": "Aujourd'hui, je ne suis pas à l'école.",
       "english": "Today I am not at school.",
       "wordMeanings": {
-        "Hoy": "today",
-        "no": "no / not",
-        "estoy": "I am",
-        "en": "in / on",
-        "la": "the / it (fem)",
-        "escuela": "school"
+        "Aujourd'hui": "today",
+        "je": "I",
+        "ne": "not (part 1)",
+        "suis": "am",
+        "pas": "not (part 2)",
+        "à": "at",
+        "l'école": "the school"
       }
     },
     {
       "id": "m2-s41",
-      "spanish": "¿Está Ana aquí?",
+      "french": "Ana est-elle ici ?",
       "english": "Is Ana here?",
       "wordMeanings": {
-        "Está": "is",
         "Ana": "Ana",
-        "aquí": "here"
+        "est-elle": "is she",
+        "ici": "here"
       }
     },
     {
       "id": "m2-s42",
-      "spanish": "No, Ana no está aquí.",
+      "french": "Non, Ana n'est pas ici.",
       "english": "No, Ana is not here.",
       "wordMeanings": {
-        "No": "no / not",
+        "Non": "no",
         "Ana": "Ana",
-        "no": "no / not",
-        "está": "is",
-        "aquí": "here"
+        "n'est": "is not",
+        "pas": "not (part 2)",
+        "ici": "here"
       }
     },
     {
       "id": "m2-s43",
-      "spanish": "Ana está allí.",
+      "french": "Ana est là-bas.",
       "english": "Ana is there.",
       "wordMeanings": {
         "Ana": "Ana",
-        "está": "is",
-        "allí": "there"
+        "est": "is",
+        "là-bas": "over there"
       }
     },
     {
       "id": "m2-s44",
-      "spanish": "¿Está Luis en el café?",
+      "french": "Luis est-il au café ?",
       "english": "Is Luis in the café?",
       "wordMeanings": {
-        "Está": "is",
         "Luis": "Luis",
-        "en": "in / on",
-        "el": "the",
-        "café": "coffee"
+        "est-il": "is he",
+        "au": "at the (masc)",
+        "café": "café"
       }
     },
     {
       "id": "m2-s45",
-      "spanish": "Sí, Luis está en el café.",
+      "french": "Oui, Luis est au café.",
       "english": "Yes, Luis is in the café.",
       "wordMeanings": {
-        "Sí": "yes",
+        "Oui": "yes",
         "Luis": "Luis",
-        "está": "is",
-        "en": "in / on",
-        "el": "the",
-        "café": "coffee"
+        "est": "is",
+        "au": "at the (masc)",
+        "café": "café"
       }
     },
     {
       "id": "m2-s46",
-      "spanish": "¿Están Marta y Carlos en casa?",
+      "french": "Marta et Carlos sont-ils à la maison ?",
       "english": "Are Marta and Carlos at home?",
       "wordMeanings": {
-        "Están": "are",
         "Marta": "Marta",
-        "y": "and",
+        "et": "and",
         "Carlos": "Carlos",
-        "en": "in / on",
-        "casa": "house"
+        "sont-ils": "are they",
+        "à": "at",
+        "la": "the (fem)",
+        "maison": "house"
       }
     },
     {
       "id": "m2-s47",
-      "spanish": "No, están en el trabajo.",
+      "french": "Non, ils sont au travail.",
       "english": "No, they are at work.",
       "wordMeanings": {
-        "No": "no / not",
-        "están": "are",
-        "en": "in / on",
-        "el": "the",
-        "trabajo": "I work / job"
+        "Non": "no",
+        "ils": "they (masc/mixed)",
+        "sont": "are",
+        "au": "at the (masc)",
+        "travail": "work/job"
       }
     }
   ],
-  "grammarExplanation": "In Spanish, 'estar' is used to express locations and states. Unlike 'ser' (characteristics/identity), 'estar' tells WHERE someone is or HOW they feel right now.\n\n• Estoy = I am (location/state)\n• Estás = You are\n• Está = He/She is\n• Estamos = We are\n• Están = They are\n\nExample: 'Estoy en casa' = I am at home, 'Estoy feliz' = I am happy.\n\nYou'll naturally figure out the difference between 'ser' and 'estar' over time as you pay attention to it!",
+  "grammarExplanation": "In French, unlike Spanish (which has 'ser' and 'estar'), there is only one verb to be: 'être'. You use 'être' both for stating who you are (Je suis Ana) and for your location (Je suis à la maison).\n\nLocations often use 'à la' (for feminine nouns), 'au' (for masculine nouns, a contraction of à + le), or 'à l' (before vowels).",
   "vocabulary": {
-    "dónde": {
-      "mnemonic": "Think 'done-day' — where?",
+    "où": {
+      "mnemonic": "Sounds like 'ooh' — 'Ooh, where are we?'",
       "explanation": "Question word for location."
     },
-    "estás": {
-      "mnemonic": "Think 'you establish your position'.",
-      "explanation": "Informal 'you are' (estar)."
+    "ici": {
+      "mnemonic": "Rhymes with 'easy' — it is easy to be here.",
+      "explanation": "Means 'here'."
     },
-    "estoy": {
-      "mnemonic": "'I estoy here!' — I am (located/feeling).",
-      "explanation": "First person of 'estar'. For location and feelings."
-    },
-    "aquí": {
-      "mnemonic": "Sounds like 'a key' — 'The key is right here!'",
-      "explanation": "Means 'here'. More precise than 'acá'."
-    },
-    "allí": {
-      "mnemonic": "Sounds like 'a lee' — over there.",
-      "explanation": "Means 'there'. Points to a specific spot."
-    },
-    "casa": {
-      "mnemonic": "Think 'casino' — a big house of games.",
-      "explanation": "Feminine noun. 'En casa' = at home."
+    "là-bas": {
+      "mnemonic": "Sounds like 'la-bah' — it is over la-bah.",
+      "explanation": "Means 'over there'. Pointing farther away."
     },
     "la": {
       "mnemonic": "'La lady' — her/it (feminine).",
       "explanation": "Also 'the' (feminine)."
     },
-    "escuela": {
-      "mnemonic": "Sounds like 'school-a' — it IS school!",
-      "explanation": "Feminine noun meaning school."
+    "maison": {
+      "mnemonic": "Think 'mansion' — a big house.",
+      "explanation": "Feminine noun meaning house or home."
     },
-    "trabajo": {
+    "école": {
+      "mnemonic": "Relates to 'scholar', 'school'.",
+      "explanation": "Feminine noun meaning school. Uses 'l' ' because of vowel."
+    },
+    "travail": {
       "mnemonic": "Think 'travel to work'.",
-      "explanation": "Means 'work/job'. Also 'I work'."
+      "explanation": "Means 'work/job'."
     },
-    "centro": {
-      "mnemonic": "Same as English 'center' — downtown!",
-      "explanation": "Also means 'center'. 'Centro' = downtown area."
+    "au": {
+      "mnemonic": "Contraction of 'à le'. Sounds like 'oh'.",
+      "explanation": "Means 'at the' or 'to the' for masculine singular nouns."
     },
-    "calle": {
-      "mnemonic": "Think 'call-ay' — you call from down the street.",
+    "centre-ville": {
+      "mnemonic": "Center of the 'ville' (village/city).",
+      "explanation": "Means 'downtown' or 'city center'."
+    },
+    "rue": {
+      "mnemonic": "Sounds like 'kangaroo' jumping down the street.",
       "explanation": "Feminine noun meaning street."
     },
     "café": {
-      "mnemonic": "Same as English 'café' — coffee!",
-      "explanation": "Means 'coffee' or 'café'."
+      "mnemonic": "Same as English 'café'.",
+      "explanation": "Means café (coffee shop) or the drink."
     },
-    "está": {
-      "mnemonic": "Think 'establish' where something is.",
-      "explanation": "Third person of 'estar' (to be, location/state)."
+    "maintenant": {
+      "mnemonic": "Think 'maintain now'.",
+      "explanation": "Means 'now'."
     },
-    "hoy": {
-      "mnemonic": "'Hoy! today!' — an exclamation for today.",
+    "aujourd'hui": {
+      "mnemonic": "A long word meaning 'the day of today'.",
       "explanation": "Means 'today'."
     },
-    "cerca": {
-      "mnemonic": "Think 'circa' — approximately near.",
-      "explanation": "'Cerca de' = near/close to."
+    "proche": {
+      "mnemonic": "Think 'approach' — you get close to something.",
+      "explanation": "Means 'near' or 'close'."
     },
-    "lejos": {
-      "mnemonic": "Think 'legs' — you need legs to walk far away.",
-      "explanation": "'Lejos de' = far from."
-    },
-    "somos": {
-      "mnemonic": "'So most awesome' — we are!",
-      "explanation": "First person plural of 'ser'."
-    },
-    "y": {
-      "mnemonic": "The letter 'Y' connects — like 'and' connects words.",
-      "explanation": "Pronounced like 'ee'. The simplest conjunction."
-    },
-    "estamos": {
-      "mnemonic": "'We establish ourselves' — we are.",
-      "explanation": "First person plural of 'estar'."
-    },
-    "soy": {
-      "mnemonic": "Think 'soy sauce' — silly but memorable 'I am'!",
-      "explanation": "First person of 'ser' (to be, permanent)."
-    },
-    "están": {
-      "mnemonic": "'They establish their locations.'",
-      "explanation": "Third person plural of 'estar'."
-    },
-    "ustedes": {
-      "mnemonic": "Think 'you-sted-es' — all of you!",
-      "explanation": "Formal/neutral 'you all' in Latin American Spanish."
+    "loin": {
+      "mnemonic": "Sounds like 'loin' — way out in the distance.",
+      "explanation": "Means 'far'."
     }
   }
 }

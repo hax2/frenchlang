@@ -1,580 +1,574 @@
 {
   "id": "module-9",
   "title": "Chapter 9: The Near Future",
-  "description": "Express what you are going to do using 'ir + a'.",
+  "description": "Express what you are going to do using 'aller + infinitive'.",
   "level": "Beginner",
   "sentences": [
     {
       "id": "m9-s1",
-      "spanish": "Voy a estudiar hoy.",
+      "french": "Je vais étudier aujourd'hui.",
       "english": "I am going to study today.",
       "wordMeanings": {
-        "Voy": "I go",
-        "a": "to",
-        "estudiar": "to study",
-        "hoy": "today"
+        "Je": "I",
+        "vais": "go",
+        "étudier": "to study",
+        "aujourd'hui": "today"
       }
     },
     {
       "id": "m9-s2",
-      "spanish": "Vas a trabajar hoy.",
+      "french": "Tu vas travailler aujourd'hui.",
       "english": "You are going to work today.",
       "wordMeanings": {
-        "Vas": "you go",
-        "a": "to",
-        "trabajar": "to work",
-        "hoy": "today"
+        "Tu": "you",
+        "vas": "go",
+        "travailler": "to work",
+        "aujourd'hui": "today"
       }
     },
     {
       "id": "m9-s3",
-      "spanish": "Va a comprar pan.",
-      "english": "He/She is going to buy bread.",
+      "french": "Il va acheter du pain.",
+      "english": "He is going to buy bread.",
       "wordMeanings": {
-        "Va": "goes",
-        "a": "to",
-        "comprar": "to buy",
-        "pan": "bread"
+        "Il": "he",
+        "va": "goes",
+        "acheter": "to buy",
+        "du": "some",
+        "pain": "bread"
       }
     },
     {
       "id": "m9-s4",
-      "spanish": "Vamos a comer en casa.",
+      "french": "Nous allons manger à la maison.",
       "english": "We are going to eat at home.",
       "wordMeanings": {
-        "Vamos": "we go",
-        "a": "to",
-        "comer": "to eat",
-        "en": "in / on",
-        "casa": "house"
+        "Nous": "we",
+        "allons": "go",
+        "manger": "to eat",
+        "à": "at",
+        "la": "the (fem)",
+        "maison": "house"
       }
     },
     {
       "id": "m9-s5",
-      "spanish": "Van a beber café.",
+      "french": "Ils vont boire du café.",
       "english": "They are going to drink coffee.",
       "wordMeanings": {
-        "Van": "they go",
-        "a": "to",
-        "beber": "to drink",
-        "café": "coffee"
+        "Ils": "they",
+        "vont": "go",
+        "boire": "to drink",
+        "du": "some",
+        "café": "café/coffee"
       }
     },
     {
       "id": "m9-s6",
-      "spanish": "¿Vas a estudiar mañana?",
+      "french": "Vas-tu étudier demain ?",
       "english": "Are you going to study tomorrow?",
       "wordMeanings": {
-        "Vas": "you go",
-        "a": "to",
-        "estudiar": "to study",
-        "mañana": "tomorrow / morning"
+        "Vas-tu": "do you go",
+        "étudier": "to study",
+        "demain": "tomorrow"
       }
     },
     {
       "id": "m9-s7",
-      "spanish": "Sí, voy a estudiar mañana.",
+      "french": "Oui, je vais étudier demain.",
       "english": "Yes, I am going to study tomorrow.",
       "wordMeanings": {
-        "Sí": "yes",
-        "voy": "I go",
-        "a": "to",
-        "estudiar": "to study",
-        "mañana": "tomorrow / morning"
+        "Oui": "yes",
+        "je": "I",
+        "vais": "go",
+        "étudier": "to study",
+        "demain": "tomorrow"
       }
     },
     {
       "id": "m9-s8",
-      "spanish": "No, no voy a estudiar mañana.",
+      "french": "Non, je ne vais pas étudier demain.",
       "english": "No, I am not going to study tomorrow.",
       "wordMeanings": {
-        "No": "no / not",
-        "voy": "I go",
-        "a": "to",
-        "estudiar": "to study",
-        "mañana": "tomorrow / morning"
+        "Non": "no",
+        "je": "I",
+        "ne vais pas": "am not going",
+        "étudier": "to study",
+        "demain": "tomorrow"
       }
     },
     {
       "id": "m9-s9",
-      "spanish": "Voy a ir al café.",
+      "french": "Je vais aller au café.",
       "english": "I am going to go to the café.",
       "wordMeanings": {
-        "Voy": "I go",
-        "a": "to",
-        "ir": "to go",
-        "al": "to the",
-        "café": "coffee"
+        "Je": "I",
+        "vais": "go",
+        "aller": "to go",
+        "au": "to the",
+        "café": "café/coffee"
       }
     },
     {
       "id": "m9-s10",
-      "spanish": "Vas a ir a la escuela.",
+      "french": "Tu vas aller à l'école.",
       "english": "You are going to go to school.",
       "wordMeanings": {
-        "Vas": "you go",
-        "a": "to",
-        "ir": "to go",
-        "la": "the / it (fem)",
-        "escuela": "school"
+        "Tu": "you",
+        "vas": "go",
+        "aller": "to go",
+        "à": "to",
+        "l'": "the",
+        "école": "school"
       }
     },
     {
       "id": "m9-s11",
-      "spanish": "Va a ir al trabajo.",
-      "english": "He/She is going to go to work.",
+      "french": "Elle va aller au travail.",
+      "english": "She is going to go to work.",
       "wordMeanings": {
-        "Va": "goes",
-        "a": "to",
-        "ir": "to go",
-        "al": "to the",
-        "trabajo": "I work / job"
+        "Elle": "she",
+        "va": "goes",
+        "aller": "to go",
+        "au": "to the",
+        "travail": "work"
       }
     },
     {
       "id": "m9-s12",
-      "spanish": "Vamos a ir al centro.",
+      "french": "Nous allons aller en centre-ville.",
       "english": "We are going to go downtown.",
       "wordMeanings": {
-        "Vamos": "we go",
-        "a": "to",
-        "ir": "to go",
-        "al": "to the",
-        "centro": "downtown"
+        "Nous": "we",
+        "allons": "go",
+        "aller": "to go",
+        "en": "in",
+        "centre-ville": "downtown"
       }
     },
     {
       "id": "m9-s13",
-      "spanish": "¿Dónde vas a estar hoy?",
+      "french": "Où vas-tu être aujourd'hui ?",
       "english": "Where are you going to be today?",
       "wordMeanings": {
-        "Dónde": "where",
-        "vas": "you go",
-        "a": "to",
-        "estar": "to be",
-        "hoy": "today"
+        "Où": "where",
+        "vas-tu": "are you going",
+        "être": "to be",
+        "aujourd'hui": "today"
       }
     },
     {
       "id": "m9-s14",
-      "spanish": "Hoy voy a estar en casa.",
+      "french": "Aujourd'hui je vais être à la maison.",
       "english": "Today I'm going to be at home.",
       "wordMeanings": {
-        "Hoy": "today",
-        "voy": "I go",
-        "a": "to",
-        "estar": "to be",
-        "en": "in / on",
-        "casa": "house"
+        "Aujourd'hui": "today",
+        "je": "I",
+        "vais": "go",
+        "être": "to be",
+        "à": "at",
+        "la": "the (fem)",
+        "maison": "house"
       }
     },
     {
       "id": "m9-s15",
-      "spanish": "Hoy voy a estar en el trabajo.",
+      "french": "Aujourd'hui je vais être au travail.",
       "english": "Today I'm going to be at work.",
       "wordMeanings": {
-        "Hoy": "today",
-        "voy": "I go",
-        "a": "to",
-        "estar": "to be",
-        "en": "in / on",
-        "el": "the",
-        "trabajo": "I work / job"
+        "Aujourd'hui": "today",
+        "je": "I",
+        "vais": "go",
+        "être": "to be",
+        "au": "at the",
+        "travail": "work"
       }
     },
     {
       "id": "m9-s16",
-      "spanish": "Voy a buscar un libro.",
+      "french": "Je vais chercher un livre.",
       "english": "I am going to look for a book.",
       "wordMeanings": {
-        "Voy": "I go",
-        "a": "to",
-        "buscar": "to look for",
+        "Je": "I",
+        "vais": "go",
+        "chercher": "to look for",
         "un": "a",
-        "libro": "book"
+        "livre": "book"
       }
     },
     {
       "id": "m9-s17",
-      "spanish": "Vas a esperar aquí.",
+      "french": "Tu vas attendre ici.",
       "english": "You are going to wait here.",
       "wordMeanings": {
-        "Vas": "you go",
-        "a": "to",
-        "esperar": "to wait",
-        "aquí": "here"
+        "Tu": "you",
+        "vas": "go",
+        "attendre": "to wait",
+        "ici": "here"
       }
     },
     {
       "id": "m9-s18",
-      "spanish": "Va a escuchar música.",
-      "english": "He/She is going to listen to music.",
+      "french": "Il va écouter de la musique.",
+      "english": "He is going to listen to music.",
       "wordMeanings": {
-        "Va": "goes",
-        "a": "to",
-        "escuchar": "to listen",
-        "música": "music"
+        "Il": "he",
+        "va": "goes",
+        "écouter": "to listen",
+        "de la": "some",
+        "musique": "music"
       }
     },
     {
       "id": "m9-s19",
-      "spanish": "Vamos a hablar español.",
-      "english": "We are going to speak Spanish.",
+      "french": "Nous allons parler français.",
+      "english": "We are going to speak French.",
       "wordMeanings": {
-        "Vamos": "we go",
-        "a": "to",
-        "hablar": "to speak",
-        "español": "Spanish"
+        "Nous": "we",
+        "allons": "go",
+        "parler": "to speak",
+        "français": "French"
       }
     },
     {
       "id": "m9-s20",
-      "spanish": "Voy a abrir la puerta.",
+      "french": "Je vais ouvrir la porte.",
       "english": "I am going to open the door.",
       "wordMeanings": {
-        "Voy": "I go",
-        "a": "to",
-        "abrir": "to open",
-        "la": "the / it (fem)",
-        "puerta": "door"
+        "Je": "I",
+        "vais": "go",
+        "ouvrir": "to open",
+        "la": "the (fem)",
+        "porte": "door"
       }
     },
     {
       "id": "m9-s21",
-      "spanish": "Vas a escribir un mensaje.",
+      "french": "Tu vas écrire un message.",
       "english": "You are going to write a message.",
       "wordMeanings": {
-        "Vas": "you go",
-        "a": "to",
-        "escribir": "to write",
+        "Tu": "you",
+        "vas": "go",
+        "écrire": "to write",
         "un": "a",
-        "mensaje": "message"
+        "message": "message"
       }
     },
     {
       "id": "m9-s22",
-      "spanish": "Va a recibir una carta.",
-      "english": "He/She is going to receive a letter.",
+      "french": "Elle va recevoir une lettre.",
+      "english": "She is going to receive a letter.",
       "wordMeanings": {
-        "Va": "goes",
-        "a": "to",
-        "recibir": "to receive",
-        "una": "a (fem)",
-        "carta": "letter"
+        "Elle": "she",
+        "va": "goes",
+        "recevoir": "to receive",
+        "une": "a (fem)",
+        "lettre": "letter"
       }
     },
     {
       "id": "m9-s23",
-      "spanish": "¿Vas a comprar el coche?",
+      "french": "Vas-tu acheter la voiture ?",
       "english": "Are you going to buy the car?",
       "wordMeanings": {
-        "Vas": "you go",
-        "a": "to",
-        "comprar": "to buy",
-        "el": "the",
-        "coche": "car"
+        "Vas-tu": "are you going",
+        "acheter": "to buy",
+        "la": "the (fem)",
+        "voiture": "car"
       }
     },
     {
       "id": "m9-s24",
-      "spanish": "Sí, voy a comprar el coche.",
+      "french": "Oui, je vais acheter la voiture.",
       "english": "Yes, I'm going to buy the car.",
       "wordMeanings": {
-        "Sí": "yes",
-        "voy": "I go",
-        "a": "to",
-        "comprar": "to buy",
-        "el": "the",
-        "coche": "car"
+        "Oui": "yes",
+        "je": "I",
+        "vais": "go",
+        "acheter": "to buy",
+        "la": "the (fem)",
+        "voiture": "car"
       }
     },
     {
       "id": "m9-s25",
-      "spanish": "No, no voy a comprar el coche.",
+      "french": "Non, je ne vais pas acheter la voiture.",
       "english": "No, I'm not going to buy the car.",
       "wordMeanings": {
-        "No": "no / not",
-        "voy": "I go",
-        "a": "to",
-        "comprar": "to buy",
-        "el": "the",
-        "coche": "car"
+        "Non": "no",
+        "je ne vais pas": "I'm not going",
+        "acheter": "to buy",
+        "la": "the (fem)",
+        "voiture": "car"
       }
     },
     {
       "id": "m9-s26",
-      "spanish": "Voy a estudiar en el café.",
+      "french": "Je vais étudier au café.",
       "english": "I am going to study in the café.",
       "wordMeanings": {
-        "Voy": "I go",
-        "a": "to",
-        "estudiar": "to study",
-        "en": "in / on",
-        "el": "the",
-        "café": "coffee"
+        "Je": "I",
+        "vais": "go",
+        "étudier": "to study",
+        "au": "at the",
+        "café": "café"
       }
     },
     {
       "id": "m9-s27",
-      "spanish": "Vamos a estudiar y después vamos a comer.",
+      "french": "Nous allons étudier et après nous allons manger.",
       "english": "We are going to study and then we are going to eat.",
       "wordMeanings": {
-        "Vamos": "we go",
-        "a": "to",
-        "estudiar": "to study",
-        "y": "and",
-        "después": "after",
-        "vamos": "we go",
-        "comer": "to eat"
+        "Nous": "we",
+        "allons": "go",
+        "étudier": "to study",
+        "et": "and",
+        "après": "after/then",
+        "nous allons": "we are going",
+        "manger": "to eat"
       }
     },
     {
       "id": "m9-s28",
-      "spanish": "Voy a llamar a Ana.",
+      "french": "Je vais appeler Ana.",
       "english": "I am going to call Ana.",
       "wordMeanings": {
-        "Voy": "I go",
-        "a": "to",
-        "llamar": "to call",
+        "Je": "I",
+        "vais": "go",
+        "appeler": "to call",
         "Ana": "Ana"
       }
     },
     {
       "id": "m9-s29",
-      "spanish": "Vas a llamar a Luis.",
+      "french": "Tu vas appeler Luis.",
       "english": "You are going to call Luis.",
       "wordMeanings": {
-        "Vas": "you go",
-        "a": "to",
-        "llamar": "to call",
+        "Tu": "you",
+        "vas": "go",
+        "appeler": "to call",
         "Luis": "Luis"
       }
     },
     {
       "id": "m9-s30",
-      "spanish": "Va a llamar a Marta.",
-      "english": "He/She is going to call Marta.",
+      "french": "Il va appeler Marta.",
+      "english": "He is going to call Marta.",
       "wordMeanings": {
-        "Va": "goes",
-        "a": "to",
-        "llamar": "to call",
+        "Il": "he",
+        "va": "goes",
+        "appeler": "to call",
         "Marta": "Marta"
       }
     },
     {
       "id": "m9-s31",
-      "spanish": "¿Vas a venir?",
+      "french": "Vas-tu venir ?",
       "english": "Are you going to come?",
       "wordMeanings": {
-        "Vas": "you go",
-        "a": "to",
+        "Vas-tu": "are you going",
         "venir": "to come"
       }
     },
     {
       "id": "m9-s32",
-      "spanish": "Sí, voy a venir.",
+      "french": "Oui, je vais venir.",
       "english": "Yes, I am going to come.",
       "wordMeanings": {
-        "Sí": "yes",
-        "voy": "I go",
-        "a": "to",
+        "Oui": "yes",
+        "je": "I",
+        "vais": "go",
         "venir": "to come"
       }
     },
     {
       "id": "m9-s33",
-      "spanish": "No, no voy a venir.",
+      "french": "Non, je ne vais pas venir.",
       "english": "No, I am not going to come.",
       "wordMeanings": {
-        "No": "no / not",
-        "voy": "I go",
-        "a": "to",
+        "Non": "no",
+        "je ne vais pas": "I'm not going",
         "venir": "to come"
       }
     },
     {
       "id": "m9-s34",
-      "spanish": "Voy a quedarme en casa.",
+      "french": "Je vais rester à la maison.",
       "english": "I am going to stay at home.",
       "wordMeanings": {
-        "Voy": "I go",
-        "a": "to",
-        "quedarme": "to stay (myself)",
-        "en": "in / on",
-        "casa": "house"
+        "Je": "I",
+        "vais": "go",
+        "rester": "to stay",
+        "à": "at",
+        "la": "the (fem)",
+        "maison": "house"
       }
     },
     {
       "id": "m9-s35",
-      "spanish": "No voy a quedarme en casa.",
+      "french": "Je ne vais pas rester à la maison.",
       "english": "I am not going to stay at home.",
       "wordMeanings": {
-        "No": "no / not",
-        "voy": "I go",
-        "a": "to",
-        "quedarme": "to stay (myself)",
-        "en": "in / on",
-        "casa": "house"
+        "Je ne vais pas": "I'm not going",
+        "rester": "to stay",
+        "à": "at",
+        "la": "the (fem)",
+        "maison": "house"
       }
     },
     {
       "id": "m9-s36",
-      "spanish": "¿Te gusta el café? Sí, me gusta.",
+      "french": "Aimes-tu le café ? Oui, j'aime ça.",
       "english": "Do you like coffee? Yes, I do.",
       "wordMeanings": {
-        "Te": "you / to you",
-        "gusta": "likes",
-        "el": "the",
-        "café": "coffee",
-        "Sí": "yes",
-        "me": "me / to me"
+        "Aimes-tu": "do you like",
+        "le": "the",
+        "café": "café/coffee",
+        "Oui": "yes",
+        "j'aime": "I like",
+        "ça": "that/it"
       }
     },
     {
       "id": "m9-s37",
-      "spanish": "Voy a trabajar hoy, pero mañana estudio.",
+      "french": "Je vais travailler aujourd'hui, mais demain j'étudie.",
       "english": "I'm going to work today, but tomorrow I study.",
       "wordMeanings": {
-        "Voy": "I go",
-        "a": "to",
-        "trabajar": "to work",
-        "hoy": "today",
-        "pero": "but",
-        "mañana": "tomorrow / morning",
-        "estudio": "I study"
+        "Je": "I",
+        "vais": "go",
+        "travailler": "to work",
+        "aujourd'hui": "today",
+        "mais": "but",
+        "demain": "tomorrow",
+        "j'étudie": "I study"
       }
     }
   ],
-  "grammarExplanation": "The near future is formed with 'ir + a + infinitive.' It translates to 'going to do something.'\n\nConjugate 'ir' (to go):\n• Voy = I go\n• Vas = You go\n• Va = He/She goes\n• Vamos = We go\n• Van = They go\n\nThen add 'a + infinitive':\n• Voy a estudiar = I'm going to study\n• Vas a comer = You're going to eat",
+  "grammarExplanation": "The near future is formed exactly like in Spanish, but without the preposition 'a'. Use 'aller + infinitive.' It translates to 'going to do something.'\n\nConjugate 'aller' (to go):\n• Je vais = I go\n• Tu vas = You go\n• Il/Elle va = He/She goes\n• Nous allons = We go\n• Vous allez = You go (plural/formal)\n• Ils/Elles vont = They go\n\nJust add the infinitive after it:\n• Je vais étudier = I'm going to study\n• Tu vas manger = You're going to eat",
   "vocabulary": {
-    "voy": {
-      "mnemonic": "Think 'voyage' — I go!",
-      "explanation": "First person of 'ir' (to go). Irregular."
+    "aller": {
+      "mnemonic": "Think 'alley' — step into the alley to go.",
+      "explanation": "Means 'to go'. Irregular verb (vais, vas, va...)."
     },
-    "estudiar": {
-      "mnemonic": "'Study-ar' — to study.",
-      "explanation": "Infinitive. -AR verb."
-    },
-    "hoy": {
-      "mnemonic": "'Hoy! today!' — an exclamation for today.",
-      "explanation": "Means 'today'."
+    "vais": {
+      "mnemonic": "Sounds like 'vay' (way) — I go my way.",
+      "explanation": "First person of 'aller'."
     },
     "vas": {
-      "mnemonic": "'Vast journey' — you go.",
-      "explanation": "Second person of 'ir'."
-    },
-    "trabajar": {
-      "mnemonic": "'Travel to work' — to work.",
-      "explanation": "Infinitive. -AR verb."
+      "mnemonic": "Sounds like 'vah' — you go.",
+      "explanation": "Second person of 'aller'."
     },
     "va": {
-      "mnemonic": "'Va-room!' — he/she goes fast!",
-      "explanation": "Third person of 'ir'."
+      "mnemonic": "Identical word to Spanish 'va' — he/she goes.",
+      "explanation": "Third person of 'aller'."
     },
-    "comprar": {
-      "mnemonic": "'Compare & purchase' — to buy.",
-      "explanation": "Infinitive. -AR verb."
+    "allons": {
+      "mnemonic": "Think 'Allons-y!' (Let's go!).",
+      "explanation": "First person plural of 'aller'."
     },
-    "pan": {
+    "vont": {
+      "mnemonic": "Think 'vault' — they vault forward.",
+      "explanation": "Third person plural of 'aller'."
+    },
+    "étudier": {
+      "mnemonic": "Nearly 'study' — to study.",
+      "explanation": "Infinitive. -ER verb."
+    },
+    "aujourd'hui": {
+      "mnemonic": "Very long word meaning 'the day of today'.",
+      "explanation": "Means 'today'."
+    },
+    "travailler": {
+      "mnemonic": "'Travel to work' — to work.",
+      "explanation": "Infinitive. -ER verb."
+    },
+    "acheter": {
+      "mnemonic": "Think 'a checklist' — you need one when buying.",
+      "explanation": "Means 'to buy'."
+    },
+    "pain": {
       "mnemonic": "Bread baked in a pan!",
       "explanation": "Means 'bread'. Masculine noun."
     },
-    "vamos": {
-      "mnemonic": "'¡Vamos!' — Let's go! Already English.",
-      "explanation": "First person plural of 'ir'."
-    },
-    "comer": {
-      "mnemonic": "'Consume-er' — to eat.",
+    "manger": {
+      "mnemonic": "Think 'mange' — to eat.",
       "explanation": "Infinitive. -ER verb."
     },
-    "casa": {
-      "mnemonic": "Think 'casino' — a big house of games.",
-      "explanation": "Feminine noun. 'En casa' = at home."
+    "maison": {
+      "mnemonic": "Think 'mansion' — a house.",
+      "explanation": "Feminine noun for 'house'."
     },
-    "van": {
-      "mnemonic": "Think 'van' — they go in a van.",
-      "explanation": "Third person plural of 'ir'."
+    "boire": {
+      "mnemonic": "Think 'booze/boire' — to drink.",
+      "explanation": "Infinitive. Irregular -RE verb."
     },
     "café": {
       "mnemonic": "Same as English 'café' — coffee!",
       "explanation": "Means 'coffee' or 'café'."
     },
-    "mañana": {
-      "mnemonic": "'Mañana, mañana' — putting off till tomorrow.",
-      "explanation": "Means 'tomorrow' or 'morning'."
+    "demain": {
+      "mnemonic": "Think 'domain' — tomorrow is a new domain.",
+      "explanation": "Means 'tomorrow'."
     },
-    "la": {
-      "mnemonic": "'La lady' — her/it (feminine).",
-      "explanation": "Also 'the' (feminine)."
-    },
-    "escuela": {
+    "école": {
       "mnemonic": "Sounds like 'school-a' — it IS school!",
       "explanation": "Feminine noun meaning school."
     },
-    "trabajo": {
+    "travail": {
       "mnemonic": "Think 'travel to work'.",
-      "explanation": "Means 'work/job'. Also 'I work'."
+      "explanation": "Noun form meaning 'work/job'."
     },
-    "centro": {
-      "mnemonic": "Same as English 'center' — downtown!",
-      "explanation": "Also means 'center'. 'Centro' = downtown area."
+    "centre-ville": {
+      "mnemonic": "The 'center city'.",
+      "explanation": "Means 'downtown'."
     },
-    "dónde": {
-      "mnemonic": "Think 'done-day' — where?",
-      "explanation": "Question word for location."
+    "chercher": {
+      "mnemonic": "Think 'search' — nearly the same word.",
+      "explanation": "Means 'to look for / to search'."
     },
-    "libro": {
-      "mnemonic": "Think 'library' — full of libros (books)!",
-      "explanation": "Means 'book'. Masculine noun."
+    "attendre": {
+      "mnemonic": "Think 'attend' — you wait to attend.",
+      "explanation": "Means 'to wait for'. -RE verb."
     },
-    "aquí": {
-      "mnemonic": "Sounds like 'a key' — 'The key is right here!'",
-      "explanation": "Means 'here'. More precise than 'acá'."
+    "écouter": {
+      "mnemonic": "Think 'acoustic' — to listen.",
+      "explanation": "Infinitive. -ER verb."
     },
-    "música": {
-      "mnemonic": "Nearly identical to 'music' — cognate!",
-      "explanation": "Feminine noun."
+    "parler": {
+      "mnemonic": "Think 'parlor' — you sit to talk.",
+      "explanation": "Infinitive. -ER verb."
     },
-    "hablar": {
-      "mnemonic": "'Hobble-ar' — to speak.",
-      "explanation": "Infinitive. -AR verb."
+    "ouvrir": {
+      "mnemonic": "Think 'overture/ouverture' — an opening piece.",
+      "explanation": "Means 'to open'. -IR verb."
     },
-    "español": {
-      "mnemonic": "'Espagne/Spain' + '-ol' — the Spanish language.",
-      "explanation": "Both the language and nationality."
+    "écrire": {
+      "mnemonic": "Think 'scribe/script' — to write.",
+      "explanation": "Means 'to write'. -RE verb."
     },
-    "puerta": {
-      "mnemonic": "Think 'port/portal' — a door.",
-      "explanation": "Feminine noun meaning door/gate."
+    "recevoir": {
+      "mnemonic": "Looks exactly like 'receive'.",
+      "explanation": "Means 'to receive'."
     },
-    "carta": {
-      "mnemonic": "Think 'card/letter'.",
-      "explanation": "Means 'letter' or 'menu'."
+    "voiture": {
+      "mnemonic": "Think 'voyage' — a car takes you on voyages.",
+      "explanation": "Means 'car'. Feminine noun."
     },
-    "coche": {
-      "mnemonic": "Think 'coach' — a horse-drawn coach = car.",
-      "explanation": "Means 'car'. Mainly used in Spain."
+    "après": {
+      "mnemonic": "Sounds like 'prey' — the wolf eats after.",
+      "explanation": "Means 'after/later'."
     },
-    "y": {
-      "mnemonic": "The letter 'Y' connects — like 'and' connects words.",
-      "explanation": "Pronounced like 'ee'. The simplest conjunction."
+    "appeler": {
+      "mnemonic": "Think 'appellation' or 'appeal'.",
+      "explanation": "Means 'to call' (on the phone or name)."
     },
-    "después": {
-      "mnemonic": "'Dispatch after' — afterwards.",
-      "explanation": "Means 'after/afterwards'."
+    "venir": {
+      "mnemonic": "Think 'venue' — people come to the venue.",
+      "explanation": "Means 'to come'. Irregular -IR verb."
     },
-    "gusta": {
-      "mnemonic": "Think 'gusto' — 'with gusto, I like it!'",
-      "explanation": "'Me gusta' = it pleases me."
-    },
-    "pero": {
-      "mnemonic": "Think 'pair-o' — 'but' connects a pair of ideas.",
-      "explanation": "Conjunction meaning 'but'."
-    },
-    "estudio": {
-      "mnemonic": "Think 'studio' — I study in my studio.",
-      "explanation": "First person of 'estudiar'."
+    "rester": {
+      "mnemonic": "Looks like 'rest' — stay where you are to rest.",
+      "explanation": "Means 'to stay'."
     }
   }
 }

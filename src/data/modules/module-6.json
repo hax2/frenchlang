@@ -1,622 +1,546 @@
 {
   "id": "module-6",
-  "title": "Chapter 6: Regular -ER/-IR Verbs",
+  "title": "Chapter 6: Irregular & -RE/-IR Verbs",
   "description": "Action verbs like eating, drinking, living, and opening.",
   "level": "Beginner",
   "sentences": [
     {
       "id": "m6-s1",
-      "spanish": "Yo como pan.",
+      "french": "Je mange du pain.",
       "english": "I eat bread.",
       "wordMeanings": {
-        "Yo": "I",
-        "como": "I eat / like / as",
-        "pan": "bread"
+        "Je": "I",
+        "mange": "eat",
+        "du": "some",
+        "pain": "bread"
       }
     },
     {
       "id": "m6-s2",
-      "spanish": "Tú comes pan.",
+      "french": "Tu manges du pain.",
       "english": "You eat bread.",
       "wordMeanings": {
-        "Tú": "you",
-        "comes": "you eat",
-        "pan": "bread"
+        "Tu": "you",
+        "manges": "eat",
+        "du": "some",
+        "pain": "bread"
       }
     },
     {
       "id": "m6-s3",
-      "spanish": "Él come pan.",
+      "french": "Il mange du pain.",
       "english": "He eats bread.",
       "wordMeanings": {
-        "Él": "he",
-        "come": "eats",
-        "pan": "bread"
+        "Il": "he",
+        "mange": "eats",
+        "du": "some",
+        "pain": "bread"
       }
     },
     {
       "id": "m6-s4",
-      "spanish": "Ella come sopa.",
+      "french": "Elle mange de la soupe.",
       "english": "She eats soup.",
       "wordMeanings": {
-        "Ella": "she / her",
-        "come": "eats",
-        "sopa": "soup"
+        "Elle": "she",
+        "mange": "eats",
+        "de la": "some",
+        "soupe": "soup"
       }
     },
     {
       "id": "m6-s5",
-      "spanish": "Nosotros comemos en casa.",
+      "french": "Nous mangeons à la maison.",
       "english": "We eat at home.",
       "wordMeanings": {
-        "Nosotros": "we",
-        "comemos": "we eat",
-        "en": "in / on",
-        "casa": "house"
+        "Nous": "we",
+        "mangeons": "eat",
+        "à": "at",
+        "la": "the (fem)",
+        "maison": "house"
       }
     },
     {
       "id": "m6-s6",
-      "spanish": "Yo bebo agua.",
+      "french": "Je bois de l'eau.",
       "english": "I drink water.",
       "wordMeanings": {
-        "Yo": "I",
-        "bebo": "I drink",
-        "agua": "water"
+        "Je": "I",
+        "bois": "drink",
+        "de l'": "some",
+        "eau": "water"
       }
     },
     {
       "id": "m6-s7",
-      "spanish": "Tú bebes café.",
+      "french": "Tu bois du café.",
       "english": "You drink coffee.",
       "wordMeanings": {
-        "Tú": "you",
-        "bebes": "you drink",
-        "café": "coffee"
+        "Tu": "you",
+        "bois": "drink",
+        "du": "some",
+        "café": "café/coffee"
       }
     },
     {
       "id": "m6-s8",
-      "spanish": "Él bebe agua.",
+      "french": "Il boit de l'eau.",
       "english": "He drinks water.",
       "wordMeanings": {
-        "Él": "he",
-        "bebe": "drinks",
-        "agua": "water"
+        "Il": "he",
+        "boit": "drinks",
+        "de l'": "some",
+        "eau": "water"
       }
     },
     {
       "id": "m6-s9",
-      "spanish": "Ella bebe té.",
+      "french": "Elle boit du thé.",
       "english": "She drinks tea.",
       "wordMeanings": {
-        "Ella": "she / her",
-        "bebe": "drinks",
-        "té": "tea"
+        "Elle": "she",
+        "boit": "drinks",
+        "du": "some",
+        "thé": "tea"
       }
     },
     {
       "id": "m6-s10",
-      "spanish": "Nosotros bebemos agua.",
+      "french": "Nous buvons de l'eau.",
       "english": "We drink water.",
       "wordMeanings": {
-        "Nosotros": "we",
-        "bebemos": "we drink",
-        "agua": "water"
+        "Nous": "we",
+        "buvons": "drink",
+        "de l'": "some",
+        "eau": "water"
       }
     },
     {
       "id": "m6-s11",
-      "spanish": "Yo vivo aquí.",
+      "french": "Je vis ici.",
       "english": "I live here.",
       "wordMeanings": {
-        "Yo": "I",
-        "vivo": "I live",
-        "aquí": "here"
+        "Je": "I",
+        "vis": "live",
+        "ici": "here"
       }
     },
     {
       "id": "m6-s12",
-      "spanish": "Tú vives allí.",
+      "french": "Tu vis là-bas.",
       "english": "You live there.",
       "wordMeanings": {
-        "Tú": "you",
-        "vives": "you live",
-        "allí": "there"
+        "Tu": "you",
+        "vis": "live",
+        "là-bas": "over there"
       }
     },
     {
       "id": "m6-s13",
-      "spanish": "Él vive en el centro.",
+      "french": "Il vit en centre-ville.",
       "english": "He lives downtown.",
       "wordMeanings": {
-        "Él": "he",
-        "vive": "lives",
-        "en": "in / on",
-        "el": "the",
-        "centro": "downtown"
+        "Il": "he",
+        "vit": "lives",
+        "en": "in",
+        "centre-ville": "downtown"
       }
     },
     {
       "id": "m6-s14",
-      "spanish": "Ella vive cerca.",
+      "french": "Elle vit proche.",
       "english": "She lives nearby.",
       "wordMeanings": {
-        "Ella": "she / her",
-        "vive": "lives",
-        "cerca": "near"
+        "Elle": "she",
+        "vit": "lives",
+        "proche": "near/close"
       }
     },
     {
       "id": "m6-s15",
-      "spanish": "Nosotros vivimos en la ciudad.",
+      "french": "Nous vivons dans la ville.",
       "english": "We live in the city.",
       "wordMeanings": {
-        "Nosotros": "we",
-        "vivimos": "we live",
-        "en": "in / on",
-        "la": "the / it (fem)",
-        "ciudad": "city"
+        "Nous": "we",
+        "vivons": "live",
+        "dans": "in",
+        "la": "the (fem)",
+        "ville": "city"
       }
     },
     {
       "id": "m6-s16",
-      "spanish": "Yo abro la puerta.",
+      "french": "J'ouvre la porte.",
       "english": "I open the door.",
       "wordMeanings": {
-        "Yo": "I",
-        "abro": "I open",
-        "la": "the / it (fem)",
-        "puerta": "door"
+        "J'": "I",
+        "ouvre": "open",
+        "la": "the (fem)",
+        "porte": "door"
       }
     },
     {
       "id": "m6-s17",
-      "spanish": "Tú abres el libro.",
+      "french": "Tu ouvres le livre.",
       "english": "You open the book.",
       "wordMeanings": {
-        "Tú": "you",
-        "abres": "you open",
-        "el": "the",
-        "libro": "book"
+        "Tu": "you",
+        "ouvres": "open",
+        "le": "the",
+        "livre": "book"
       }
     },
     {
       "id": "m6-s18",
-      "spanish": "Él abre la puerta.",
+      "french": "Il ouvre la porte.",
       "english": "He opens the door.",
       "wordMeanings": {
-        "Él": "he",
-        "abre": "opens",
-        "la": "the / it (fem)",
-        "puerta": "door"
+        "Il": "he",
+        "ouvre": "opens",
+        "la": "the (fem)",
+        "porte": "door"
       }
     },
     {
       "id": "m6-s19",
-      "spanish": "Ella abre la ventana.",
+      "french": "Elle ouvre la fenêtre.",
       "english": "She opens the window.",
       "wordMeanings": {
-        "Ella": "she / her",
-        "abre": "opens",
-        "la": "the / it (fem)",
-        "ventana": "window"
+        "Elle": "she",
+        "ouvre": "opens",
+        "la": "the (fem)",
+        "fenêtre": "window"
       }
     },
     {
       "id": "m6-s20",
-      "spanish": "Yo escribo un mensaje.",
+      "french": "J'écris un message.",
       "english": "I write a message.",
       "wordMeanings": {
-        "Yo": "I",
-        "escribo": "I write",
+        "J'": "I",
+        "écris": "write",
         "un": "a",
-        "mensaje": "message"
+        "message": "message"
       }
     },
     {
       "id": "m6-s21",
-      "spanish": "Tú escribes una carta.",
+      "french": "Tu écris une lettre.",
       "english": "You write a letter.",
       "wordMeanings": {
-        "Tú": "you",
-        "escribes": "you write",
-        "una": "a (fem)",
-        "carta": "letter"
+        "Tu": "you",
+        "écris": "write",
+        "une": "a (fem)",
+        "lettre": "letter"
       }
     },
     {
       "id": "m6-s22",
-      "spanish": "Él escribe un mensaje.",
+      "french": "Il écrit un message.",
       "english": "He writes a message.",
       "wordMeanings": {
-        "Él": "he",
-        "escribe": "writes",
+        "Il": "he",
+        "écrit": "writes",
         "un": "a",
-        "mensaje": "message"
+        "message": "message"
       }
     },
     {
       "id": "m6-s23",
-      "spanish": "Ella escribe una carta.",
+      "french": "Elle écrit une lettre.",
       "english": "She writes a letter.",
       "wordMeanings": {
-        "Ella": "she / her",
-        "escribe": "writes",
-        "una": "a (fem)",
-        "carta": "letter"
+        "Elle": "she",
+        "écrit": "writes",
+        "une": "a (fem)",
+        "lettre": "letter"
       }
     },
     {
       "id": "m6-s24",
-      "spanish": "Nosotros escribimos mensajes.",
+      "french": "Nous écrivons des messages.",
       "english": "We write messages.",
       "wordMeanings": {
-        "Nosotros": "we",
-        "escribimos": "we write",
-        "mensajes": "messages"
+        "Nous": "we",
+        "écrivons": "write",
+        "des": "some (pl)",
+        "messages": "messages"
       }
     },
     {
       "id": "m6-s25",
-      "spanish": "Yo recibo un mensaje.",
+      "french": "Je reçois un message.",
       "english": "I receive a message.",
       "wordMeanings": {
-        "Yo": "I",
-        "recibo": "I receive",
+        "Je": "I",
+        "reçois": "receive",
         "un": "a",
-        "mensaje": "message"
+        "message": "message"
       }
     },
     {
       "id": "m6-s26",
-      "spanish": "Tú recibes una carta.",
+      "french": "Tu reçois une lettre.",
       "english": "You receive a letter.",
       "wordMeanings": {
-        "Tú": "you",
-        "recibes": "you receive",
-        "una": "a (fem)",
-        "carta": "letter"
+        "Tu": "you",
+        "reçois": "receive",
+        "une": "a (fem)",
+        "lettre": "letter"
       }
     },
     {
       "id": "m6-s27",
-      "spanish": "Él recibe un libro.",
+      "french": "Il reçoit un livre.",
       "english": "He receives a book.",
       "wordMeanings": {
-        "Él": "he",
-        "recibe": "receives",
+        "Il": "he",
+        "reçoit": "receives",
         "un": "a",
-        "libro": "book"
+        "livre": "book"
       }
     },
     {
       "id": "m6-s28",
-      "spanish": "Ella recibe una carta.",
+      "french": "Elle reçoit une lettre.",
       "english": "She receives a letter.",
       "wordMeanings": {
-        "Ella": "she / her",
-        "recibe": "receives",
-        "una": "a (fem)",
-        "carta": "letter"
+        "Elle": "she",
+        "reçoit": "receives",
+        "une": "a (fem)",
+        "lettre": "letter"
       }
     },
     {
       "id": "m6-s29",
-      "spanish": "Nosotros recibimos mensajes.",
+      "french": "Nous recevons des messages.",
       "english": "We receive messages.",
       "wordMeanings": {
-        "Nosotros": "we",
-        "recibimos": "we receive",
-        "mensajes": "messages"
+        "Nous": "we",
+        "recevons": "receive",
+        "des": "some (pl)",
+        "messages": "messages"
       }
     },
     {
       "id": "m6-s30",
-      "spanish": "Yo aprendo español.",
-      "english": "I learn Spanish.",
+      "french": "J'apprends le français.",
+      "english": "I learn French.",
       "wordMeanings": {
-        "Yo": "I",
-        "aprendo": "I learn",
-        "español": "Spanish"
+        "J'": "I",
+        "apprends": "learn",
+        "le": "the",
+        "français": "French"
       }
     },
     {
       "id": "m6-s31",
-      "spanish": "Tú aprendes español.",
-      "english": "You learn Spanish.",
+      "french": "Tu apprends le français.",
+      "english": "You learn French.",
       "wordMeanings": {
-        "Tú": "you",
-        "aprendes": "you learn",
-        "español": "Spanish"
+        "Tu": "you",
+        "apprends": "learn",
+        "le": "the",
+        "français": "French"
       }
     },
     {
       "id": "m6-s32",
-      "spanish": "Él aprende rápido.",
+      "french": "Il apprend vite.",
       "english": "He learns quickly.",
       "wordMeanings": {
-        "Él": "he",
-        "aprende": "learns",
-        "rápido": "fast / quickly"
+        "Il": "he",
+        "apprend": "learns",
+        "vite": "fast / quickly"
       }
     },
     {
       "id": "m6-s33",
-      "spanish": "Ella aprende despacio.",
+      "french": "Elle apprend lentement.",
       "english": "She learns slowly.",
       "wordMeanings": {
-        "Ella": "she / her",
-        "aprende": "learns",
-        "despacio": "slowly"
+        "Elle": "she",
+        "apprend": "learns",
+        "lentement": "slowly"
       }
     },
     {
       "id": "m6-s34",
-      "spanish": "Yo vendo un libro.",
+      "french": "Je vends un livre.",
       "english": "I sell a book.",
       "wordMeanings": {
-        "Yo": "I",
-        "vendo": "I sell",
+        "Je": "I",
+        "vends": "sell",
         "un": "a",
-        "libro": "book"
+        "livre": "book"
       }
     },
     {
       "id": "m6-s35",
-      "spanish": "Tú vendes el coche.",
+      "french": "Tu vends la voiture.",
       "english": "You sell the car.",
       "wordMeanings": {
-        "Tú": "you",
-        "vendes": "you sell",
-        "el": "the",
-        "coche": "car"
+        "Tu": "you",
+        "vends": "sell",
+        "la": "the (fem)",
+        "voiture": "car"
       }
     },
     {
       "id": "m6-s36",
-      "spanish": "Él vende pan.",
+      "french": "Il vend du pain.",
       "english": "He sells bread.",
       "wordMeanings": {
-        "Él": "he",
-        "vende": "sells",
-        "pan": "bread"
+        "Il": "he",
+        "vend": "sells",
+        "du": "some",
+        "pain": "bread"
       }
     },
     {
       "id": "m6-s37",
-      "spanish": "Ella vende café.",
+      "french": "Elle vend du café.",
       "english": "She sells coffee.",
       "wordMeanings": {
-        "Ella": "she / her",
-        "vende": "sells",
-        "café": "coffee"
+        "Elle": "she",
+        "vend": "sells",
+        "du": "some",
+        "café": "café/coffee"
       }
     },
     {
       "id": "m6-s38",
-      "spanish": "Hoy como y bebo.",
+      "french": "Aujourd'hui je mange et je bois.",
       "english": "Today I eat and drink.",
       "wordMeanings": {
-        "Hoy": "today",
-        "como": "I eat / like / as",
-        "y": "and",
-        "bebo": "I drink"
+        "Aujourd'hui": "today",
+        "je": "I",
+        "mange": "eat",
+        "et": "and",
+        "bois": "drink"
       }
     },
     {
       "id": "m6-s39",
-      "spanish": "Vivo en la ciudad y trabajo en el centro.",
+      "french": "Je vis dans la ville et je travaille en centre-ville.",
       "english": "I live in the city and work downtown.",
       "wordMeanings": {
-        "Vivo": "I live",
-        "en": "in / on",
-        "la": "the / it (fem)",
-        "ciudad": "city",
-        "y": "and",
-        "trabajo": "I work / job",
-        "el": "the",
-        "centro": "downtown"
+        "Je": "I",
+        "vis": "live",
+        "dans": "in",
+        "la": "the (fem)",
+        "ville": "city",
+        "et": "and",
+        "travaille": "work",
+        "en": "in",
+        "centre-ville": "downtown"
       }
     },
     {
       "id": "m6-s40",
-      "spanish": "Abro el libro y escribo un mensaje.",
+      "french": "J'ouvre le livre et j'écris un message.",
       "english": "I open the book and write a message.",
       "wordMeanings": {
-        "Abro": "I open",
-        "el": "the",
-        "libro": "book",
-        "y": "and",
-        "escribo": "I write",
+        "J'": "I",
+        "ouvre": "open",
+        "le": "the",
+        "livre": "book",
+        "et": "and",
+        "écris": "write",
         "un": "a",
-        "mensaje": "message"
+        "message": "message"
       }
     },
     {
       "id": "m6-s41",
-      "spanish": "Recibo un mensaje y respondo.",
+      "french": "Je reçois un message et je réponds.",
       "english": "I receive a message and respond.",
       "wordMeanings": {
-        "Recibo": "I receive",
+        "Je": "I",
+        "reçois": "receive",
         "un": "a",
-        "mensaje": "message",
-        "y": "and",
-        "respondo": "I answer"
+        "message": "message",
+        "et": "and",
+        "réponds": "respond"
       }
     },
     {
       "id": "m6-s42",
-      "spanish": "Aprendo cada día.",
+      "french": "J'apprends chaque jour.",
       "english": "I learn every day.",
       "wordMeanings": {
-        "Aprendo": "I learn",
-        "cada": "each",
-        "día": "day"
+        "J'": "I",
+        "apprends": "learn",
+        "chaque": "each",
+        "jour": "day"
       }
     }
   ],
-  "grammarExplanation": "Regular -ER and -IR verbs follow similar patterns. Remove the ending and add:\n\n-ER verbs (comer):\n• -o, -es, -e, -emos, -en\n• como, comes, come, comemos, comen\n\n-IR verbs (vivir):\n• -o, -es, -e, -imos, -en\n• vivo, vives, vive, vivimos, viven\n\nNotice: -ER and -IR only differ in the 'nosotros' form (-emos vs -imos).",
+  "grammarExplanation": "French verbs that don't end in -ER belong to Group 2 (-IR) or Group 3 (Irregulars, -RE). \n\n• Boire (to drink) is irregular: bois, bois, boit, buvons, buvez, boivent.\n• Ouvrir (to open) actually conjugates like an -ER verb (ouvre, ouvres, ouvre).\n• Manger (to eat) needs an 'e' before the 'ons' out of courtesy: nous mangeons.\n• Vendre/Apprendre (-RE verbs): vends/apprends, vends/apprends, vend/apprend, vendons/apprenons.",
   "vocabulary": {
-    "como": {
-      "mnemonic": "Think 'consume' — I eat.",
-      "explanation": "First person of 'comer' (to eat)."
+    "manger": {
+      "mnemonic": "Think 'mange' (a skin disease) or 'manger' (horse trough to eat from).",
+      "explanation": "Means 'to eat'. Uses 'nous mangeons'."
     },
-    "pan": {
-      "mnemonic": "Bread baked in a pan!",
-      "explanation": "Means 'bread'. Masculine noun."
+    "boire": {
+      "mnemonic": "Think 'booze/boire' — I drink.",
+      "explanation": "Means 'to drink'. Irregular: bois, boit, buvons."
     },
-    "comes": {
-      "mnemonic": "'Comes to eat' — you eat.",
-      "explanation": "Second person of 'comer'."
+    "eau": {
+      "mnemonic": "Rhymes with 'oh' — oh, I need water.",
+      "explanation": "Means 'water'. Feminine: 'de l'eau'."
     },
-    "él": {
-      "mnemonic": "Like 'el' in 'elevator' — he goes up!",
-      "explanation": "Subject pronoun 'he'. Accent distinguishes from 'el' (the)."
+    "vivre": {
+      "mnemonic": "Think 'vivid/vive' — live long!",
+      "explanation": "Means 'to live'. Irregular: vis, vit, vivons."
     },
-    "come": {
-      "mnemonic": "'Come eat!' — he/she eats.",
-      "explanation": "Third person of 'comer'."
+    "ville": {
+      "mnemonic": "Same root as 'village'.",
+      "explanation": "Feminine noun meaning 'city' or 'town'."
     },
-    "ella": {
-      "mnemonic": "Think 'Cinderella' ends with '-ella' — she!",
-      "explanation": "Subject pronoun 'she/her'."
+    "ouvrir": {
+      "mnemonic": "Think 'overture/ouverture' — an opening piece.",
+      "explanation": "Means 'to open'. Conjugates like -ER: ouvre, ouvres, ouvre."
     },
-    "nosotros": {
-      "mnemonic": "'nos' (us) + 'otros' (others) = we.",
-      "explanation": "Literally 'us others'. Fun compound word."
+    "porte": {
+      "mnemonic": "Think 'portal' — you go through a door.",
+      "explanation": "Feminine noun meaning 'door' or 'gate'."
     },
-    "comemos": {
-      "mnemonic": "'Come-emos' — we eat together.",
-      "explanation": "First person plural of 'comer'."
+    "fenêtre": {
+      "mnemonic": "Think 'defenestrate' — to throw out of a window.",
+      "explanation": "Feminine noun meaning 'window'."
     },
-    "casa": {
-      "mnemonic": "Think 'casino' — a big house of games.",
-      "explanation": "Feminine noun. 'En casa' = at home."
+    "écrire": {
+      "mnemonic": "Think 'scribe/script' — to write.",
+      "explanation": "Means 'to write'. Irregular: écris, écrit, écrivons."
     },
-    "bebo": {
-      "mnemonic": "Think 'beverage' — I drink.",
-      "explanation": "First person of 'beber' (to drink)."
+    "lettre": {
+      "mnemonic": "Identical to 'letter'.",
+      "explanation": "Means a letter you write."
     },
-    "agua": {
-      "mnemonic": "Think 'aqua' — water!",
-      "explanation": "Fem but uses 'el agua'."
+    "recevoir": {
+      "mnemonic": "Looks exactly like 'receive'.",
+      "explanation": "Irregular: reçois, reçoit, recevons."
     },
-    "bebes": {
-      "mnemonic": "Think 'babies drink'.",
-      "explanation": "Second person of 'beber'."
+    "apprendre": {
+      "mnemonic": "Think 'apprentice' — someone who learns.",
+      "explanation": "Means 'to learn' or 'to teach'. -RE verb."
     },
-    "café": {
-      "mnemonic": "Same as English 'café' — coffee!",
-      "explanation": "Means 'coffee' or 'café'."
+    "vite": {
+      "mnemonic": "Think 'vitality' — do it fast.",
+      "explanation": "Means 'fast' or 'quickly'."
     },
-    "bebe": {
-      "mnemonic": "'Babe drinks' — he/she drinks.",
-      "explanation": "Third person of 'beber'."
+    "lentement": {
+      "mnemonic": "Think 'lenient/lento' — slow tempo.",
+      "explanation": "Means 'slowly'."
     },
-    "bebemos": {
-      "mnemonic": "'Beverage-mos' — we drink.",
-      "explanation": "First person plural of 'beber'."
+    "vendre": {
+      "mnemonic": "Think 'vendor' — someone who sells.",
+      "explanation": "Means 'to sell'. Regular -RE verb: vends, vends, vend."
     },
-    "vivo": {
-      "mnemonic": "Think 'vivid life' — I live vividly!",
-      "explanation": "First person of 'vivir' (to live)."
-    },
-    "aquí": {
-      "mnemonic": "Sounds like 'a key' — 'The key is right here!'",
-      "explanation": "Means 'here'. More precise than 'acá'."
-    },
-    "vives": {
-      "mnemonic": "'Viva! you live!'",
-      "explanation": "Second person of 'vivir'."
-    },
-    "allí": {
-      "mnemonic": "Sounds like 'a lee' — over there.",
-      "explanation": "Means 'there'. Points to a specific spot."
-    },
-    "vive": {
-      "mnemonic": "Think 'viva!' — he/she lives.",
-      "explanation": "Third person of 'vivir'."
-    },
-    "centro": {
-      "mnemonic": "Same as English 'center' — downtown!",
-      "explanation": "Also means 'center'. 'Centro' = downtown area."
-    },
-    "cerca": {
-      "mnemonic": "Think 'circa' — approximately near.",
-      "explanation": "'Cerca de' = near/close to."
-    },
-    "vivimos": {
-      "mnemonic": "'Vivid-mos' — we live vividly.",
-      "explanation": "First person plural of 'vivir'."
-    },
-    "la": {
-      "mnemonic": "'La lady' — her/it (feminine).",
-      "explanation": "Also 'the' (feminine)."
-    },
-    "ciudad": {
-      "mnemonic": "Think 'city' — ciudad = city.",
-      "explanation": "Feminine noun."
-    },
-    "abro": {
-      "mnemonic": "Think 'abrogate/open' — I open.",
-      "explanation": "First person of 'abrir' (to open)."
-    },
-    "puerta": {
-      "mnemonic": "Think 'port/portal' — a door.",
-      "explanation": "Feminine noun meaning door/gate."
-    },
-    "libro": {
-      "mnemonic": "Think 'library' — full of libros (books)!",
-      "explanation": "Means 'book'. Masculine noun."
-    },
-    "abre": {
-      "mnemonic": "'Abbreviate by opening' — he/she opens.",
-      "explanation": "Third person of 'abrir'."
-    },
-    "ventana": {
-      "mnemonic": "'Vent-ana' — air vents in a window.",
-      "explanation": "From Latin 'ventus' (wind)."
-    },
-    "escribo": {
-      "mnemonic": "Think 'scribe' — I write.",
-      "explanation": "First person of 'escribir' (to write)."
-    },
-    "carta": {
-      "mnemonic": "Think 'card/letter'.",
-      "explanation": "Means 'letter' or 'menu'."
-    },
-    "escribe": {
-      "mnemonic": "'A scribe writes' — he/she writes.",
-      "explanation": "Third person of 'escribir'."
-    },
-    "español": {
-      "mnemonic": "'Espagne/Spain' + '-ol' — the Spanish language.",
-      "explanation": "Both the language and nationality."
-    },
-    "coche": {
-      "mnemonic": "Think 'coach' — a horse-drawn coach = car.",
-      "explanation": "Means 'car'. Mainly used in Spain."
-    },
-    "hoy": {
-      "mnemonic": "'Hoy! today!' — an exclamation for today.",
-      "explanation": "Means 'today'."
-    },
-    "y": {
-      "mnemonic": "The letter 'Y' connects — like 'and' connects words.",
-      "explanation": "Pronounced like 'ee'. The simplest conjunction."
-    },
-    "trabajo": {
-      "mnemonic": "Think 'travel to work'.",
-      "explanation": "Means 'work/job'. Also 'I work'."
-    },
-    "cada": {
-      "mnemonic": "Think 'cadence' — each beat.",
-      "explanation": "Means 'each/every'."
-    },
-    "día": {
-      "mnemonic": "Think 'diary' — each day.",
-      "explanation": "Masculine despite ending in -a."
+    "répondre": {
+      "mnemonic": "Think 'respond' — I answer.",
+      "explanation": "Means 'to answer/respond'. Je réponds."
     }
   }
 }

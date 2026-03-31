@@ -1,590 +1,541 @@
 {
   "id": "module-11",
-  "title": "Chapter 11: The Imperfect Tense",
+  "title": "Chapter 11: The Imparfait",
   "description": "Describe ongoing past actions and habits.",
   "level": "Beginner",
   "sentences": [
     {
       "id": "m11-s1",
-      "spanish": "Antes estudiaba en casa.",
+      "french": "Avant j'étudiais à la maison.",
       "english": "Before, I used to study at home.",
       "wordMeanings": {
-        "Antes": "before",
-        "estudiaba": "used to study",
-        "en": "in / on",
-        "casa": "house"
+        "Avant": "before",
+        "j'étudiais": "I used to study",
+        "à": "at",
+        "la": "the (fem)",
+        "maison": "house"
       }
     },
     {
       "id": "m11-s2",
-      "spanish": "Antes trabajaba en el centro.",
+      "french": "Avant je travaillais en centre-ville.",
       "english": "Before, I used to work downtown.",
       "wordMeanings": {
-        "Antes": "before",
-        "trabajaba": "used to work",
-        "en": "in / on",
-        "el": "the",
-        "centro": "downtown"
+        "Avant": "before",
+        "je travaillais": "I used to work",
+        "en": "in",
+        "centre-ville": "downtown"
       }
     },
     {
       "id": "m11-s3",
-      "spanish": "Antes vivía aquí.",
+      "french": "Avant je vivais ici.",
       "english": "Before, I used to live here.",
       "wordMeanings": {
-        "Antes": "before",
-        "vivía": "used to live",
-        "aquí": "here"
+        "Avant": "before",
+        "je vivais": "I used to live",
+        "ici": "here"
       }
     },
     {
       "id": "m11-s4",
-      "spanish": "Cuando era estudiante, estudiaba mucho.",
+      "french": "Quand j'étais étudiant, j'étudiais beaucoup.",
       "english": "When I was a student, I studied a lot.",
       "wordMeanings": {
-        "Cuando": "when",
-        "era": "was / used to be",
-        "estudiante": "student",
-        "estudiaba": "used to study",
-        "mucho": "much / a lot"
+        "Quand": "when",
+        "j'étais": "I was",
+        "étudiant": "student (masc)",
+        "j'étudiais": "I used to study",
+        "beaucoup": "a lot"
       }
     },
     {
       "id": "m11-s5",
-      "spanish": "Cuando era joven, trabajaba poco.",
+      "french": "Quand j'étais jeune, je travaillais peu.",
       "english": "When I was young, I worked little.",
       "wordMeanings": {
-        "Cuando": "when",
-        "era": "was / used to be",
-        "joven": "young",
-        "trabajaba": "used to work",
-        "poco": "little"
+        "Quand": "when",
+        "j'étais": "I was",
+        "jeune": "young",
+        "je travaillais": "I used to work",
+        "peu": "little"
       }
     },
     {
       "id": "m11-s6",
-      "spanish": "Siempre comía pan por la mañana.",
+      "french": "Je mangeais toujours du pain le matin.",
       "english": "I always ate bread in the morning.",
       "wordMeanings": {
-        "Siempre": "always",
-        "comía": "used to eat",
-        "pan": "bread",
-        "por": "for / by",
-        "la": "the / it (fem)",
-        "mañana": "tomorrow / morning"
+        "Je mangeais": "I used to eat",
+        "toujours": "always",
+        "du": "some",
+        "pain": "bread",
+        "le": "in the",
+        "matin": "morning"
       }
     },
     {
       "id": "m11-s7",
-      "spanish": "Siempre bebía café.",
+      "french": "Je buvais toujours du café.",
       "english": "I always drank coffee.",
       "wordMeanings": {
-        "Siempre": "always",
-        "bebía": "used to drink",
-        "café": "coffee"
+        "Je buvais": "I used to drink",
+        "toujours": "always",
+        "du": "some",
+        "café": "café/coffee"
       }
     },
     {
       "id": "m11-s8",
-      "spanish": "A menudo escuchaba música.",
+      "french": "J'écoutais souvent de la musique.",
       "english": "I often listened to music.",
       "wordMeanings": {
-        "A": "to",
-        "menudo": "often",
-        "escuchaba": "used to listen",
-        "música": "music"
+        "J'écoutais": "I used to listen to",
+        "souvent": "often",
+        "de la": "some",
+        "musique": "music"
       }
     },
     {
       "id": "m11-s9",
-      "spanish": "A veces hablaba español.",
-      "english": "Sometimes I spoke Spanish.",
+      "french": "Parfois je parlais français.",
+      "english": "Sometimes I spoke French.",
       "wordMeanings": {
-        "A": "to",
-        "veces": "times",
-        "hablaba": "used to speak",
-        "español": "Spanish"
+        "Parfois": "sometimes",
+        "je parlais": "I used to speak",
+        "français": "French"
       }
     },
     {
       "id": "m11-s10",
-      "spanish": "Todos los días me levantaba temprano.",
+      "french": "Tous les jours je me levais tôt.",
       "english": "Every day I got up early.",
       "wordMeanings": {
-        "Todos": "all",
-        "los": "the / them",
-        "días": "days",
-        "me": "me / to me",
-        "levantaba": "used to get up",
-        "temprano": "early"
+        "Tous les jours": "every day",
+        "je me levais": "I used to get myself up",
+        "tôt": "early"
       }
     },
     {
       "id": "m11-s11",
-      "spanish": "Todas las noches me acostaba tarde.",
+      "french": "Toutes les nuits je me couchais tard.",
       "english": "Every night I went to bed late.",
       "wordMeanings": {
-        "Todas": "all (fem)",
-        "las": "the / them (fem)",
-        "noches": "nights",
-        "me": "me / to me",
-        "acostaba": "used to go to bed",
-        "tarde": "late / afternoon"
+        "Toutes les nuits": "every night",
+        "je me couchais": "I used to put myself to bed",
+        "tard": "late"
       }
     },
     {
       "id": "m11-s12",
-      "spanish": "Por la mañana me duchaba.",
+      "french": "Le matin je me douchais.",
       "english": "In the morning I used to shower.",
       "wordMeanings": {
-        "Por": "for / by",
-        "la": "the / it (fem)",
-        "mañana": "tomorrow / morning",
-        "me": "me / to me",
-        "duchaba": "used to shower"
+        "Le matin": "in the morning",
+        "je me douchais": "I used to shower myself"
       }
     },
     {
       "id": "m11-s13",
-      "spanish": "Yo tenía tiempo.",
+      "french": "J'avais le temps.",
       "english": "I used to have time.",
       "wordMeanings": {
-        "Yo": "I",
-        "tenía": "used to have",
-        "tiempo": "time"
+        "J'avais": "I had",
+        "le": "the",
+        "temps": "time"
       }
     },
     {
       "id": "m11-s14",
-      "spanish": "Yo tenía hambre.",
+      "french": "J'avais faim.",
       "english": "I used to be hungry.",
       "wordMeanings": {
-        "Yo": "I",
-        "tenía": "used to have",
-        "hambre": "hunger"
+        "J'avais": "I had",
+        "faim": "hunger"
       }
     },
     {
       "id": "m11-s15",
-      "spanish": "Yo tenía sed.",
+      "french": "J'avais soif.",
       "english": "I used to be thirsty.",
       "wordMeanings": {
-        "Yo": "I",
-        "tenía": "used to have",
-        "sed": "thirst"
+        "J'avais": "I had",
+        "soif": "thirst"
       }
     },
     {
       "id": "m11-s16",
-      "spanish": "Ayer estaba en casa.",
+      "french": "Hier j'étais à la maison.",
       "english": "Yesterday I was at home.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "estaba": "was",
-        "en": "in / on",
-        "casa": "house"
+        "Hier": "yesterday",
+        "j'étais": "I was",
+        "à": "at",
+        "la": "the (fem)",
+        "maison": "house"
       }
     },
     {
       "id": "m11-s17",
-      "spanish": "Ayer estabas en el trabajo.",
+      "french": "Hier tu étais au travail.",
       "english": "Yesterday you were at work.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "estabas": "were",
-        "en": "in / on",
-        "el": "the",
-        "trabajo": "I work / job"
+        "Hier": "yesterday",
+        "tu étais": "you were",
+        "au": "at the",
+        "travail": "work/job"
       }
     },
     {
       "id": "m11-s18",
-      "spanish": "Ayer Ana estaba en el café.",
+      "french": "Hier Ana était au café.",
       "english": "Yesterday Ana was in the café.",
       "wordMeanings": {
-        "Ayer": "yesterday",
+        "Hier": "yesterday",
         "Ana": "Ana",
-        "estaba": "was",
-        "en": "in / on",
-        "el": "the",
-        "café": "coffee"
+        "était": "was",
+        "au": "at the",
+        "café": "café/coffee"
       }
     },
     {
       "id": "m11-s19",
-      "spanish": "Mientras yo estudiaba, él escuchaba música.",
+      "french": "Pendant que j'étudiais, il écoutait de la musique.",
       "english": "While I was studying, he was listening to music.",
       "wordMeanings": {
-        "Mientras": "while",
-        "yo": "I",
-        "estudiaba": "used to study",
-        "él": "he",
-        "escuchaba": "used to listen",
-        "música": "music"
+        "Pendant que": "while",
+        "j'étudiais": "I was studying",
+        "il écoutait": "he was listening to",
+        "de la": "some",
+        "musique": "music"
       }
     },
     {
       "id": "m11-s20",
-      "spanish": "Mientras tú trabajabas, yo esperaba.",
+      "french": "Pendant que tu travaillais, j'attendais.",
       "english": "While you were working, I was waiting.",
       "wordMeanings": {
-        "Mientras": "while",
-        "tú": "you",
-        "trabajabas": "you used to work",
-        "yo": "I",
-        "esperaba": "used to wait"
+        "Pendant que": "while",
+        "tu travaillais": "you were working",
+        "j'attendais": "I was waiting"
       }
     },
     {
       "id": "m11-s21",
-      "spanish": "Mientras comíamos, hablábamos.",
+      "french": "Pendant que nous mangions, nous parlions.",
       "english": "While we were eating, we were talking.",
       "wordMeanings": {
-        "Mientras": "while",
-        "comíamos": "we used to eat",
-        "hablábamos": "we used to speak"
+        "Pendant que": "while",
+        "nous mangions": "we were eating",
+        "nous parlions": "we were talking"
       }
     },
     {
       "id": "m11-s22",
-      "spanish": "Ayer estudiaba cuando me llamaste.",
+      "french": "Hier j'étudiais quand tu m'as appelé.",
       "english": "Yesterday I was studying when you called me.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "estudiaba": "used to study",
-        "cuando": "when",
-        "me": "me / to me",
-        "llamaste": "you called"
+        "Hier": "yesterday",
+        "j'étudiais": "I was studying",
+        "quand": "when",
+        "tu m'as appelé": "you called me (passé composé)"
       }
     },
     {
       "id": "m11-s23",
-      "spanish": "Ayer escuchaba música cuando abriste la puerta.",
+      "french": "Hier j'écoutais de la musique quand tu as ouvert la porte.",
       "english": "Yesterday I was listening to music when you opened the door.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "escuchaba": "used to listen",
-        "música": "music",
-        "cuando": "when",
-        "abriste": "you opened",
-        "la": "the / it (fem)",
-        "puerta": "door"
+        "Hier": "yesterday",
+        "j'écoutais": "I was listening to",
+        "de la": "some",
+        "musique": "music",
+        "quand": "when",
+        "tu as ouvert": "you opened (passé composé)",
+        "la": "the (fem)",
+        "porte": "door"
       }
     },
     {
       "id": "m11-s24",
-      "spanish": "Antes me sentaba aquí.",
+      "french": "Avant je m'asseyais ici.",
       "english": "Before, I used to sit here.",
       "wordMeanings": {
-        "Antes": "before",
-        "me": "me / to me",
-        "sentaba": "used to sit",
-        "aquí": "here"
+        "Avant": "before",
+        "je m'asseyais": "I used to sit myself",
+        "ici": "here"
       }
     },
     {
       "id": "m11-s25",
-      "spanish": "Antes me quedaba en casa.",
+      "french": "Avant je restais à la maison.",
       "english": "Before, I used to stay at home.",
       "wordMeanings": {
-        "Antes": "before",
-        "me": "me / to me",
-        "quedaba": "used to stay",
-        "en": "in / on",
-        "casa": "house"
+        "Avant": "before",
+        "je restais": "I used to stay",
+        "à": "at",
+        "la": "the (fem)",
+        "maison": "house"
       }
     },
     {
       "id": "m11-s26",
-      "spanish": "¿Trabajabas aquí antes?",
+      "french": "Travaillais-tu ici avant ?",
       "english": "Did you use to work here before?",
       "wordMeanings": {
-        "Trabajabas": "you used to work",
-        "aquí": "here",
-        "antes": "before"
+        "Travaillais-tu": "were you working",
+        "ici": "here",
+        "avant": "before"
       }
     },
     {
       "id": "m11-s27",
-      "spanish": "Sí, trabajaba aquí antes.",
+      "french": "Oui, je travaillais ici avant.",
       "english": "Yes, I used to work here before.",
       "wordMeanings": {
-        "Sí": "yes",
-        "trabajaba": "used to work",
-        "aquí": "here",
-        "antes": "before"
+        "Oui": "yes",
+        "je travaillais": "I used to work",
+        "ici": "here",
+        "avant": "before"
       }
     },
     {
       "id": "m11-s28",
-      "spanish": "No, no trabajaba aquí antes.",
+      "french": "Non, je ne travaillais pas ici avant.",
       "english": "No, I didn't use to work here before.",
       "wordMeanings": {
-        "No": "no / not",
-        "no": "no / not",
-        "trabajaba": "used to work",
-        "aquí": "here",
-        "antes": "before"
+        "Non": "no",
+        "je ne travaillais pas": "I did not use to work",
+        "ici": "here",
+        "avant": "before"
       }
     },
     {
       "id": "m11-s29",
-      "spanish": "Ayer trabajé.",
+      "french": "Hier j'ai travaillé.",
       "english": "Yesterday I worked.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "trabajé": "I worked"
+        "Hier": "yesterday",
+        "j'ai travaillé": "I worked (completed)"
       }
     },
     {
       "id": "m11-s30",
-      "spanish": "Ayer trabajaba.",
+      "french": "Hier je travaillais.",
       "english": "Yesterday I was working.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "trabajaba": "used to work"
+        "Hier": "yesterday",
+        "je travaillais": "I was working (ongoing)"
       }
     },
     {
       "id": "m11-s31",
-      "spanish": "Ayer comí.",
+      "french": "Hier j'ai mangé.",
       "english": "Yesterday I ate.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "comí": "I ate"
+        "Hier": "yesterday",
+        "j'ai mangé": "I ate (completed)"
       }
     },
     {
       "id": "m11-s32",
-      "spanish": "Ayer comía.",
+      "french": "Hier je mangeais.",
       "english": "Yesterday I was eating.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "comía": "used to eat"
+        "Hier": "yesterday",
+        "je mangeais": "I was eating (ongoing)"
       }
     },
     {
       "id": "m11-s33",
-      "spanish": "Antes hablaba poco, ahora hablo más.",
+      "french": "Avant je parlais peu, maintenant je parle plus.",
       "english": "Before I spoke little; now I speak more.",
       "wordMeanings": {
-        "Antes": "before",
-        "hablaba": "used to speak",
-        "poco": "little",
-        "ahora": "now",
-        "hablo": "I speak",
-        "más": "more"
+        "Avant": "before",
+        "je parlais": "I used to speak",
+        "peu": "little",
+        "maintenant": "now",
+        "je parle": "I speak",
+        "plus": "more"
       }
     },
     {
       "id": "m11-s34",
-      "spanish": "Antes vivía lejos, ahora vivo cerca.",
+      "french": "Avant je vivais loin, maintenant je vis près.",
       "english": "Before I lived far; now I live near.",
       "wordMeanings": {
-        "Antes": "before",
-        "vivía": "used to live",
-        "lejos": "far",
-        "ahora": "now",
-        "vivo": "I live",
-        "cerca": "near"
+        "Avant": "before",
+        "je vivais": "I used to live",
+        "loin": "far",
+        "maintenant": "now",
+        "je vis": "I live",
+        "près": "near/close"
       }
     },
     {
       "id": "m11-s35",
-      "spanish": "Ayer no trabajaba.",
+      "french": "Hier je ne travaillais pas.",
       "english": "Yesterday I wasn't working.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "no": "no / not",
-        "trabajaba": "used to work"
+        "Hier": "yesterday",
+        "je ne travaillais pas": "I was not working"
       }
     },
     {
       "id": "m11-s36",
-      "spanish": "Ayer no estudiaba.",
+      "french": "Hier je n'étudiais pas.",
       "english": "Yesterday I wasn't studying.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "no": "no / not",
-        "estudiaba": "used to study"
+        "Hier": "yesterday",
+        "je n'étudiais pas": "I was not studying"
       }
     },
     {
       "id": "m11-s37",
-      "spanish": "Cuando era estudiante, no trabajaba.",
+      "french": "Quand j'étais étudiant, je ne travaillais pas.",
       "english": "When I was a student, I didn't work.",
       "wordMeanings": {
-        "Cuando": "when",
-        "era": "was / used to be",
-        "estudiante": "student",
-        "no": "no / not",
-        "trabajaba": "used to work"
+        "Quand": "when",
+        "j'étais": "I was",
+        "étudiant": "student (masc)",
+        "je ne travaillais pas": "I did not work"
       }
     },
     {
       "id": "m11-s38",
-      "spanish": "Cuando era estudiante, me gustaba el café.",
+      "french": "Quand j'étais étudiant, j'aimais le café.",
       "english": "When I was a student, I liked coffee.",
       "wordMeanings": {
-        "Cuando": "when",
-        "era": "was / used to be",
-        "estudiante": "student",
-        "me": "me / to me",
-        "gustaba": "used to like",
-        "el": "the",
-        "café": "coffee"
+        "Quand": "when",
+        "j'étais": "I was",
+        "étudiant": "student (masc)",
+        "j'aimais": "I used to like",
+        "le": "the",
+        "café": "café/coffee"
       }
     }
   ],
-  "grammarExplanation": "The imperfect tense describes ongoing or habitual past actions — things you 'used to do' or 'were doing.'\n\n-AR verbs: -aba, -abas, -aba, -ábamos, -aban\n• hablaba, hablabas, hablaba, hablábamos, hablaban\n\n-ER/-IR verbs: -ía, -ías, -ía, -íamos, -ían\n• comía, comías, comía, comíamos, comían\n\nKey words: siempre, a menudo, a veces, todos los días, antes, cuando era.\n\nPreterite ≠ Imperfect: 'Ayer trabajé' (completed) vs 'Ayer trabajaba' (ongoing/background).",
+  "grammarExplanation": "The imparfait maps identically to the Spanish imperfect: ongoing actions ('was doing') or habits ('used to'). \n\nEndings (added to the 'nous' stem of the present tense):\n• -ais (je)\n• -ais (tu)\n• -ait (il/elle)\n• -ions (nous)\n• -iez (vous)\n• -aient (ils/elles)\n\nIrregular exception: 'être' (was/used to be) uses the stem 'ét-' → j'étais, tu étais, il était.\nNote how often Passé Composé interrupts the Imparfait: 'J'étudiais (ongoing) quand tu m'as appelé (interrupting event).'",
   "vocabulary": {
-    "antes": {
-      "mnemonic": "Think 'ante' (before in poker).",
+    "avant": {
+      "mnemonic": "Think 'avant-garde', ahead of or before.",
       "explanation": "Means 'before'."
     },
-    "casa": {
-      "mnemonic": "Think 'casino' — a big house of games.",
-      "explanation": "Feminine noun. 'En casa' = at home."
+    "étudiais": {
+      "mnemonic": "'Study + ais' — I was studying.",
+      "explanation": "Imparfait of 'étudier' (je/tu form)."
     },
-    "centro": {
-      "mnemonic": "Same as English 'center' — downtown!",
-      "explanation": "Also means 'center'. 'Centro' = downtown area."
+    "travaillais": {
+      "mnemonic": "'Travel to work + ais' — I used to work.",
+      "explanation": "Imparfait of 'travailler' (je/tu form)."
     },
-    "vivía": {
-      "mnemonic": "'Vivid-ee-a, I used to live.'",
-      "explanation": "Imperfect first person of 'vivir'."
+    "vivais": {
+      "mnemonic": "Think 'vivid + ais' — I used to live.",
+      "explanation": "Imparfait of 'vivre' (je/tu form)."
     },
-    "aquí": {
-      "mnemonic": "Sounds like 'a key' — 'The key is right here!'",
-      "explanation": "Means 'here'. More precise than 'acá'."
+    "étais": {
+      "mnemonic": "Think 'state/estate' — I was.",
+      "explanation": "Imparfait of 'être' (to be) - je/tu form. Irregular."
     },
-    "cuando": {
-      "mnemonic": "Think 'when-do' — when.",
-      "explanation": "Question form: ¿cuándo?"
-    },
-    "era": {
-      "mnemonic": "Think 'era' — in that era, I was...",
-      "explanation": "Imperfect of 'ser'."
-    },
-    "estudiante": {
+    "étudiant": {
       "mnemonic": "Nearly identical to 'student' — easy cognate!",
-      "explanation": "Works for both male and female students."
+      "explanation": "Masculine noun for 'student'."
     },
-    "mucho": {
-      "mnemonic": "Think 'much-o' — much/a lot!",
-      "explanation": "Means 'much/a lot'. Fem: mucha."
+    "jeune": {
+      "mnemonic": "Think 'juvenile'.",
+      "explanation": "Means 'young'."
     },
-    "siempre": {
-      "mnemonic": "'Simple + always' — always.",
-      "explanation": "Means 'always'."
+    "peu": {
+      "mnemonic": "Think 'puny' or 'paltry'.",
+      "explanation": "Means 'little / not much'."
     },
-    "comía": {
-      "mnemonic": "'Come-ee-a, I used to eat.'",
-      "explanation": "Imperfect first person of 'comer'."
+    "toujours": {
+      "mnemonic": "Think 'all days' (tous jours) — always.",
+      "explanation": "Means 'always' or 'still'."
     },
-    "pan": {
-      "mnemonic": "Bread baked in a pan!",
-      "explanation": "Means 'bread'. Masculine noun."
+    "mangeais": {
+      "mnemonic": "'Mange + ais' — was eating.",
+      "explanation": "Imparfait of 'manger'. Note the 'e' kept for soft 'g'."
     },
-    "la": {
-      "mnemonic": "'La lady' — her/it (feminine).",
-      "explanation": "Also 'the' (feminine)."
+    "buvais": {
+      "mnemonic": "Think 'booze + ais' — was drinking.",
+      "explanation": "Imparfait of 'boire'."
     },
-    "mañana": {
-      "mnemonic": "'Mañana, mañana' — putting off till tomorrow.",
-      "explanation": "Means 'tomorrow' or 'morning'."
+    "souvent": {
+      "mnemonic": "Sounds like 'souvenir' — kept often.",
+      "explanation": "Means 'often'."
     },
-    "café": {
-      "mnemonic": "Same as English 'café' — coffee!",
-      "explanation": "Means 'coffee' or 'café'."
+    "parfois": {
+      "mnemonic": "Think 'per-time' — sometimes.",
+      "explanation": "Means 'sometimes'."
     },
-    "música": {
-      "mnemonic": "Nearly identical to 'music' — cognate!",
-      "explanation": "Feminine noun."
+    "tous les jours": {
+      "mnemonic": "All the days.",
+      "explanation": "Means 'every day'."
     },
-    "hablaba": {
-      "mnemonic": "'Used to hobble-aba along speaking.'",
-      "explanation": "Imperfect of 'hablar'. Ongoing past."
+    "toutes les nuits": {
+      "mnemonic": "All the nights.",
+      "explanation": "Means 'every night'."
     },
-    "español": {
-      "mnemonic": "'Espagne/Spain' + '-ol' — the Spanish language.",
-      "explanation": "Both the language and nationality."
+    "levais": {
+      "mnemonic": "Was levitating/getting up.",
+      "explanation": "Imparfait of 'se lever'."
     },
-    "todos": {
-      "mnemonic": "Think 'total' — all/everyone.",
-      "explanation": "Fem: todas."
+    "couchais": {
+      "mnemonic": "Was lying on the couch.",
+      "explanation": "Imparfait of 'se coucher'."
     },
-    "los": {
-      "mnemonic": "'Los' = them (masculine plural).",
-      "explanation": "Direct object pronoun."
+    "douchais": {
+      "mnemonic": "Was showering.",
+      "explanation": "Imparfait of 'se doucher'."
     },
-    "días": {
-      "mnemonic": "Think 'diaries' — you write in your diary each day.",
-      "explanation": "Plural of 'día' (day)."
+    "avais": {
+      "mnemonic": "'Ave + ais' — had or used to have.",
+      "explanation": "Imparfait of 'avoir'."
     },
-    "temprano": {
-      "mnemonic": "'Temporary morning' — early!",
-      "explanation": "Means 'early'."
+    "quand": {
+      "mnemonic": "Similar to 'cuando' — when.",
+      "explanation": "Means 'when'."
     },
-    "las": {
-      "mnemonic": "'Las ladies' — them (feminine).",
-      "explanation": "Direct object pronoun."
+    "pendant que": {
+      "mnemonic": "Pending that / during that — while.",
+      "explanation": "Means 'while'."
     },
-    "noches": {
-      "mnemonic": "Sounds like 'notches' — notch each night off.",
-      "explanation": "Plural of 'noche' (night)."
+    "mangions": {
+      "mnemonic": "We were eating.",
+      "explanation": "Imparfait of 'manger' (nous form)."
     },
-    "tarde": {
-      "mnemonic": "Think 'tardy' — late!",
-      "explanation": "Means 'late' or 'afternoon'."
+    "parlions": {
+      "mnemonic": "We were speaking.",
+      "explanation": "Imparfait of 'parler' (nous form)."
     },
-    "tiempo": {
-      "mnemonic": "Think 'tempo' — time and rhythm.",
-      "explanation": "Means 'time' or 'weather'."
+    "asseyais": {
+      "mnemonic": "Was seating myself.",
+      "explanation": "Imparfait of 's'asseoir'."
     },
-    "hambre": {
-      "mnemonic": "Think 'hamburger' — so hungry for one!",
-      "explanation": "'Tener hambre' = to be hungry."
+    "restais": {
+      "mnemonic": "Was staying/resting there.",
+      "explanation": "Imparfait of 'rester'."
     },
-    "sed": {
-      "mnemonic": "Think 'said I'm thirsty!'",
-      "explanation": "'Tener sed' = to be thirsty."
+    "maintenant": {
+      "mnemonic": "Think 'maintain' the present moment.",
+      "explanation": "Means 'now'."
     },
-    "ayer": {
-      "mnemonic": "'A year ago? No, just yesterday!'",
-      "explanation": "Means 'yesterday'."
+    "plus": {
+      "mnemonic": "Think 'plus' — more.",
+      "explanation": "Means 'more'."
     },
-    "trabajo": {
-      "mnemonic": "Think 'travel to work'.",
-      "explanation": "Means 'work/job'. Also 'I work'."
+    "loin": {
+      "mnemonic": "Think 'long way' — far.",
+      "explanation": "Means 'far'."
     },
-    "él": {
-      "mnemonic": "Like 'el' in 'elevator' — he goes up!",
-      "explanation": "Subject pronoun 'he'. Accent distinguishes from 'el' (the)."
+    "près": {
+      "mnemonic": "Think 'pressed against' — near.",
+      "explanation": "Means 'near / close'."
     },
-    "puerta": {
-      "mnemonic": "Think 'port/portal' — a door.",
-      "explanation": "Feminine noun meaning door/gate."
-    },
-    "comí": {
-      "mnemonic": "'Come eat, I did!' — I ate.",
-      "explanation": "Preterite first person of 'comer'."
-    },
-    "hablo": {
-      "mnemonic": "Think 'hobble along while speaking'.",
-      "explanation": "First person of 'hablar' (to speak)."
-    },
-    "lejos": {
-      "mnemonic": "Think 'legs' — you need legs to walk far away.",
-      "explanation": "'Lejos de' = far from."
-    },
-    "vivo": {
-      "mnemonic": "Think 'vivid life' — I live vividly!",
-      "explanation": "First person of 'vivir' (to live)."
-    },
-    "cerca": {
-      "mnemonic": "Think 'circa' — approximately near.",
-      "explanation": "'Cerca de' = near/close to."
+    "aimais": {
+      "mnemonic": "Was liking / used to like.",
+      "explanation": "Imparfait of 'aimer'."
     }
   }
 }

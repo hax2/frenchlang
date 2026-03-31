@@ -1,565 +1,559 @@
 {
   "id": "module-10",
-  "title": "Chapter 10: The Preterite Tense",
+  "title": "Chapter 10: The Passé Composé",
   "description": "Talk about completed past actions.",
   "level": "Beginner",
   "sentences": [
     {
       "id": "m10-s1",
-      "spanish": "Ayer hablé español.",
-      "english": "Yesterday I spoke Spanish.",
+      "french": "Hier j'ai parlé français.",
+      "english": "Yesterday I spoke French.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "hablé": "I spoke",
-        "español": "Spanish"
+        "Hier": "yesterday",
+        "j'ai parlé": "I spoke",
+        "français": "French"
       }
     },
     {
       "id": "m10-s2",
-      "spanish": "Ayer trabajé en casa.",
+      "french": "Hier j'ai travaillé à la maison.",
       "english": "Yesterday I worked at home.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "trabajé": "I worked",
-        "en": "in / on",
-        "casa": "house"
+        "Hier": "yesterday",
+        "j'ai travaillé": "I worked",
+        "à": "at",
+        "la": "the (fem)",
+        "maison": "house"
       }
     },
     {
       "id": "m10-s3",
-      "spanish": "Ayer estudié en el café.",
+      "french": "Hier j'ai étudié au café.",
       "english": "Yesterday I studied in the café.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "estudié": "I studied",
-        "en": "in / on",
-        "el": "the",
-        "café": "coffee"
+        "Hier": "yesterday",
+        "j'ai étudié": "I studied",
+        "au": "at the",
+        "café": "café"
       }
     },
     {
       "id": "m10-s4",
-      "spanish": "Ayer compré pan.",
+      "french": "Hier j'ai acheté du pain.",
       "english": "Yesterday I bought bread.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "compré": "I bought",
-        "pan": "bread"
+        "Hier": "yesterday",
+        "j'ai acheté": "I bought",
+        "du": "some",
+        "pain": "bread"
       }
     },
     {
       "id": "m10-s5",
-      "spanish": "Ayer compré café.",
+      "french": "Hier j'ai acheté du café.",
       "english": "Yesterday I bought coffee.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "compré": "I bought",
-        "café": "coffee"
+        "Hier": "yesterday",
+        "j'ai acheté": "I bought",
+        "du": "some",
+        "café": "coffee/café"
       }
     },
     {
       "id": "m10-s6",
-      "spanish": "Ayer busqué un libro.",
+      "french": "Hier j'ai cherché un livre.",
       "english": "Yesterday I looked for a book.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "busqué": "I looked for",
+        "Hier": "yesterday",
+        "j'ai cherché": "I looked for",
         "un": "a",
-        "libro": "book"
+        "livre": "book"
       }
     },
     {
       "id": "m10-s7",
-      "spanish": "Ayer esperé en la calle.",
+      "french": "Hier j'ai attendu dans la rue.",
       "english": "Yesterday I waited in the street.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "esperé": "I waited",
-        "en": "in / on",
-        "la": "the / it (fem)",
-        "calle": "street"
+        "Hier": "yesterday",
+        "j'ai attendu": "I waited",
+        "dans": "in",
+        "la": "the (fem)",
+        "rue": "street"
       }
     },
     {
       "id": "m10-s8",
-      "spanish": "Ayer escuché música.",
+      "french": "Hier j'ai écouté de la musique.",
       "english": "Yesterday I listened to music.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "escuché": "I listened",
-        "música": "music"
+        "Hier": "yesterday",
+        "j'ai écouté": "I listened",
+        "de la": "some",
+        "musique": "music"
       }
     },
     {
       "id": "m10-s9",
-      "spanish": "Ayer miré una foto.",
+      "french": "Hier j'ai regardé une photo.",
       "english": "Yesterday I looked at a photo.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "miré": "I looked",
-        "una": "a (fem)",
-        "foto": "photo"
+        "Hier": "yesterday",
+        "j'ai regardé": "I looked at",
+        "une": "a (fem)",
+        "photo": "photo"
       }
     },
     {
       "id": "m10-s10",
-      "spanish": "Anoche comí sopa.",
+      "french": "Hier soir j'ai mangé de la soupe.",
       "english": "Last night I ate soup.",
       "wordMeanings": {
-        "Anoche": "last night",
-        "comí": "I ate",
-        "sopa": "soup"
+        "Hier soir": "last night/yesterday evening",
+        "j'ai mangé": "I ate",
+        "de la": "some",
+        "soupe": "soup"
       }
     },
     {
       "id": "m10-s11",
-      "spanish": "Anoche bebí té.",
+      "french": "Hier soir j'ai bu du thé.",
       "english": "Last night I drank tea.",
       "wordMeanings": {
-        "Anoche": "last night",
-        "bebí": "I drank",
-        "té": "tea"
+        "Hier soir": "last night/yesterday evening",
+        "j'ai bu": "I drank",
+        "du": "some",
+        "thé": "tea"
       }
     },
     {
       "id": "m10-s12",
-      "spanish": "Anoche comimos en casa.",
+      "french": "Hier soir nous avons mangé à la maison.",
       "english": "Last night we ate at home.",
       "wordMeanings": {
-        "Anoche": "last night",
-        "comimos": "we ate",
-        "en": "in / on",
-        "casa": "house"
+        "Hier soir": "last night/yesterday evening",
+        "nous avons mangé": "we ate",
+        "à": "at",
+        "la": "the (fem)",
+        "maison": "house"
       }
     },
     {
       "id": "m10-s13",
-      "spanish": "Ayer viví en el centro.",
+      "french": "Hier j'ai vécu en centre-ville.",
       "english": "Yesterday I lived downtown.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "viví": "I lived",
-        "en": "in / on",
-        "el": "the",
-        "centro": "downtown"
+        "Hier": "yesterday",
+        "j'ai vécu": "I lived",
+        "en": "in",
+        "centre-ville": "downtown"
       }
     },
     {
       "id": "m10-s14",
-      "spanish": "Ayer abrí la puerta.",
+      "french": "Hier j'ai ouvert la porte.",
       "english": "Yesterday I opened the door.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "abrí": "I opened",
-        "la": "the / it (fem)",
-        "puerta": "door"
+        "Hier": "yesterday",
+        "j'ai ouvert": "I opened",
+        "la": "the (fem)",
+        "porte": "door"
       }
     },
     {
       "id": "m10-s15",
-      "spanish": "Ayer escribí un mensaje.",
+      "french": "Hier j'ai écrit un message.",
       "english": "Yesterday I wrote a message.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "escribí": "I wrote",
+        "Hier": "yesterday",
+        "j'ai écrit": "I wrote",
         "un": "a",
-        "mensaje": "message"
+        "message": "message"
       }
     },
     {
       "id": "m10-s16",
-      "spanish": "Ayer recibí una carta.",
+      "french": "Hier j'ai reçu une lettre.",
       "english": "Yesterday I received a letter.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "recibí": "I received",
-        "una": "a (fem)",
-        "carta": "letter"
+        "Hier": "yesterday",
+        "j'ai reçu": "I received",
+        "une": "a (fem)",
+        "lettre": "letter"
       }
     },
     {
       "id": "m10-s17",
-      "spanish": "Ayer fui al café.",
+      "french": "Hier je suis allé au café.",
       "english": "Yesterday I went to the café.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "fui": "I went / I was",
-        "al": "to the",
-        "café": "coffee"
+        "Hier": "yesterday",
+        "je suis allé": "I went (masc)",
+        "au": "to the",
+        "café": "café"
       }
     },
     {
       "id": "m10-s18",
-      "spanish": "Ayer fuiste a la escuela.",
+      "french": "Hier tu es allé à l'école.",
       "english": "Yesterday you went to school.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "fuiste": "you went",
-        "a": "to",
-        "la": "the / it (fem)",
-        "escuela": "school"
+        "Hier": "yesterday",
+        "tu es allé": "you went (masc)",
+        "à": "to",
+        "l'": "the",
+        "école": "school"
       }
     },
     {
       "id": "m10-s19",
-      "spanish": "Ayer fue al trabajo.",
-      "english": "Yesterday he/she went to work.",
+      "french": "Hier il est allé au travail.",
+      "english": "Yesterday he went to work.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "fue": "went / was",
-        "al": "to the",
-        "trabajo": "I work / job"
+        "Hier": "yesterday",
+        "il est allé": "he went",
+        "au": "to the",
+        "travail": "work/job"
       }
     },
     {
       "id": "m10-s20",
-      "spanish": "Ayer fuimos al centro.",
+      "french": "Hier nous sommes allés en centre-ville.",
       "english": "Yesterday we went downtown.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "fuimos": "we went",
-        "al": "to the",
-        "centro": "downtown"
+        "Hier": "yesterday",
+        "nous sommes allés": "we went (masc pl)",
+        "en": "in",
+        "centre-ville": "downtown"
       }
     },
     {
       "id": "m10-s21",
-      "spanish": "¿Fuiste al café ayer?",
+      "french": "Es-tu allé au café hier ?",
       "english": "Did you go to the café yesterday?",
       "wordMeanings": {
-        "Fuiste": "you went",
-        "al": "to the",
-        "café": "coffee",
-        "ayer": "yesterday"
+        "Es-tu allé": "did you go (masc)",
+        "au": "to the",
+        "café": "café",
+        "hier": "yesterday"
       }
     },
     {
       "id": "m10-s22",
-      "spanish": "Sí, fui al café ayer.",
+      "french": "Oui, je suis allé au café hier.",
       "english": "Yes, I went to the café yesterday.",
       "wordMeanings": {
-        "Sí": "yes",
-        "fui": "I went / I was",
-        "al": "to the",
-        "café": "coffee",
-        "ayer": "yesterday"
+        "Oui": "yes",
+        "je suis allé": "I went (masc)",
+        "au": "to the",
+        "café": "café",
+        "hier": "yesterday"
       }
     },
     {
       "id": "m10-s23",
-      "spanish": "No, no fui al café ayer.",
+      "french": "Non, je ne suis pas allé au café hier.",
       "english": "No, I didn't go to the café yesterday.",
       "wordMeanings": {
-        "No": "no / not",
-        "no": "no / not",
-        "fui": "I went / I was",
-        "al": "to the",
-        "café": "coffee",
-        "ayer": "yesterday"
+        "Non": "no",
+        "je ne suis pas allé": "I did not go",
+        "au": "to the",
+        "café": "café",
+        "hier": "yesterday"
       }
     },
     {
       "id": "m10-s24",
-      "spanish": "¿Compraste pan ayer?",
+      "french": "As-tu acheté du pain hier ?",
       "english": "Did you buy bread yesterday?",
       "wordMeanings": {
-        "Compraste": "you bought",
-        "pan": "bread",
-        "ayer": "yesterday"
+        "As-tu acheté": "did you buy",
+        "du": "some",
+        "pain": "bread",
+        "hier": "yesterday"
       }
     },
     {
       "id": "m10-s25",
-      "spanish": "Sí, compré pan ayer.",
+      "french": "Oui, j'ai acheté du pain hier.",
       "english": "Yes, I bought bread yesterday.",
       "wordMeanings": {
-        "Sí": "yes",
-        "compré": "I bought",
-        "pan": "bread",
-        "ayer": "yesterday"
+        "Oui": "yes",
+        "j'ai acheté": "I bought",
+        "du": "some",
+        "pain": "bread",
+        "hier": "yesterday"
       }
     },
     {
       "id": "m10-s26",
-      "spanish": "No, no compré pan ayer.",
+      "french": "Non, je n'ai pas acheté de pain hier.",
       "english": "No, I didn't buy bread yesterday.",
       "wordMeanings": {
-        "No": "no / not",
-        "no": "no / not",
-        "compré": "I bought",
-        "pan": "bread",
-        "ayer": "yesterday"
+        "Non": "no",
+        "je n'ai pas acheté": "I did not buy",
+        "de": "any",
+        "pain": "bread",
+        "hier": "yesterday"
       }
     },
     {
       "id": "m10-s27",
-      "spanish": "Ayer tuve tiempo.",
+      "french": "Hier j'ai eu du temps.",
       "english": "Yesterday I had time.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "tuve": "I had",
-        "tiempo": "time"
+        "Hier": "yesterday",
+        "j'ai eu": "I had",
+        "du": "some",
+        "temps": "time"
       }
     },
     {
       "id": "m10-s28",
-      "spanish": "Ayer tuviste un problema.",
+      "french": "Hier tu as eu un problème.",
       "english": "Yesterday you had a problem.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "tuviste": "you had",
+        "Hier": "yesterday",
+        "tu as eu": "you had",
         "un": "a",
-        "problema": "problem"
+        "problème": "problem"
       }
     },
     {
       "id": "m10-s29",
-      "spanish": "Ayer tuvo hambre.",
-      "english": "Yesterday he/she was hungry.",
+      "french": "Hier il a eu faim.",
+      "english": "Yesterday he was hungry.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "tuvo": "she/he had",
-        "hambre": "hunger"
+        "Hier": "yesterday",
+        "il a eu": "he had",
+        "faim": "hunger"
       }
     },
     {
       "id": "m10-s30",
-      "spanish": "Ayer tuvimos sed.",
+      "french": "Hier nous avons eu soif.",
       "english": "Yesterday we were thirsty.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "tuvimos": "we had",
-        "sed": "thirst"
+        "Hier": "yesterday",
+        "nous avons eu": "we had",
+        "soif": "thirst"
       }
     },
     {
       "id": "m10-s31",
-      "spanish": "Ayer me levanté temprano.",
+      "french": "Hier je me suis levé tôt.",
       "english": "Yesterday I got up early.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "me": "me / to me",
-        "levanté": "I got up",
-        "temprano": "early"
+        "Hier": "yesterday",
+        "je me suis levé": "I got myself up",
+        "tôt": "early"
       }
     },
     {
       "id": "m10-s32",
-      "spanish": "Ayer me acosté tarde.",
+      "french": "Hier je me suis couché tard.",
       "english": "Yesterday I went to bed late.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "me": "me / to me",
-        "acosté": "I went to bed",
-        "tarde": "late / afternoon"
+        "Hier": "yesterday",
+        "je me suis couché": "I put myself to bed",
+        "tard": "late"
       }
     },
     {
       "id": "m10-s33",
-      "spanish": "Ayer me duché en casa.",
+      "french": "Hier je me suis douché à la maison.",
       "english": "Yesterday I showered at home.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "me": "me / to me",
-        "duché": "I showered",
-        "en": "in / on",
-        "casa": "house"
+        "Hier": "yesterday",
+        "je me suis douché": "I showered myself",
+        "à": "at",
+        "la": "the (fem)",
+        "maison": "house"
       }
     },
     {
       "id": "m10-s34",
-      "spanish": "Ayer no trabajé.",
+      "french": "Hier je n'ai pas travaillé.",
       "english": "Yesterday I didn't work.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "no": "no / not",
-        "trabajé": "I worked"
+        "Hier": "yesterday",
+        "je n'ai pas travaillé": "I did not work"
       }
     },
     {
       "id": "m10-s35",
-      "spanish": "Ayer no estudié.",
+      "french": "Hier je n'ai pas étudié.",
       "english": "Yesterday I didn't study.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "no": "no / not",
-        "estudié": "I studied"
+        "Hier": "yesterday",
+        "je n'ai pas étudié": "I did not study"
       }
     },
     {
       "id": "m10-s36",
-      "spanish": "Ayer no compré el coche.",
+      "french": "Hier je n'ai pas acheté la voiture.",
       "english": "Yesterday I didn't buy the car.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "no": "no / not",
-        "compré": "I bought",
-        "el": "the",
-        "coche": "car"
+        "Hier": "yesterday",
+        "je n'ai pas acheté": "I did not buy",
+        "la": "the",
+        "voiture": "car"
       }
     },
     {
       "id": "m10-s37",
-      "spanish": "Ayer hablamos y después comimos.",
+      "french": "Hier nous avons parlé et après nous avons mangé.",
       "english": "Yesterday we talked and then we ate.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "hablamos": "we speak",
-        "y": "and",
-        "después": "after",
-        "comimos": "we ate"
+        "Hier": "yesterday",
+        "nous avons parlé": "we spoke",
+        "et": "and",
+        "après": "after/then",
+        "nous avons mangé": "we ate"
       }
     },
     {
       "id": "m10-s38",
-      "spanish": "Ayer busqué un café y lo encontré.",
+      "french": "Hier j'ai cherché un café et je l'ai trouvé.",
       "english": "Yesterday I looked for a café and found it.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "busqué": "I looked for",
+        "Hier": "yesterday",
+        "j'ai cherché": "I looked for",
         "un": "a",
-        "café": "coffee",
-        "y": "and",
-        "lo": "it / him",
-        "encontré": "I found"
+        "café": "café",
+        "et": "and",
+        "je l'ai trouvé": "I found it"
       }
     },
     {
       "id": "m10-s39",
-      "spanish": "Ayer esperé y después fui a casa.",
+      "french": "Hier j'ai attendu et après je suis allé à la maison.",
       "english": "Yesterday I waited and then I went home.",
       "wordMeanings": {
-        "Ayer": "yesterday",
-        "esperé": "I waited",
-        "y": "and",
-        "después": "after",
-        "fui": "I went / I was",
-        "a": "to",
-        "casa": "house"
+        "Hier": "yesterday",
+        "j'ai attendu": "I waited",
+        "et": "and",
+        "après": "after",
+        "je suis allé": "I went",
+        "à": "to",
+        "la": "the (fem)",
+        "maison": "house"
       }
     }
   ],
-  "grammarExplanation": "The preterite tense describes completed actions in the past.\n\nRegular -AR endings: -é, -aste, -ó, -amos, -aron\n• hablé, hablaste, habló, hablamos, hablaron\n\nRegular -ER/-IR endings: -í, -iste, -ió, -imos, -ieron\n• comí, comiste, comió, comimos, comieron\n\nIrregular: ir/ser → fui, fuiste, fue, fuimos, fueron\ntener → tuve, tuviste, tuvo, tuvimos, tuvieron",
+  "grammarExplanation": "French uses the Passé Composé for completed past actions (mapping to the Spanish preterite). \nIt's formed with 'avoir' (or 'être') + the past participle.\n\nRegular Participles:\n• -ER → -é (parler → parlé)\n• -IR → -i (finir → fini)\n• -RE → -u (attendre → attendu)\n\nExceptions:\n• Aller (to go) uses 'être': Je suis allé.\n• ALL reflexive verbs use 'être': Je me suis levé.\n• Avoir past participle is 'eu' (j'ai eu).\n• Boire (bu), écrire (écrit), ouvrir (ouvert), recevoir (reçu), vivre (vécu).",
   "vocabulary": {
-    "ayer": {
-      "mnemonic": "'A year ago? No, just yesterday!'",
+    "hier": {
+      "mnemonic": "Rhymes with 'year' — yesterday.",
       "explanation": "Means 'yesterday'."
     },
-    "hablé": {
-      "mnemonic": "'I hobbled and spoke' — I spoke.",
-      "explanation": "Preterite first person of 'hablar'."
+    "j'ai": {
+      "mnemonic": "Sounds like 'Jay' — Jay has it.",
+      "explanation": "Contraction of 'je' (I) and 'ai' (have). Helper verb."
     },
-    "español": {
-      "mnemonic": "'Espagne/Spain' + '-ol' — the Spanish language.",
-      "explanation": "Both the language and nationality."
+    "parlé": {
+      "mnemonic": "Think 'parlor' — spoken in the parlor.",
+      "explanation": "Past participle of parler (to speak)."
     },
-    "casa": {
-      "mnemonic": "Think 'casino' — a big house of games.",
-      "explanation": "Feminine noun. 'En casa' = at home."
+    "maison": {
+      "mnemonic": "Think 'mansion' — a house.",
+      "explanation": "Feminine noun for 'house'."
     },
-    "café": {
-      "mnemonic": "Same as English 'café' — coffee!",
-      "explanation": "Means 'coffee' or 'café'."
+    "acheté": {
+      "mnemonic": "Think 'a checklist' — bought from a checklist.",
+      "explanation": "Past participle of acheter (to buy)."
     },
-    "pan": {
+    "pain": {
       "mnemonic": "Bread baked in a pan!",
       "explanation": "Means 'bread'. Masculine noun."
     },
-    "libro": {
-      "mnemonic": "Think 'library' — full of libros (books)!",
-      "explanation": "Means 'book'. Masculine noun."
+    "attendu": {
+      "mnemonic": "Think 'attended' — waited to attend.",
+      "explanation": "Past participle of attendre."
     },
-    "la": {
-      "mnemonic": "'La lady' — her/it (feminine).",
-      "explanation": "Also 'the' (feminine)."
+    "rue": {
+      "mnemonic": "Think 'rue the day' you walked down that street.",
+      "explanation": "Means 'street'."
     },
-    "calle": {
-      "mnemonic": "Think 'call-ay' — you call from down the street.",
-      "explanation": "Feminine noun meaning street."
+    "regardé": {
+      "mnemonic": "Think 'regarded' — looked at.",
+      "explanation": "Past participle of regarder (to look at)."
     },
-    "música": {
-      "mnemonic": "Nearly identical to 'music' — cognate!",
-      "explanation": "Feminine noun."
+    "soir": {
+      "mnemonic": "Think 'soirée' — an evening party.",
+      "explanation": "Means 'evening'. 'Hier soir' = last night."
     },
-    "foto": {
-      "mnemonic": "Same as English 'photo'!",
-      "explanation": "Short for 'fotografía'. Feminine."
+    "mangé": {
+      "mnemonic": "Think 'mange' — eaten.",
+      "explanation": "Past participle of manger."
     },
-    "anoche": {
-      "mnemonic": "'A + noche' = last night.",
-      "explanation": "Means 'last night'."
+    "bu": {
+      "mnemonic": "Think 'booze' — drunk.",
+      "explanation": "Past participle of boire. Irregular."
     },
-    "comí": {
-      "mnemonic": "'Come eat, I did!' — I ate.",
-      "explanation": "Preterite first person of 'comer'."
+    "vécu": {
+      "mnemonic": "Think 'vivid' — lived.",
+      "explanation": "Past participle of vivre. Irregular."
     },
-    "viví": {
-      "mnemonic": "'Vivid life I lived.'",
-      "explanation": "Preterite first person of 'vivir'."
+    "ouvert": {
+      "mnemonic": "Think 'overture/open'.",
+      "explanation": "Past participle of ouvrir. Irregular."
     },
-    "centro": {
-      "mnemonic": "Same as English 'center' — downtown!",
-      "explanation": "Also means 'center'. 'Centro' = downtown area."
+    "écrit": {
+      "mnemonic": "Think 'script' — written.",
+      "explanation": "Past participle of écrire. Irregular."
     },
-    "puerta": {
-      "mnemonic": "Think 'port/portal' — a door.",
-      "explanation": "Feminine noun meaning door/gate."
+    "reçu": {
+      "mnemonic": "Looks like 'receive' — received.",
+      "explanation": "Past participle of recevoir. Irregular."
     },
-    "carta": {
-      "mnemonic": "Think 'card/letter'.",
-      "explanation": "Means 'letter' or 'menu'."
+    "allé": {
+      "mnemonic": "Think 'alley', gone down the alley.",
+      "explanation": "Past participle of aller. Uses 'être'."
     },
-    "escuela": {
-      "mnemonic": "Sounds like 'school-a' — it IS school!",
-      "explanation": "Feminine noun meaning school."
+    "suis": {
+      "mnemonic": "I am ('je suis').",
+      "explanation": "Used as helper verb for aller/reflexives."
     },
-    "trabajo": {
-      "mnemonic": "Think 'travel to work'.",
-      "explanation": "Means 'work/job'. Also 'I work'."
+    "es": {
+      "mnemonic": "You are ('tu es').",
+      "explanation": "Used as helper verb for aller."
     },
-    "tiempo": {
-      "mnemonic": "Think 'tempo' — time and rhythm.",
-      "explanation": "Means 'time' or 'weather'."
+    "est": {
+      "mnemonic": "He/she is.",
+      "explanation": "Used as helper verb for aller."
     },
-    "problema": {
-      "mnemonic": "Nearly identical to 'problem' — cognate!",
-      "explanation": "Masculine despite -a ending!"
+    "sommes": {
+      "mnemonic": "We are ('nous sommes').",
+      "explanation": "Used as helper verb for aller."
     },
-    "hambre": {
-      "mnemonic": "Think 'hamburger' — so hungry for one!",
-      "explanation": "'Tener hambre' = to be hungry."
+    "eu": {
+      "mnemonic": "Sounds like 'oo'. Had.",
+      "explanation": "Past participle of avoir (to have). Irregular."
     },
-    "sed": {
-      "mnemonic": "Think 'said I'm thirsty!'",
-      "explanation": "'Tener sed' = to be thirsty."
+    "faim": {
+      "mnemonic": "Rhymes with 'bam' — bam, I'm starving!",
+      "explanation": "'Avoir faim' = to be hungry."
     },
-    "temprano": {
-      "mnemonic": "'Temporary morning' — early!",
-      "explanation": "Means 'early'."
+    "soif": {
+      "mnemonic": "Sounds like 'swaf' — quaff a drink when you have soif.",
+      "explanation": "'Avoir soif' = to be thirsty."
     },
-    "tarde": {
-      "mnemonic": "Think 'tardy' — late!",
-      "explanation": "Means 'late' or 'afternoon'."
+    "levé": {
+      "mnemonic": "Think 'levitated' — gotten up.",
+      "explanation": "Past participle of lever."
     },
-    "coche": {
-      "mnemonic": "Think 'coach' — a horse-drawn coach = car.",
-      "explanation": "Means 'car'. Mainly used in Spain."
+    "couché": {
+      "mnemonic": "Think 'couch' — laid down.",
+      "explanation": "Past participle of coucher."
     },
-    "hablamos": {
-      "mnemonic": "'Hobble-amos' — we talk.",
-      "explanation": "First person plural of 'hablar'."
+    "après": {
+      "mnemonic": "Sounds like 'prey' — the wolf eats after.",
+      "explanation": "Means 'after/then'."
     },
-    "y": {
-      "mnemonic": "The letter 'Y' connects — like 'and' connects words.",
-      "explanation": "Pronounced like 'ee'. The simplest conjunction."
-    },
-    "después": {
-      "mnemonic": "'Dispatch after' — afterwards.",
-      "explanation": "Means 'after/afterwards'."
-    },
-    "lo": {
-      "mnemonic": "'Low him' — direct object him/it.",
-      "explanation": "Masculine direct object pronoun."
+    "trouvé": {
+      "mnemonic": "Think 'treasure trove' — found.",
+      "explanation": "Past participle of trouver (to find)."
     }
   }
 }
