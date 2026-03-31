@@ -6,482 +6,472 @@
   "sentences": [
     {
       "id": "m22-s1",
-      "spanish": "Si tuviera tiempo, vendría.",
+      "french": "Si j'avais le temps, je viendrais.",
       "english": "If I had time, I would come.",
       "wordMeanings": {
         "Si": "if",
-        "tuviera": "had (imp subj)",
-        "tiempo": "time",
-        "vendría": "would come"
+        "j'avais": "I had (imp)",
+        "le": "the",
+        "temps": "time",
+        "je viendrais": "I would come (cond)"
       }
     },
     {
       "id": "m22-s2",
-      "spanish": "Si tuviera dinero, compraría el libro.",
+      "french": "Si j'avais de l'argent, j'achèterais le livre.",
       "english": "If I had money, I would buy the book.",
       "wordMeanings": {
         "Si": "if",
-        "tuviera": "had (imp subj)",
-        "dinero": "money",
-        "compraría": "would buy",
-        "el": "the",
-        "libro": "book"
+        "j'avais": "I had (imp)",
+        "de l'": "some",
+        "argent": "money",
+        "j'achèterais": "I would buy (cond)",
+        "le": "the",
+        "livre": "book"
       }
     },
     {
       "id": "m22-s3",
-      "spanish": "Si estudiaras más, aprenderías más.",
+      "french": "Si tu étudiais plus, tu apprendrais plus.",
       "english": "If you studied more, you would learn more.",
       "wordMeanings": {
         "Si": "if",
-        "estudiaras": "studied (imp subj)",
-        "más": "more",
-        "aprenderías": "would learn"
+        "tu étudiais": "you studied (imp)",
+        "plus": "more",
+        "tu apprendrais": "you would learn (cond)"
       }
     },
     {
       "id": "m22-s4",
-      "spanish": "Si trabajaras menos, descansarías más.",
+      "french": "Si tu travaillais moins, tu te reposerais plus.",
       "english": "If you worked less, you would rest more.",
       "wordMeanings": {
         "Si": "if",
-        "trabajaras": "worked (imp subj)",
-        "menos": "less",
-        "descansarías": "would rest",
-        "más": "more"
+        "tu travaillais": "you worked (imp)",
+        "moins": "less",
+        "tu te reposerais": "you would rest (cond)",
+        "plus": "more"
       }
     },
     {
       "id": "m22-s5",
-      "spanish": "Si comieras mejor, dormirías mejor.",
+      "french": "Si tu mangeais mieux, tu dormirais mieux.",
       "english": "If you ate better, you would sleep better.",
       "wordMeanings": {
         "Si": "if",
-        "comieras": "ate (imp subj)",
-        "mejor": "better",
-        "dormirías": "would sleep"
+        "tu mangeais": "you ate (imp)",
+        "mieux": "better",
+        "tu dormirais": "you would sleep (cond)"
       }
     },
     {
       "id": "m22-s6",
-      "spanish": "Si bebieras agua, estarías mejor.",
+      "french": "Si tu buvais de l'eau, tu irais mieux.",
       "english": "If you drank water, you would feel better.",
       "wordMeanings": {
         "Si": "if",
-        "bebieras": "drank (imp subj)",
-        "agua": "water",
-        "estarías": "would be",
-        "mejor": "better"
+        "tu buvais": "you drank (imp)",
+        "de l'": "some",
+        "eau": "water",
+        "tu irais": "you would go (cond)",
+        "mieux": "better"
       }
     },
     {
       "id": "m22-s7",
-      "spanish": "Si llegaras temprano, hablaríamos más.",
+      "french": "Si tu arrivais tôt, on parlerait plus.",
       "english": "If you arrived early, we would talk more.",
       "wordMeanings": {
         "Si": "if",
-        "llegaras": "arrived (imp subj)",
-        "temprano": "early",
-        "hablaríamos": "we would speak",
-        "más": "more"
+        "tu arrivais": "you arrived (imp)",
+        "tôt": "early",
+        "on parlerait": "we would speak (cond)",
+        "plus": "more"
       }
     },
     {
       "id": "m22-s8",
-      "spanish": "Si llegaras tarde, no comeríamos juntos.",
+      "french": "Si tu arrivais en retard, on ne mangerait pas ensemble.",
       "english": "If you arrived late, we wouldn't eat together.",
       "wordMeanings": {
         "Si": "if",
-        "llegaras": "arrived (imp subj)",
-        "tarde": "late / afternoon",
-        "no": "no / not",
-        "comeríamos": "we would eat",
-        "juntos": "together"
+        "tu arrivais": "you arrived (imp)",
+        "en retard": "late",
+        "on ne mangerait pas": "we would not eat (cond)",
+        "ensemble": "together"
       }
     },
     {
       "id": "m22-s9",
-      "spanish": "Si vinieras mañana, iríamos al café.",
+      "french": "Si tu venais demain, on irait au café.",
       "english": "If you came tomorrow, we would go to the café.",
       "wordMeanings": {
         "Si": "if",
-        "vinieras": "came (imp subj)",
-        "mañana": "tomorrow / morning",
-        "iríamos": "would go",
-        "al": "to the",
-        "café": "coffee"
+        "tu venais": "you came (imp)",
+        "demain": "tomorrow",
+        "on irait": "we would go (cond)",
+        "au": "to the",
+        "café": "café/coffee"
       }
     },
     {
       "id": "m22-s10",
-      "spanish": "Si fueras hoy, comprarías el pan.",
+      "french": "Si tu y allais aujourd'hui, tu achèterais le pain.",
       "english": "If you went today, you would buy the bread.",
       "wordMeanings": {
         "Si": "if",
-        "fueras": "went / were (imp subj)",
-        "hoy": "today",
-        "comprarías": "would buy",
-        "el": "the",
-        "pan": "bread"
+        "tu y allais": "you went there (imp)",
+        "aujourd'hui": "today",
+        "tu achèterais": "you would buy (cond)",
+        "le": "the",
+        "pain": "bread"
       }
     },
     {
       "id": "m22-s11",
-      "spanish": "Si abrieras la puerta, entraría.",
-      "english": "If you opened the door, he/she would come in.",
+      "french": "Si tu ouvrais la porte, il entrerait.",
+      "english": "If you opened the door, he would come in.",
       "wordMeanings": {
         "Si": "if",
-        "abrieras": "opened (imp subj)",
-        "la": "the / it (fem)",
-        "puerta": "door",
-        "entraría": "would enter"
+        "tu ouvrais": "you opened (imp)",
+        "la": "the (fem)",
+        "porte": "door",
+        "il entrerait": "he would enter (cond)"
       }
     },
     {
       "id": "m22-s12",
-      "spanish": "Si cerraras la ventana, estaría mejor.",
+      "french": "Si tu fermais la fenêtre, ce serait mieux.",
       "english": "If you closed the window, it would be better.",
       "wordMeanings": {
         "Si": "if",
-        "cerraras": "closed (imp subj)",
-        "la": "the / it (fem)",
-        "ventana": "window",
-        "estaría": "would be",
-        "mejor": "better"
+        "tu fermais": "you closed (imp)",
+        "la": "the (fem)",
+        "fenêtre": "window",
+        "ce serait": "it would be (cond)",
+        "mieux": "better"
       }
     },
     {
       "id": "m22-s13",
-      "spanish": "Si me escucharas, entenderías.",
+      "french": "Si tu m'écoutais, tu comprendrais.",
       "english": "If you listened to me, you would understand.",
       "wordMeanings": {
         "Si": "if",
-        "me": "me / to me",
-        "escucharas": "listened (imp subj)",
-        "entenderías": "would understand"
+        "tu m'écoutais": "you listened to me (imp)",
+        "tu comprendrais": "you would understand (cond)"
       }
     },
     {
       "id": "m22-s14",
-      "spanish": "Si me dijeras la verdad, te ayudaría.",
+      "french": "Si tu me disais la vérité, je t'aiderais.",
       "english": "If you told me the truth, I would help you.",
       "wordMeanings": {
         "Si": "if",
-        "me": "me / to me",
-        "dijeras": "said (imp subj)",
-        "la": "the / it (fem)",
-        "verdad": "truth",
-        "te": "you / to you",
-        "ayudaría": "would help"
+        "tu me disais": "you told me (imp)",
+        "la": "the (fem)",
+        "vérité": "truth",
+        "je t'aiderais": "I would help you (cond)"
       }
     },
     {
       "id": "m22-s15",
-      "spanish": "Si me lo dijeras, lo entendería.",
+      "french": "Si tu me le disais, je le comprendrais.",
       "english": "If you told it to me, I would understand it.",
       "wordMeanings": {
         "Si": "if",
-        "me": "me / to me",
-        "lo": "it / him",
-        "dijeras": "said (imp subj)",
-        "entendería": "would understand"
+        "tu me le disais": "you told it to me (imp)",
+        "je le comprendrais": "I would understand it (cond)"
       }
     },
     {
       "id": "m22-s16",
-      "spanish": "Si lo compraras hoy, sería más barato.",
+      "french": "Si tu l'achetais aujourd'hui, ce serait moins cher.",
       "english": "If you bought it today, it would be cheaper.",
       "wordMeanings": {
         "Si": "if",
-        "lo": "it / him",
-        "compraras": "bought (imp subj)",
-        "hoy": "today",
-        "sería": "would be",
-        "más": "more",
-        "barato": "cheap"
+        "tu l'achetais": "you bought it (imp)",
+        "aujourd'hui": "today",
+        "ce serait": "it would be (cond)",
+        "moins": "less",
+        "cher": "expensive"
       }
     },
     {
       "id": "m22-s17",
-      "spanish": "Si la compraras hoy, sería más barata.",
-      "english": "If you bought it today, it would be cheaper.",
+      "french": "Si tu l'achetais demain, ce serait plus cher.",
+      "english": "If you bought it tomorrow, it would be more expensive.",
       "wordMeanings": {
         "Si": "if",
-        "la": "the / it (fem)",
-        "compraras": "bought (imp subj)",
-        "hoy": "today",
-        "sería": "would be",
-        "más": "more",
-        "barata": "cheap (fem)"
+        "tu l'achetais": "you bought it (imp)",
+        "demain": "tomorrow",
+        "ce serait": "it would be (cond)",
+        "plus": "more",
+        "cher": "expensive"
       }
     },
     {
       "id": "m22-s18",
-      "spanish": "Si los compraras hoy, sería mejor.",
+      "french": "Si tu les achetais aujourd'hui, ce serait mieux.",
       "english": "If you bought them today, it would be better.",
       "wordMeanings": {
         "Si": "if",
-        "los": "the / them",
-        "compraras": "bought (imp subj)",
-        "hoy": "today",
-        "sería": "would be",
-        "mejor": "better"
+        "tu les achetais": "you bought them (imp)",
+        "aujourd'hui": "today",
+        "ce serait": "it would be (cond)",
+        "mieux": "better"
       }
     },
     {
       "id": "m22-s19",
-      "spanish": "Si las compraras hoy, sería mejor.",
-      "english": "If you bought them today, it would be better.",
+      "french": "S'il les achetait aujourd'hui, ce serait mieux.",
+      "english": "If he bought them today, it would be better.",
       "wordMeanings": {
-        "Si": "if",
-        "las": "the / them (fem)",
-        "compraras": "bought (imp subj)",
-        "hoy": "today",
-        "sería": "would be",
-        "mejor": "better"
+        "S'il": "if he",
+        "les achetait": "bought them (imp)",
+        "aujourd'hui": "today",
+        "ce serait": "it would be (cond)",
+        "mieux": "better"
       }
     },
     {
       "id": "m22-s20",
-      "spanish": "Si estuvieras aquí, te vería.",
+      "french": "Si tu étais ici, je te verrais.",
       "english": "If you were here, I would see you.",
       "wordMeanings": {
         "Si": "if",
-        "estuvieras": "were (imp subj)",
-        "aquí": "here",
-        "te": "you / to you",
-        "vería": "would see"
+        "tu étais": "you were (imp)",
+        "ici": "here",
+        "je te verrais": "I would see you (cond)"
       }
     },
     {
       "id": "m22-s21",
-      "spanish": "Si no estuvieras aquí, no te vería.",
+      "french": "Si tu n'étais pas ici, je ne te verrais pas.",
       "english": "If you weren't here, I wouldn't see you.",
       "wordMeanings": {
         "Si": "if",
-        "no": "no / not",
-        "estuvieras": "were (imp subj)",
-        "aquí": "here",
-        "te": "you / to you",
-        "vería": "would see"
+        "tu n'étais pas": "you were not (imp)",
+        "ici": "here",
+        "je ne te verrais pas": "I would not see you (cond)"
       }
     },
     {
       "id": "m22-s22",
-      "spanish": "Si fueras paciente, todo sería más fácil.",
+      "french": "Si tu étais patient, tout serait plus facile.",
       "english": "If you were patient, everything would be easier.",
       "wordMeanings": {
         "Si": "if",
-        "fueras": "went / were (imp subj)",
-        "paciente": "patient",
-        "todo": "all",
-        "sería": "would be",
-        "más": "more",
-        "fácil": "easy"
+        "tu étais": "you were (imp)",
+        "patient": "patient",
+        "tout": "all/everything",
+        "serait": "would be (cond)",
+        "plus": "more",
+        "facile": "easy"
       }
     },
     {
       "id": "m22-s23",
-      "spanish": "Si fueras amable, él hablaría contigo.",
+      "french": "Si tu étais gentil, il parlerait avec toi.",
       "english": "If you were kind, he would speak with you.",
       "wordMeanings": {
         "Si": "if",
-        "fueras": "went / were (imp subj)",
-        "amable": "kind",
-        "él": "he",
-        "hablaría": "would speak",
-        "contigo": "with you"
+        "tu étais": "you were (imp)",
+        "gentil": "kind",
+        "il parlerait": "he would speak (cond)",
+        "avec toi": "with you"
       }
     },
     {
       "id": "m22-s24",
-      "spanish": "Si pudiera, iría ahora.",
+      "french": "Si je pouvais, j'irais maintenant.",
       "english": "If I could, I would go now.",
       "wordMeanings": {
         "Si": "if",
-        "pudiera": "could (imp subj)",
-        "iría": "would go",
-        "ahora": "now"
+        "je pouvais": "I could (imp)",
+        "j'irais": "I would go (cond)",
+        "maintenant": "now"
       }
     },
     {
       "id": "m22-s25",
-      "spanish": "Si no pudiera, iría mañana.",
+      "french": "Si je ne pouvais pas, j'irais demain.",
       "english": "If I couldn't, I would go tomorrow.",
       "wordMeanings": {
         "Si": "if",
-        "no": "no / not",
-        "pudiera": "could (imp subj)",
-        "iría": "would go",
-        "mañana": "tomorrow / morning"
+        "je ne pouvais pas": "I could not (imp)",
+        "j'irais": "I would go (cond)",
+        "demain": "tomorrow"
       }
     },
     {
       "id": "m22-s26",
-      "spanish": "Si quisiera, hablaría.",
-      "english": "If I wanted, I would speak.",
+      "french": "Si je voulais, je parlerais.",
+      "english": "If I wanted to, I would speak.",
       "wordMeanings": {
         "Si": "if",
-        "quisiera": "I would like",
-        "hablaría": "would speak"
+        "je voulais": "I wanted (imp)",
+        "je parlerais": "I would speak (cond)"
       }
     },
     {
       "id": "m22-s27",
-      "spanish": "Si quisieras, abriría la puerta.",
+      "french": "Si tu voulais, j'ouvrirais la porte.",
       "english": "If you wanted, I would open the door.",
       "wordMeanings": {
         "Si": "if",
-        "quisieras": "you would like",
-        "abriría": "would open",
-        "la": "the / it (fem)",
-        "puerta": "door"
+        "tu voulais": "you wanted (imp)",
+        "j'ouvrirais": "I would open (cond)",
+        "la": "the (fem)",
+        "porte": "door"
       }
     },
     {
       "id": "m22-s28",
-      "spanish": "Si lloviera, me quedaría en casa.",
+      "french": "S'il pleuvait, je resterais à la maison.",
       "english": "If it rained, I would stay at home.",
       "wordMeanings": {
-        "Si": "if",
-        "lloviera": "rained (imp subj)",
-        "me": "me / to me",
-        "quedaría": "would stay",
-        "en": "in / on",
-        "casa": "house"
+        "S'il": "if it",
+        "pleuvait": "rained (imp)",
+        "je resterais": "I would stay (cond)",
+        "à": "at",
+        "la": "the (fem)",
+        "maison": "house"
       }
     },
     {
       "id": "m22-s29",
-      "spanish": "Si hiciera sol, iríamos al centro.",
-      "english": "If it were sunny, we would go downtown.",
+      "french": "S'il faisait beau, on irait au centre-ville.",
+      "english": "If the weather were nice, we would go downtown.",
       "wordMeanings": {
-        "Si": "if",
-        "hiciera": "did / made (imp subj)",
-        "sol": "sun",
-        "iríamos": "would go",
-        "al": "to the",
-        "centro": "downtown"
+        "S'il faisait beau": "If the weather were nice (imp)",
+        "on irait": "we would go (cond)",
+        "au": "to the",
+        "centre-ville": "downtown"
       }
     },
     {
       "id": "m22-s30",
-      "spanish": "Si vinieras conmigo, estaría contento.",
+      "french": "Si tu venais avec moi, je serais heureux.",
       "english": "If you came with me, I would be happy.",
       "wordMeanings": {
         "Si": "if",
-        "vinieras": "came (imp subj)",
-        "conmigo": "with me",
-        "estaría": "would be",
-        "contento": "happy"
+        "tu venais": "you came (imp)",
+        "avec moi": "with me",
+        "je serais": "I would be (cond)",
+        "heureux": "happy (masc)"
       }
     }
   ],
-  "grammarExplanation": "Hypothetical (unreal) conditionals describe imaginary situations. They use the imperfect subjunctive + conditional:\n\n'Si + imperfect subjunctive, conditional'\n\nImperfect subjunctive (-ra form):\n• -AR: hablara, hablaras, hablara, habláramos, hablaran\n• -ER/-IR: comiera, comieras, comiera, comiéramos, comieran\n\nConditional:\n• -ía, -ías, -ía, -íamos, -ían\n\n• Si tuviera tiempo, vendría = If I had time, I would come.",
+  "grammarExplanation": "MAJOR DIFFERENCE FROM SPANISH: While Spanish uses the IMPERFECT SUBJUNCTIVE for hypothetical conditionals (Si + imperfect subjunctive, conditional), French simply uses the NORMAL IMPARFAIT for the 'Si' clause.\n\nPattern: 'Si + Imparfait, Conditionnel'\n\n• Si tu avais de l'argent (If you had money), tu achèterais le livre (you would buy the book).\n\nImparfait (past continuous) is used in the 'If' clause. The conditional (-rais/-rait endings) is used in the 'then' clause.\n- Conditional usually takes the full infinitive and adds imperfect endings: parler → tu parlerais, finir → il finirait.\n- Irregular conditional stems: être → serais, avoir → aurais, aller → irais, venir → viendrais, faire → ferais, pouvoir → pourrais.",
   "vocabulary": {
-    "si": {
-      "mnemonic": "'See if' — si = if.",
-      "explanation": "No accent = if. 'Sí' with accent = yes."
+    "avais": {
+      "mnemonic": "Ava had it.",
+      "explanation": "Imparfait of 'avoir'. J'avais/tu avais."
     },
-    "tiempo": {
-      "mnemonic": "Think 'tempo' — time and rhythm.",
-      "explanation": "Means 'time' or 'weather'."
+    "étudiais": {
+      "mnemonic": "Studied.",
+      "explanation": "Imparfait of 'étudier'."
     },
-    "dinero": {
-      "mnemonic": "'Diner-o' — you need dinero at the diner.",
-      "explanation": "Means 'money'."
+    "travaillais": {
+      "mnemonic": "Traveled to work.",
+      "explanation": "Imparfait of 'travailler'."
     },
-    "libro": {
-      "mnemonic": "Think 'library' — full of libros (books)!",
-      "explanation": "Means 'book'. Masculine noun."
+    "mangeais": {
+      "mnemonic": "Mange.",
+      "explanation": "Imparfait of 'manger'."
     },
-    "mejor": {
-      "mnemonic": "'Major improvement' — better/best.",
-      "explanation": "Means 'better' or 'best'."
+    "buvais": {
+      "mnemonic": "Beverage.",
+      "explanation": "Imparfait of 'boire'."
     },
-    "agua": {
-      "mnemonic": "Think 'aqua' — water!",
-      "explanation": "Fem but uses 'el agua'."
+    "arrivais": {
+      "mnemonic": "Arrive.",
+      "explanation": "Imparfait of 'arriver'."
     },
-    "temprano": {
-      "mnemonic": "'Temporary morning' — early!",
-      "explanation": "Means 'early'."
+    "venais": {
+      "mnemonic": "Venue.",
+      "explanation": "Imparfait of 'venir'."
     },
-    "tarde": {
-      "mnemonic": "Think 'tardy' — late!",
-      "explanation": "Means 'late' or 'afternoon'."
+    "allais": {
+      "mnemonic": "Alley.",
+      "explanation": "Imparfait of 'aller'."
     },
-    "mañana": {
-      "mnemonic": "'Mañana, mañana' — putting off till tomorrow.",
-      "explanation": "Means 'tomorrow' or 'morning'."
+    "ouvrais": {
+      "mnemonic": "Overture.",
+      "explanation": "Imparfait of 'ouvrir'."
     },
-    "café": {
-      "mnemonic": "Same as English 'café' — coffee!",
-      "explanation": "Means 'coffee' or 'café'."
+    "fermais": {
+      "mnemonic": "Firmly closed.",
+      "explanation": "Imparfait of 'fermer'."
     },
-    "hoy": {
-      "mnemonic": "'Hoy! today!' — an exclamation for today.",
-      "explanation": "Means 'today'."
+    "écoutais": {
+      "mnemonic": "Acoustic.",
+      "explanation": "Imparfait of 'écouter'."
     },
-    "pan": {
-      "mnemonic": "Bread baked in a pan!",
-      "explanation": "Means 'bread'. Masculine noun."
+    "disais": {
+      "mnemonic": "Dictate.",
+      "explanation": "Imparfait of 'dire'."
     },
-    "la": {
-      "mnemonic": "'La lady' — her/it (feminine).",
-      "explanation": "Also 'the' (feminine)."
+    "achetais": {
+      "mnemonic": "Checklist.",
+      "explanation": "Imparfait of 'acheter'."
     },
-    "puerta": {
-      "mnemonic": "Think 'port/portal' — a door.",
-      "explanation": "Feminine noun meaning door/gate."
+    "étais": {
+      "mnemonic": "Ate is.",
+      "explanation": "Imparfait of 'être'."
     },
-    "ventana": {
-      "mnemonic": "'Vent-ana' — air vents in a window.",
-      "explanation": "From Latin 'ventus' (wind)."
+    "pouvais": {
+      "mnemonic": "Power / Could.",
+      "explanation": "Imparfait of 'pouvoir'."
     },
-    "lo": {
-      "mnemonic": "'Low him' — direct object him/it.",
-      "explanation": "Masculine direct object pronoun."
+    "voulais": {
+      "mnemonic": "Vouch want.",
+      "explanation": "Imparfait of 'vouloir'."
     },
-    "sería": {
-      "mnemonic": "'Series of what would be.'",
-      "explanation": "Conditional of 'ser'."
+    "pleuvait": {
+      "mnemonic": "Puddle.",
+      "explanation": "Imparfait of 'pleuvoir'."
     },
-    "los": {
-      "mnemonic": "'Los' = them (masculine plural).",
-      "explanation": "Direct object pronoun."
+    "faisait": {
+      "mnemonic": "Fast made.",
+      "explanation": "Imparfait of 'faire'. S'il faisait beau (If it were nice weather)."
     },
-    "las": {
-      "mnemonic": "'Las ladies' — them (feminine).",
-      "explanation": "Direct object pronoun."
+    "serais": {
+      "mnemonic": "Serais -> Ser- (être in conditional).",
+      "explanation": "Conditional of 'être'."
     },
-    "aquí": {
-      "mnemonic": "Sounds like 'a key' — 'The key is right here!'",
-      "explanation": "Means 'here'. More precise than 'acá'."
+    "irais": {
+      "mnemonic": "Ir- (aller in conditional).",
+      "explanation": "Conditional of 'aller'."
     },
-    "fácil": {
-      "mnemonic": "Think 'facile' — easily done.",
-      "explanation": "Means 'easy'. Same for masc/fem."
+    "viendrais": {
+      "mnemonic": "Viend- (venir in conditional).",
+      "explanation": "Conditional of 'venir'."
     },
-    "él": {
-      "mnemonic": "Like 'el' in 'elevator' — he goes up!",
-      "explanation": "Subject pronoun 'he'. Accent distinguishes from 'el' (the)."
+    "pourrais": {
+      "mnemonic": "Pour- (pouvoir in conditional).",
+      "explanation": "Conditional of 'pouvoir'."
     },
-    "iría": {
-      "mnemonic": "'I'd go' — I would go.",
-      "explanation": "Conditional of 'ir'."
+    "ferais": {
+      "mnemonic": "Fer- (faire in conditional).",
+      "explanation": "Conditional of 'faire'."
     },
-    "casa": {
-      "mnemonic": "Think 'casino' — a big house of games.",
-      "explanation": "Feminine noun. 'En casa' = at home."
+    "on": {
+      "mnemonic": "One.",
+      "explanation": "Informal pronoun means 'we' but conjugated like 'il'."
     },
-    "sol": {
-      "mnemonic": "Think 'solar' — sun!",
-      "explanation": "Means 'sun'."
+    "tout": {
+      "mnemonic": "Total.",
+      "explanation": "Means 'everything' or 'all'."
     },
-    "centro": {
-      "mnemonic": "Same as English 'center' — downtown!",
-      "explanation": "Also means 'center'. 'Centro' = downtown area."
+    "facile": {
+      "mnemonic": "Facile.",
+      "explanation": "Means 'easy'."
+    },
+    "gentil": {
+      "mnemonic": "Gentle.",
+      "explanation": "Means 'kind'."
     }
   }
 }

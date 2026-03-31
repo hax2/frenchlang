@@ -1,431 +1,459 @@
 {
   "id": "module-24",
-  "title": "Chapter 24: Duration (Llevar + Gerund)",
+  "title": "Chapter 24: Duration (Depuis)",
   "description": "Express how long you've been doing something.",
   "level": "Beginner",
   "sentences": [
     {
       "id": "m24-s1",
-      "spanish": "Llevo una hora estudiando.",
+      "french": "J'étudie depuis une heure.",
       "english": "I’ve been studying for one hour.",
       "wordMeanings": {
-        "Llevo": "I carry / take",
-        "una": "a (fem)",
-        "hora": "hour",
-        "estudiando": "studying"
+        "J'étudie": "I study",
+        "depuis": "since / for",
+        "une": "a (fem)",
+        "heure": "hour"
       }
     },
     {
       "id": "m24-s2",
-      "spanish": "Llevas una hora estudiando.",
+      "french": "Tu étudies depuis une heure.",
       "english": "You’ve been studying for one hour.",
       "wordMeanings": {
-        "Llevas": "you carry / take",
-        "una": "a (fem)",
-        "hora": "hour",
-        "estudiando": "studying"
+        "Tu": "you",
+        "étudies": "study",
+        "depuis": "since / for",
+        "une": "a (fem)",
+        "heure": "hour"
       }
     },
     {
       "id": "m24-s3",
-      "spanish": "Lleva una hora estudiando.",
-      "english": "He/She has been studying for one hour.",
+      "french": "Il étudie depuis une heure.",
+      "english": "He has been studying for one hour.",
       "wordMeanings": {
-        "Lleva": "carries / takes",
-        "una": "a (fem)",
-        "hora": "hour",
-        "estudiando": "studying"
+        "Il": "he",
+        "étudie": "studies",
+        "depuis": "since / for",
+        "une": "a (fem)",
+        "heure": "hour"
       }
     },
     {
       "id": "m24-s4",
-      "spanish": "Llevamos una hora estudiando.",
+      "french": "On étudie depuis une heure.",
       "english": "We’ve been studying for one hour.",
       "wordMeanings": {
-        "Llevamos": "we carry / take",
-        "una": "a (fem)",
-        "hora": "hour",
-        "estudiando": "studying"
+        "On": "we/one",
+        "étudie": "studies",
+        "depuis": "since / for",
+        "une": "a (fem)",
+        "heure": "hour"
       }
     },
     {
       "id": "m24-s5",
-      "spanish": "Llevo dos horas trabajando.",
+      "french": "Je travaille depuis deux heures.",
       "english": "I’ve been working for two hours.",
       "wordMeanings": {
-        "Llevo": "I carry / take",
-        "dos": "two",
-        "horas": "hours",
-        "trabajando": "working"
+        "Je": "I",
+        "travaille": "work",
+        "depuis": "since / for",
+        "deux": "two",
+        "heures": "hours"
       }
     },
     {
       "id": "m24-s6",
-      "spanish": "Llevas dos horas trabajando.",
+      "french": "Tu travailles depuis deux heures.",
       "english": "You’ve been working for two hours.",
       "wordMeanings": {
-        "Llevas": "you carry / take",
-        "dos": "two",
-        "horas": "hours",
-        "trabajando": "working"
+        "Tu": "you",
+        "travailles": "work",
+        "depuis": "since / for",
+        "deux": "two",
+        "heures": "hours"
       }
     },
     {
       "id": "m24-s7",
-      "spanish": "Lleva dos horas trabajando.",
-      "english": "He/She has been working for two hours.",
+      "french": "Elle travaille depuis deux heures.",
+      "english": "She has been working for two hours.",
       "wordMeanings": {
-        "Lleva": "carries / takes",
-        "dos": "two",
-        "horas": "hours",
-        "trabajando": "working"
+        "Elle": "she",
+        "travaille": "works",
+        "depuis": "since / for",
+        "deux": "two",
+        "heures": "hours"
       }
     },
     {
       "id": "m24-s8",
-      "spanish": "Llevamos dos horas trabajando.",
-      "english": "We’ve been working for two hours.",
+      "french": "Nous travaillons depuis deux heures.",
+      "english": "We’ve been working for two hours. (formal)",
       "wordMeanings": {
-        "Llevamos": "we carry / take",
-        "dos": "two",
-        "horas": "hours",
-        "trabajando": "working"
+        "Nous": "we",
+        "travaillons": "work",
+        "depuis": "since / for",
+        "deux": "two",
+        "heures": "hours"
       }
     },
     {
       "id": "m24-s9",
-      "spanish": "Llevo media hora esperando.",
+      "french": "J'attends depuis une demi-heure.",
       "english": "I’ve been waiting for half an hour.",
       "wordMeanings": {
-        "Llevo": "I carry / take",
-        "media": "half",
-        "hora": "hour",
-        "esperando": "waiting"
+        "J'attends": "I wait",
+        "depuis": "since / for",
+        "une demi-heure": "a half-hour"
       }
     },
     {
       "id": "m24-s10",
-      "spanish": "Llevas media hora esperando.",
+      "french": "Tu attends depuis une demi-heure.",
       "english": "You’ve been waiting for half an hour.",
       "wordMeanings": {
-        "Llevas": "you carry / take",
-        "media": "half",
-        "hora": "hour",
-        "esperando": "waiting"
+        "Tu": "you",
+        "attends": "wait",
+        "depuis": "since / for",
+        "une demi-heure": "a half-hour"
       }
     },
     {
       "id": "m24-s11",
-      "spanish": "Lleva media hora esperando.",
-      "english": "He/She has been waiting for half an hour.",
+      "french": "Il attend depuis une demi-heure.",
+      "english": "He has been waiting for half an hour.",
       "wordMeanings": {
-        "Lleva": "carries / takes",
-        "media": "half",
-        "hora": "hour",
-        "esperando": "waiting"
+        "Il": "he",
+        "attend": "waits",
+        "depuis": "since / for",
+        "une demi-heure": "a half-hour"
       }
     },
     {
       "id": "m24-s12",
-      "spanish": "Llevo mucho tiempo viviendo aquí.",
+      "french": "Je vis ici depuis longtemps.",
       "english": "I’ve been living here for a long time.",
       "wordMeanings": {
-        "Llevo": "I carry / take",
-        "mucho": "much / a lot",
-        "tiempo": "time",
-        "viviendo": "living",
-        "aquí": "here"
+        "Je": "I",
+        "vis": "live",
+        "ici": "here",
+        "depuis": "since / for",
+        "longtemps": "long time"
       }
     },
     {
       "id": "m24-s13",
-      "spanish": "Llevas mucho tiempo viviendo aquí.",
+      "french": "Tu vis ici depuis longtemps.",
       "english": "You’ve been living here for a long time.",
       "wordMeanings": {
-        "Llevas": "you carry / take",
-        "mucho": "much / a lot",
-        "tiempo": "time",
-        "viviendo": "living",
-        "aquí": "here"
+        "Tu": "you",
+        "vis": "live",
+        "ici": "here",
+        "depuis": "since / for",
+        "longtemps": "long time"
       }
     },
     {
       "id": "m24-s14",
-      "spanish": "Lleva mucho tiempo viviendo aquí.",
-      "english": "He/She has been living here for a long time.",
+      "french": "Il vit ici depuis longtemps.",
+      "english": "He has been living here for a long time.",
       "wordMeanings": {
-        "Lleva": "carries / takes",
-        "mucho": "much / a lot",
-        "tiempo": "time",
-        "viviendo": "living",
-        "aquí": "here"
+        "Il": "he",
+        "vit": "lives",
+        "ici": "here",
+        "depuis": "since / for",
+        "longtemps": "long time"
       }
     },
     {
       "id": "m24-s15",
-      "spanish": "Llevo veinte minutos hablando.",
+      "french": "Je parle depuis vingt minutes.",
       "english": "I’ve been talking for twenty minutes.",
       "wordMeanings": {
-        "Llevo": "I carry / take",
-        "veinte": "twenty",
-        "minutos": "minutes",
-        "hablando": "speaking"
+        "Je": "I",
+        "parle": "speak",
+        "depuis": "since / for",
+        "vingt": "twenty",
+        "minutes": "minutes"
       }
     },
     {
       "id": "m24-s16",
-      "spanish": "Llevas veinte minutos hablando.",
+      "french": "Tu parles depuis vingt minutes.",
       "english": "You’ve been talking for twenty minutes.",
       "wordMeanings": {
-        "Llevas": "you carry / take",
-        "veinte": "twenty",
-        "minutos": "minutes",
-        "hablando": "speaking"
+        "Tu": "you",
+        "parles": "speak",
+        "depuis": "since / for",
+        "vingt": "twenty",
+        "minutes": "minutes"
       }
     },
     {
       "id": "m24-s17",
-      "spanish": "Lleva veinte minutos hablando.",
-      "english": "He/She has been talking for twenty minutes.",
+      "french": "Elle parle depuis vingt minutes.",
+      "english": "She has been talking for twenty minutes.",
       "wordMeanings": {
-        "Lleva": "carries / takes",
-        "veinte": "twenty",
-        "minutos": "minutes",
-        "hablando": "speaking"
+        "Elle": "she",
+        "parle": "speaks",
+        "depuis": "since / for",
+        "vingt": "twenty",
+        "minutes": "minutes"
       }
     },
     {
       "id": "m24-s18",
-      "spanish": "Llevo todo el día pensando en eso.",
-      "english": "I’ve been thinking about that all day.",
+      "french": "J'y pense depuis toute la journée.",
+      "english": "I’ve been thinking about it all day.",
       "wordMeanings": {
-        "Llevo": "I carry / take",
-        "todo": "all",
-        "el": "the",
-        "día": "day",
-        "pensando": "thinking",
-        "en": "in / on",
-        "eso": "that"
+        "J'y pense": "I think about it",
+        "depuis": "since / for",
+        "toute": "all/whole",
+        "la": "the",
+        "journée": "day"
       }
     },
     {
       "id": "m24-s19",
-      "spanish": "Llevas todo el día mirando el teléfono.",
-      "english": "You’ve been looking at the phone all day.",
+      "french": "Tu regardes ton téléphone depuis toute la journée.",
+      "english": "You’ve been looking at your phone all day.",
       "wordMeanings": {
-        "Llevas": "you carry / take",
-        "todo": "all",
-        "el": "the",
-        "día": "day",
-        "mirando": "looking",
-        "teléfono": "telephone"
+        "Tu": "you",
+        "regardes": "look at",
+        "ton": "your",
+        "téléphone": "phone",
+        "depuis": "since / for",
+        "toute": "all/whole",
+        "la": "the",
+        "journée": "day"
       }
     },
     {
       "id": "m24-s20",
-      "spanish": "Lleva todo el día escuchando música.",
-      "english": "He/She has been listening to music all day.",
+      "french": "Il écoute de la musique depuis toute la journée.",
+      "english": "He has been listening to music all day.",
       "wordMeanings": {
-        "Lleva": "carries / takes",
-        "todo": "all",
-        "el": "the",
-        "día": "day",
-        "escuchando": "listening",
-        "música": "music"
+        "Il": "he",
+        "écoute": "listens to",
+        "de la": "some",
+        "musique": "music",
+        "depuis": "since / for",
+        "toute": "all/whole",
+        "la": "the",
+        "journée": "day"
       }
     },
     {
       "id": "m24-s21",
-      "spanish": "Llevo una semana buscando trabajo.",
-      "english": "I’ve been looking for work for one week.",
+      "french": "Je cherche du travail depuis une semaine.",
+      "english": "I’ve been looking for work for a week.",
       "wordMeanings": {
-        "Llevo": "I carry / take",
-        "una": "a (fem)",
-        "semana": "week",
-        "buscando": "looking for",
-        "trabajo": "I work / job"
+        "Je": "I",
+        "cherche": "look for",
+        "du": "some",
+        "travail": "work/job",
+        "depuis": "since / for",
+        "une": "a (fem)",
+        "semaine": "week"
       }
     },
     {
       "id": "m24-s22",
-      "spanish": "Llevas una semana buscando el libro.",
-      "english": "You’ve been looking for the book for one week.",
+      "french": "Tu cherches le livre depuis une semaine.",
+      "english": "You’ve been looking for the book for a week.",
       "wordMeanings": {
-        "Llevas": "you carry / take",
-        "una": "a (fem)",
-        "semana": "week",
-        "buscando": "looking for",
-        "el": "the",
-        "libro": "book"
+        "Tu": "you",
+        "cherches": "look for",
+        "le": "the (masc)",
+        "livre": "book",
+        "depuis": "since / for",
+        "une": "a (fem)",
+        "semaine": "week"
       }
     },
     {
       "id": "m24-s23",
-      "spanish": "Lleva una semana buscando casa.",
-      "english": "He/She has been looking for a house for one week.",
+      "french": "On cherche une maison depuis une semaine.",
+      "english": "We’ve been looking for a house for a week.",
       "wordMeanings": {
-        "Lleva": "carries / takes",
-        "una": "a (fem)",
-        "semana": "week",
-        "buscando": "looking for",
-        "casa": "house"
+        "On": "we/one",
+        "cherche": "looks for",
+        "une": "a (fem)",
+        "maison": "house",
+        "depuis": "since / for",
+        "une": "a (fem)",
+        "semaine": "week"
       }
     },
     {
       "id": "m24-s24",
-      "spanish": "Llevo una hora leyéndolo.",
+      "french": "Je le lis depuis une heure.",
       "english": "I’ve been reading it for one hour.",
       "wordMeanings": {
-        "Llevo": "I carry / take",
-        "una": "a (fem)",
-        "hora": "hour",
-        "leyéndolo": "reading it"
+        "Je": "I",
+        "le lis": "read it",
+        "depuis": "since / for",
+        "une": "a",
+        "heure": "hour"
       }
     },
     {
       "id": "m24-s25",
-      "spanish": "Llevo una hora escribiéndola.",
+      "french": "Je l'écris depuis une heure.",
       "english": "I’ve been writing it for one hour.",
       "wordMeanings": {
-        "Llevo": "I carry / take",
-        "una": "a (fem)",
-        "hora": "hour",
-        "escribiéndola": "writing it"
+        "Je": "I",
+        "l'écris": "write it",
+        "depuis": "since / for",
+        "une": "a",
+        "heure": "hour"
       }
     },
     {
       "id": "m24-s26",
-      "spanish": "Lleva una hora dándoselo.",
-      "english": "He/She has been giving it to him/her for one hour.",
+      "french": "Il le lui donne depuis une heure.",
+      "english": "He has been giving it to him/her for one hour.",
       "wordMeanings": {
-        "Lleva": "carries / takes",
-        "una": "a (fem)",
-        "hora": "hour",
-        "dándoselo": "giving it to him/her"
+        "Il": "he",
+        "le lui donne": "it to him/her gives",
+        "depuis": "since / for",
+        "une": "a",
+        "heure": "hour"
       }
     },
     {
       "id": "m24-s27",
-      "spanish": "¿Llevas mucho tiempo esperando?",
+      "french": "Attends-tu depuis longtemps ?",
       "english": "Have you been waiting a long time?",
       "wordMeanings": {
-        "Llevas": "you carry / take",
-        "mucho": "much / a lot",
-        "tiempo": "time",
-        "esperando": "waiting"
+        "Attends-tu": "do you wait",
+        "depuis": "since / for",
+        "longtemps": "long time"
       }
     },
     {
       "id": "m24-s28",
-      "spanish": "Sí, llevo mucho tiempo esperando.",
+      "french": "Oui, j'attends depuis longtemps.",
       "english": "Yes, I’ve been waiting a long time.",
       "wordMeanings": {
-        "Sí": "yes",
-        "llevo": "I carry / take",
-        "mucho": "much / a lot",
-        "tiempo": "time",
-        "esperando": "waiting"
+        "Oui": "yes",
+        "j'attends": "I wait",
+        "depuis": "since / for",
+        "longtemps": "long time"
       }
     },
     {
       "id": "m24-s29",
-      "spanish": "¿Llevas mucho tiempo trabajando aquí?",
+      "french": "Travailles-tu ici depuis longtemps ?",
       "english": "Have you been working here a long time?",
       "wordMeanings": {
-        "Llevas": "you carry / take",
-        "mucho": "much / a lot",
-        "tiempo": "time",
-        "trabajando": "working",
-        "aquí": "here"
+        "Travailles-tu": "do you work",
+        "ici": "here",
+        "depuis": "since / for",
+        "longtemps": "long time"
       }
     },
     {
       "id": "m24-s30",
-      "spanish": "No, no llevo mucho tiempo trabajando aquí.",
+      "french": "Non, je ne travaille pas ici depuis longtemps.",
       "english": "No, I haven’t been working here long.",
       "wordMeanings": {
-        "No": "no / not",
-        "no": "no / not",
-        "llevo": "I carry / take",
-        "mucho": "much / a lot",
-        "tiempo": "time",
-        "trabajando": "working",
-        "aquí": "here"
+        "Non": "no",
+        "je ne travaille pas": "I do not work",
+        "ici": "here",
+        "depuis": "since / for",
+        "longtemps": "long time"
       }
     },
     {
       "id": "m24-s31",
-      "spanish": "Llevo años aprendiendo español.",
-      "english": "I’ve been learning Spanish for years.",
+      "french": "J'apprends le français depuis des années.",
+      "english": "I’ve been learning French for years.",
       "wordMeanings": {
-        "Llevo": "I carry / take",
-        "años": "years",
-        "aprendiendo": "learning",
-        "español": "Spanish"
+        "J'apprends": "I learn",
+        "le": "the",
+        "français": "French",
+        "depuis": "since / for",
+        "des": "some",
+        "années": "years"
       }
     }
   ],
-  "grammarExplanation": "'Llevar + time expression + gerund' expresses how long an action has been going on:\n\n• Llevo una hora estudiando = I've been studying for one hour\n• Llevas dos horas trabajando = You've been working for two hours\n\nConjugate 'llevar':\n• Llevo, Llevas, Lleva, Llevamos, Llevan\n\nGerund (-ando/-iendo): estudiando, trabajando, esperando, viviendo, hablando.\n\nThis structure has no direct English equivalent — it combines 'have been' + duration elegantly.",
+  "grammarExplanation": "MAJOR DIFFERENCE FROM SPANISH: While Spanish uses 'Llevar + gerund' (Llevo una hora estudiando), French simply uses the present tense + 'depuis' (since/for).\n\n• 'J'étudie depuis une heure' literally translates to 'I study since one hour.'\n• It means the action started in the past AND is still continuing now.\n\nStructure:\n[Present Tense Verb] + 'depuis' + [Duration/Time]\n- Je travaille depuis trois jours = I have been working for three days.\n- J'attends depuis longtemps = I have been waiting for a long time.",
   "vocabulary": {
-    "llevo": {
-      "mnemonic": "'I lever time' — I have been...",
-      "explanation": "First person of 'llevar'."
+    "depuis": {
+      "mnemonic": "Depuis — Since/For.",
+      "explanation": "Extremely common. Used with present tense to mean 'have been doing X for Y time'."
     },
-    "lleva": {
-      "mnemonic": "'Lever-a' — he/she has been...",
-      "explanation": "Third person of 'llevar'."
+    "j'étudie": {
+      "mnemonic": "Study.",
+      "explanation": "Present tense of 'étudier'."
     },
-    "llevamos": {
-      "mnemonic": "'Lever-amos' — we have been...",
-      "explanation": "First person plural of 'llevar'."
+    "travailler": {
+      "mnemonic": "Travel to work.",
+      "explanation": "Infinitive. 'Je travaille' (I work)."
     },
-    "mucho": {
-      "mnemonic": "Think 'much-o' — much/a lot!",
-      "explanation": "Means 'much/a lot'. Fem: mucha."
+    "attends": {
+      "mnemonic": "Attend/Wait.",
+      "explanation": "Present tense of 'attendre'. J'attends."
     },
-    "tiempo": {
-      "mnemonic": "Think 'tempo' — time and rhythm.",
-      "explanation": "Means 'time' or 'weather'."
+    "vis": {
+      "mnemonic": "Vivid.",
+      "explanation": "Present tense of 'vivre'. Je vis, tu vis, il vit."
     },
-    "aquí": {
-      "mnemonic": "Sounds like 'a key' — 'The key is right here!'",
-      "explanation": "Means 'here'. More precise than 'acá'."
+    "parle": {
+      "mnemonic": "Parlor.",
+      "explanation": "Present tense of 'parler'."
     },
-    "día": {
-      "mnemonic": "Think 'diary' — each day.",
-      "explanation": "Masculine despite ending in -a."
+    "cherche": {
+      "mnemonic": "Search.",
+      "explanation": "Present tense of 'chercher' (to look for)."
     },
-    "teléfono": {
-      "mnemonic": "Nearly identical to 'telephone' — cognate!",
-      "explanation": "Masculine noun."
+    "lis": {
+      "mnemonic": "List / Read.",
+      "explanation": "Present tense of 'lire' (to read). Je lis, tu lis, il lit."
     },
-    "música": {
-      "mnemonic": "Nearly identical to 'music' — cognate!",
-      "explanation": "Feminine noun."
+    "écris": {
+      "mnemonic": "Scribe / Write.",
+      "explanation": "Present tense of 'écrire' (to write). J'écris, tu écris, il écrit."
     },
-    "semana": {
-      "mnemonic": "Think 'semester has weeks'.",
-      "explanation": "Means 'week'. Feminine noun."
+    "apprends": {
+      "mnemonic": "Apprehend knowledge.",
+      "explanation": "Present tense of 'apprendre' (to learn)."
     },
-    "trabajo": {
-      "mnemonic": "Think 'travel to work'.",
-      "explanation": "Means 'work/job'. Also 'I work'."
+    "heure": {
+      "mnemonic": "Hour.",
+      "explanation": "Hour (fem)."
     },
-    "libro": {
-      "mnemonic": "Think 'library' — full of libros (books)!",
-      "explanation": "Means 'book'. Masculine noun."
+    "une demi-heure": {
+      "mnemonic": "A demi-hour.",
+      "explanation": "Half an hour."
     },
-    "casa": {
-      "mnemonic": "Think 'casino' — a big house of games.",
-      "explanation": "Feminine noun. 'En casa' = at home."
+    "longtemps": {
+      "mnemonic": "Long time / long temps.",
+      "explanation": "Means 'a long time'."
     },
-    "años": {
-      "mnemonic": "Think 'annual' → años = years.",
-      "explanation": "'Tener X años' = to be X years old."
+    "journée": {
+      "mnemonic": "Journey takes a whole day.",
+      "explanation": "The duration of a day (la journée) vs the unit of a day (le jour)."
     },
-    "español": {
-      "mnemonic": "'Espagne/Spain' + '-ol' — the Spanish language.",
-      "explanation": "Both the language and nationality."
+    "semaine": {
+      "mnemonic": "Semester has weeks.",
+      "explanation": "Week (fem)."
+    },
+    "années": {
+      "mnemonic": "Annual.",
+      "explanation": "Years (duration — les années)."
+    },
+    "français": {
+      "mnemonic": "French.",
+      "explanation": "The French language."
+    },
+    "toute": {
+      "mnemonic": "Total.",
+      "explanation": "Feminine form of 'tout' (all). 'Toute la journée' (all day)."
     }
   }
 }

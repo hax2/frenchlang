@@ -1,404 +1,459 @@
 {
   "id": "module-23",
-  "title": "Chapter 23: Done Actions (Acabar de)",
+  "title": "Chapter 23: Done Actions (Venir de)",
   "description": "Say what you just finished doing.",
   "level": "Beginner",
   "sentences": [
     {
       "id": "m23-s1",
-      "spanish": "Acabo de llegar.",
+      "french": "Je viens d'arriver.",
       "english": "I just arrived.",
       "wordMeanings": {
-        "Acabo": "I just finished",
-        "de": "of / from",
-        "llegar": "to arrive"
+        "Je": "I",
+        "viens": "come",
+        "d'": "from/of",
+        "arriver": "to arrive"
       }
     },
     {
       "id": "m23-s2",
-      "spanish": "Acabas de llegar.",
+      "french": "Tu viens d'arriver.",
       "english": "You just arrived.",
       "wordMeanings": {
-        "Acabas": "you just finished",
-        "de": "of / from",
-        "llegar": "to arrive"
+        "Tu": "you",
+        "viens": "come",
+        "d'": "from/of",
+        "arriver": "to arrive"
       }
     },
     {
       "id": "m23-s3",
-      "spanish": "Acaba de llegar.",
-      "english": "He/She just arrived.",
+      "french": "Il vient d'arriver.",
+      "english": "He just arrived.",
       "wordMeanings": {
-        "Acaba": "just finished",
-        "de": "of / from",
-        "llegar": "to arrive"
+        "Il": "he",
+        "vient": "comes",
+        "d'": "from/of",
+        "arriver": "to arrive"
       }
     },
     {
       "id": "m23-s4",
-      "spanish": "Acabamos de llegar.",
+      "french": "On vient d'arriver.",
       "english": "We just arrived.",
       "wordMeanings": {
-        "Acabamos": "we just finished",
-        "de": "of / from",
-        "llegar": "to arrive"
+        "On": "one/we",
+        "vient": "comes",
+        "d'": "from/of",
+        "arriver": "to arrive"
       }
     },
     {
       "id": "m23-s5",
-      "spanish": "Acabo de comer.",
+      "french": "Je viens de manger.",
       "english": "I just ate.",
       "wordMeanings": {
-        "Acabo": "I just finished",
-        "de": "of / from",
-        "comer": "to eat"
+        "Je": "I",
+        "viens": "come",
+        "de": "from/of",
+        "manger": "to eat"
       }
     },
     {
       "id": "m23-s6",
-      "spanish": "Acabas de comer.",
+      "french": "Tu viens de manger.",
       "english": "You just ate.",
       "wordMeanings": {
-        "Acabas": "you just finished",
-        "de": "of / from",
-        "comer": "to eat"
+        "Tu": "you",
+        "viens": "come",
+        "de": "from/of",
+        "manger": "to eat"
       }
     },
     {
       "id": "m23-s7",
-      "spanish": "Acaba de comer.",
-      "english": "He/She just ate.",
+      "french": "Elle vient de manger.",
+      "english": "She just ate.",
       "wordMeanings": {
-        "Acaba": "just finished",
-        "de": "of / from",
-        "comer": "to eat"
+        "Elle": "she",
+        "vient": "comes",
+        "de": "from/of",
+        "manger": "to eat"
       }
     },
     {
       "id": "m23-s8",
-      "spanish": "Acabamos de comer.",
-      "english": "We just ate.",
+      "french": "Nous venons de manger.",
+      "english": "We just ate. (formal)",
       "wordMeanings": {
-        "Acabamos": "we just finished",
-        "de": "of / from",
-        "comer": "to eat"
+        "Nous": "we",
+        "venons": "come",
+        "de": "from/of",
+        "manger": "to eat"
       }
     },
     {
       "id": "m23-s9",
-      "spanish": "Acabo de beber agua.",
+      "french": "Je viens de boire de l'eau.",
       "english": "I just drank water.",
       "wordMeanings": {
-        "Acabo": "I just finished",
-        "de": "of / from",
-        "beber": "to drink",
-        "agua": "water"
+        "Je": "I",
+        "viens": "come",
+        "de": "from/of",
+        "boire": "to drink",
+        "de l'": "some",
+        "eau": "water"
       }
     },
     {
       "id": "m23-s10",
-      "spanish": "Acabas de abrir la puerta.",
+      "french": "Tu viens d'ouvrir la porte.",
       "english": "You just opened the door.",
       "wordMeanings": {
-        "Acabas": "you just finished",
-        "de": "of / from",
-        "abrir": "to open",
-        "la": "the / it (fem)",
-        "puerta": "door"
+        "Tu": "you",
+        "viens": "come",
+        "d'": "from/of",
+        "ouvrir": "to open",
+        "la": "the (fem)",
+        "porte": "door"
       }
     },
     {
       "id": "m23-s11",
-      "spanish": "Acaba de cerrar la ventana.",
-      "english": "He/She just closed the window.",
+      "french": "Il vient de fermer la fenêtre.",
+      "english": "He just closed the window.",
       "wordMeanings": {
-        "Acaba": "just finished",
-        "de": "of / from",
-        "cerrar": "to close",
-        "la": "the / it (fem)",
-        "ventana": "window"
+        "Il": "he",
+        "vient": "comes",
+        "de": "from/of",
+        "fermer": "to close",
+        "la": "the (fem)",
+        "fenêtre": "window"
       }
     },
     {
       "id": "m23-s12",
-      "spanish": "Acabamos de comprar pan.",
+      "french": "On vient d'acheter du pain.",
       "english": "We just bought bread.",
       "wordMeanings": {
-        "Acabamos": "we just finished",
-        "de": "of / from",
-        "comprar": "to buy",
-        "pan": "bread"
+        "On": "one/we",
+        "vient": "comes",
+        "d'": "from/of",
+        "acheter": "to buy",
+        "du": "some",
+        "pain": "bread"
       }
     },
     {
       "id": "m23-s13",
-      "spanish": "Acabo de comprar el libro.",
+      "french": "Je viens d'acheter le livre.",
       "english": "I just bought the book.",
       "wordMeanings": {
-        "Acabo": "I just finished",
-        "de": "of / from",
-        "comprar": "to buy",
-        "el": "the",
-        "libro": "book"
+        "Je": "I",
+        "viens": "come",
+        "d'": "from/of",
+        "acheter": "to buy",
+        "le": "the",
+        "livre": "book"
       }
     },
     {
       "id": "m23-s14",
-      "spanish": "Lo acabo de comprar.",
+      "french": "Je viens de l'acheter.",
       "english": "I just bought it.",
       "wordMeanings": {
-        "Lo": "it / him",
-        "acabo": "I just finished",
-        "de": "of / from",
-        "comprar": "to buy"
+        "Je": "I",
+        "viens": "come",
+        "de": "from/of",
+        "l'": "it",
+        "acheter": "to buy"
       }
     },
     {
       "id": "m23-s15",
-      "spanish": "Acabo de comprar la carta.",
+      "french": "Je viens d'acheter la lettre.",
       "english": "I just bought the letter.",
       "wordMeanings": {
-        "Acabo": "I just finished",
-        "de": "of / from",
-        "comprar": "to buy",
-        "la": "the / it (fem)",
-        "carta": "letter"
+        "Je": "I",
+        "viens": "come",
+        "d'": "from/of",
+        "acheter": "to buy",
+        "la": "the (fem)",
+        "lettre": "letter"
       }
     },
     {
       "id": "m23-s16",
-      "spanish": "La acabo de comprar.",
+      "french": "Je viens de l'acheter.",
       "english": "I just bought it.",
       "wordMeanings": {
-        "La": "the / it (fem)",
-        "acabo": "I just finished",
-        "de": "of / from",
-        "comprar": "to buy"
+        "Je": "I",
+        "viens": "come",
+        "de": "from/of",
+        "l'": "it (fem)",
+        "acheter": "to buy"
       }
     },
     {
       "id": "m23-s17",
-      "spanish": "Acabo de ver a Ana.",
+      "french": "Je viens de voir Ana.",
       "english": "I just saw Ana.",
       "wordMeanings": {
-        "Acabo": "I just finished",
-        "de": "of / from",
-        "ver": "to see",
-        "a": "to",
+        "Je": "I",
+        "viens": "come",
+        "de": "from/of",
+        "voir": "to see",
         "Ana": "Ana"
       }
     },
     {
       "id": "m23-s18",
-      "spanish": "La acabo de ver.",
+      "french": "Je viens de la voir.",
       "english": "I just saw her.",
       "wordMeanings": {
-        "La": "the / it (fem)",
-        "acabo": "I just finished",
-        "de": "of / from",
-        "ver": "to see"
+        "Je": "I",
+        "viens": "come",
+        "de": "from/of",
+        "la": "her",
+        "voir": "to see"
       }
     },
     {
       "id": "m23-s19",
-      "spanish": "Acabo de llamar a Luis.",
+      "french": "Je viens d'appeler Luis.",
       "english": "I just called Luis.",
       "wordMeanings": {
-        "Acabo": "I just finished",
-        "de": "of / from",
-        "llamar": "to call",
-        "a": "to",
+        "Je": "I",
+        "viens": "come",
+        "d'": "from/of",
+        "appeler": "to call",
         "Luis": "Luis"
       }
     },
     {
       "id": "m23-s20",
-      "spanish": "Lo acabo de llamar.",
+      "french": "Je viens de l'appeler.",
       "english": "I just called him.",
       "wordMeanings": {
-        "Lo": "it / him",
-        "acabo": "I just finished",
-        "de": "of / from",
-        "llamar": "to call"
+        "Je": "I",
+        "viens": "come",
+        "de": "from/of",
+        "l'": "him",
+        "appeler": "to call"
       }
     },
     {
       "id": "m23-s21",
-      "spanish": "Acabo de darle el libro a Ana.",
-      "english": "I just gave Ana the book.",
+      "french": "Je viens de donner le livre à Ana.",
+      "english": "I just gave the book to Ana.",
       "wordMeanings": {
-        "Acabo": "I just finished",
-        "de": "of / from",
-        "darle": "to give him/her",
-        "el": "the",
-        "libro": "book",
-        "a": "to",
+        "Je": "I",
+        "viens": "come",
+        "de": "from/of",
+        "donner": "to give",
+        "le": "the",
+        "livre": "book",
+        "à": "to",
         "Ana": "Ana"
       }
     },
     {
       "id": "m23-s22",
-      "spanish": "Se lo acabo de dar.",
+      "french": "Je viens de le lui donner.",
       "english": "I just gave it to her.",
       "wordMeanings": {
-        "Se": "himself / herself / themselves",
-        "lo": "it / him",
-        "acabo": "I just finished",
-        "de": "of / from",
-        "dar": "to give"
+        "Je": "I",
+        "viens": "come",
+        "de": "from/of",
+        "le": "it (masc)",
+        "lui": "to her",
+        "donner": "to give"
       }
     },
     {
       "id": "m23-s23",
-      "spanish": "Acabo de darle la carta a Luis.",
-      "english": "I just gave Luis the letter.",
+      "french": "Je viens de donner la lettre à Luis.",
+      "english": "I just gave the letter to Luis.",
       "wordMeanings": {
-        "Acabo": "I just finished",
-        "de": "of / from",
-        "darle": "to give him/her",
-        "la": "the / it (fem)",
-        "carta": "letter",
-        "a": "to",
+        "Je": "I",
+        "viens": "come",
+        "de": "from/of",
+        "donner": "to give",
+        "la": "the (fem)",
+        "lettre": "letter",
+        "à": "to",
         "Luis": "Luis"
       }
     },
     {
       "id": "m23-s24",
-      "spanish": "Se la acabo de dar.",
+      "french": "Je viens de la lui donner.",
       "english": "I just gave it to him.",
       "wordMeanings": {
-        "Se": "himself / herself / themselves",
-        "la": "the / it (fem)",
-        "acabo": "I just finished",
-        "de": "of / from",
-        "dar": "to give"
+        "Je": "I",
+        "viens": "come",
+        "de": "from/of",
+        "la": "it (fem)",
+        "lui": "to him",
+        "donner": "to give"
       }
     },
     {
       "id": "m23-s25",
-      "spanish": "¿Acabas de llegar?",
+      "french": "Viens-tu d'arriver ?",
       "english": "Did you just arrive?",
       "wordMeanings": {
-        "Acabas": "you just finished",
-        "de": "of / from",
-        "llegar": "to arrive"
+        "Viens-tu": "do you come",
+        "d'": "from/of",
+        "arriver": "to arrive"
       }
     },
     {
       "id": "m23-s26",
-      "spanish": "Sí, acabo de llegar.",
+      "french": "Oui, je viens d'arriver.",
       "english": "Yes, I just arrived.",
       "wordMeanings": {
-        "Sí": "yes",
-        "acabo": "I just finished",
-        "de": "of / from",
-        "llegar": "to arrive"
+        "Oui": "yes",
+        "je": "I",
+        "viens": "come",
+        "d'": "from/of",
+        "arriver": "to arrive"
       }
     },
     {
       "id": "m23-s27",
-      "spanish": "¿Acabas de comer?",
+      "french": "Viens-tu de manger ?",
       "english": "Did you just eat?",
       "wordMeanings": {
-        "Acabas": "you just finished",
-        "de": "of / from",
-        "comer": "to eat"
+        "Viens-tu": "do you come",
+        "de": "from/of",
+        "manger": "to eat"
       }
     },
     {
       "id": "m23-s28",
-      "spanish": "No, no acabo de comer.",
+      "french": "Non, je ne viens pas de manger.",
       "english": "No, I didn't just eat.",
       "wordMeanings": {
-        "No": "no / not",
-        "no": "no / not",
-        "acabo": "I just finished",
-        "de": "of / from",
-        "comer": "to eat"
+        "Non": "no",
+        "je ne viens pas": "I do not come",
+        "de": "from/of",
+        "manger": "to eat"
       }
     },
     {
       "id": "m23-s29",
-      "spanish": "Acabo de hablar con Marta.",
-      "english": "I just spoke with Marta.",
+      "french": "Je viens de parler avec Marie.",
+      "english": "I just spoke with Marie.",
       "wordMeanings": {
-        "Acabo": "I just finished",
-        "de": "of / from",
-        "hablar": "to speak",
-        "con": "with",
-        "Marta": "Marta"
+        "Je": "I",
+        "viens": "come",
+        "de": "from/of",
+        "parler": "to speak",
+        "avec": "with",
+        "Marie": "Marie"
       }
     },
     {
       "id": "m23-s30",
-      "spanish": "Acabo de decirle la verdad.",
+      "french": "Je viens de lui dire la vérité.",
       "english": "I just told him/her the truth.",
       "wordMeanings": {
-        "Acabo": "I just finished",
-        "de": "of / from",
-        "decirle": "to tell him/her",
-        "la": "the / it (fem)",
-        "verdad": "truth"
+        "Je": "I",
+        "viens": "come",
+        "de": "from/of",
+        "lui": "to him/her",
+        "dire": "to tell",
+        "la": "the (fem)",
+        "vérité": "truth"
       }
     }
   ],
-  "grammarExplanation": "'Acabar de + infinitive' expresses what you have JUST done.\n\nConjugate 'acabar' in the present:\n• Acabo de = I just...\n• Acabas de = You just...\n• Acaba de = He/She just...\n• Acabamos de = We just...\n\n• Acabo de llegar = I just arrived\n• Acabo de comer = I just ate\n\nObject pronouns can go before 'acabar' or attached to the infinitive:\n• 'Lo acabo de comprar' or 'Acabo de comprarlo'",
+  "grammarExplanation": "'Venir de + infinitive' acts exactly like Spanish 'Acabar de + infinitive' to express what you have JUST done (the recent past). Literally, it means 'I come from doing...'\n\nConjugate 'venir' in the present:\n• Je viens de = I just...\n• Tu viens de = You just...\n• Il vient de = He just...\n• On vient de = We just...\n\n• Je viens d'arriver = I just arrived (Notice the elision: d'arriver instead of de arriver)\n\nPronouns MUST go immediately BEFORE the infinitive:\n• Je viens de LE voir = I just saw him.\n• IL vient de ME LE dire = He just told it to me.",
   "vocabulary": {
-    "acabo": {
-      "mnemonic": "'A cab, oh!' — I just finished.",
-      "explanation": "'Acabo de + inf' = I have just..."
+    "venir de": {
+      "mnemonic": "Venue.",
+      "explanation": "'Venir de + infinitive' expresses the recent past (I just did)."
     },
-    "acabamos": {
-      "mnemonic": "'A cab-amos' — we just finished.",
-      "explanation": "'Acabamos de + inf' = we have just..."
+    "viens": {
+      "mnemonic": "Venue.",
+      "explanation": "First & second person of 'venir' (I come, you come)."
     },
-    "comer": {
-      "mnemonic": "'Consume-er' — to eat.",
-      "explanation": "Infinitive. -ER verb."
+    "vient": {
+      "mnemonic": "Venue.",
+      "explanation": "Third person of 'venir' (He/She comes)."
     },
-    "agua": {
-      "mnemonic": "Think 'aqua' — water!",
-      "explanation": "Fem but uses 'el agua'."
+    "venons": {
+      "mnemonic": "Venue.",
+      "explanation": "First person plural of 'venir' (Nous venons)."
     },
-    "la": {
-      "mnemonic": "'La lady' — her/it (feminine).",
-      "explanation": "Also 'the' (feminine)."
+    "arriver": {
+      "mnemonic": "Arrive.",
+      "explanation": "Infinitive: to arrive."
     },
-    "puerta": {
-      "mnemonic": "Think 'port/portal' — a door.",
-      "explanation": "Feminine noun meaning door/gate."
+    "manger": {
+      "mnemonic": "Mange/Manager.",
+      "explanation": "Infinitive: to eat."
     },
-    "ventana": {
-      "mnemonic": "'Vent-ana' — air vents in a window.",
-      "explanation": "From Latin 'ventus' (wind)."
+    "boire": {
+      "mnemonic": "Beverage.",
+      "explanation": "Infinitive: to drink."
     },
-    "comprar": {
-      "mnemonic": "'Compare & purchase' — to buy.",
-      "explanation": "Infinitive. -AR verb."
+    "voir": {
+      "mnemonic": "Voyeur/View.",
+      "explanation": "Infinitive: to see."
     },
-    "pan": {
-      "mnemonic": "Bread baked in a pan!",
-      "explanation": "Means 'bread'. Masculine noun."
+    "acheter": {
+      "mnemonic": "Checklist (Acheter it).",
+      "explanation": "Infinitive: to buy."
     },
-    "libro": {
-      "mnemonic": "Think 'library' — full of libros (books)!",
-      "explanation": "Means 'book'. Masculine noun."
+    "appeler": {
+      "mnemonic": "Appeal to/Call.",
+      "explanation": "Infinitive: to call."
     },
-    "lo": {
-      "mnemonic": "'Low him' — direct object him/it.",
-      "explanation": "Masculine direct object pronoun."
+    "donner": {
+      "mnemonic": "Donate.",
+      "explanation": "Infinitive: to give."
     },
-    "carta": {
-      "mnemonic": "Think 'card/letter'.",
-      "explanation": "Means 'letter' or 'menu'."
+    "parler": {
+      "mnemonic": "Parlor/Parley.",
+      "explanation": "Infinitive: to speak."
     },
-    "se": {
-      "mnemonic": "Think 'self' — reflexive pronoun.",
-      "explanation": "Replaces le/les before lo/la/los/las."
+    "dire": {
+      "mnemonic": "Dictate.",
+      "explanation": "Infinitive: to say/tell."
     },
-    "hablar": {
-      "mnemonic": "'Hobble-ar' — to speak.",
-      "explanation": "Infinitive. -AR verb."
+    "eau": {
+      "mnemonic": "Eau de toilette.",
+      "explanation": "Means 'water' (fem)."
+    },
+    "livre": {
+      "mnemonic": "Library.",
+      "explanation": "Means 'book' (masc)."
+    },
+    "lettre": {
+      "mnemonic": "Letter.",
+      "explanation": "Means 'letter' (fem)."
+    },
+    "vérité": {
+      "mnemonic": "Verity/Verify.",
+      "explanation": "Means 'truth' (fem)."
+    },
+    "on": {
+      "mnemonic": "One.",
+      "explanation": "Informal pronoun means 'we' but conjugated like 'il'."
+    },
+    "lui": {
+      "mnemonic": "Louis -> to him/to her.",
+      "explanation": "Indirect object pronoun (to him / to her)."
+    },
+    "de l'": {
+      "mnemonic": "Some of.",
+      "explanation": "Means 'some' before a singular vowel sound (de l'eau)."
+    },
+    "du": {
+      "mnemonic": "Some (de + le).",
+      "explanation": "Means 'some' before a masculine word (du pain)."
     }
   }
 }
